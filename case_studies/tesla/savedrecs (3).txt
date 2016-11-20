@@ -1,0 +1,2411 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT B
+AU Kim, TJ
+   Youn, BD
+   Kim, HJ
+AF Kim, Tae Jin
+   Youn, Byeng D.
+   Kim, Hyun Jae
+GP ASME
+TI ONLINE-APPLICABLE TEMPERATURE PREDICTION MODEL FOR EV BATTERY PACK
+   THERMAL MANAGEMENT
+SO PROCEEDINGS OF THE ASME INTERNATIONAL DESIGN ENGINEERING TECHNICAL
+   CONFERENCES AND COMPUTERS AND INFORMATION IN ENGINEERING CONFERENCE,
+   2013, VOL 8
+LA English
+DT Proceedings Paper
+CT ASME International Design Engineering Technical Conferences / Computers
+   and Information in Engineering Conference (IDETC/CIE)
+CY AUG 04-07, 2013
+CL Portland, OR
+SP ASME, Design Engn Div, ASME, Comp & Informat Engn Div
+ID DESIGN
+AB Lithium-ion (Li-ion) batteries may fail through thermal runaway caused by increased temperature. It is thus important to monitor battery temperature for prevention of the battery failure. Currently, thermal monitoring of the battery for electric vehicles (EVs) is being conducted by multiple thermostats. As the size of battery system increases and the cells are closely packed to exploit high power density, the number of thermostats is also increased to monitor the battery system. However, this increased number of sensors enhances the probability of the sensor malfunction, which prevents robust thermal monitoring, and causes increased maintenance cost and customer complaints. This paper thus proposes an online applicable temperature prediction model for EV battery pack while minimizing the number of sensors and keeping the monitoring capability. This was possible with three ideas: (a) devising battery thermal characterization test under various operating conditions, (b) development of the online-applicable temperature prediction model using artificial neural network (ANN), and (c) validation of the temperature prediction model. The proposed temperature prediction model was demonstrated with the EV battery pack that consists of twelve battery modules.
+C1 [Kim, Tae Jin; Youn, Byeng D.; Kim, Hyun Jae] Seoul Natl Univ, Seoul, South Korea.
+RP Youn, BD (reprint author), Seoul Natl Univ, Seoul, South Korea.
+EM godori16@snu.ac.kr; bdyoun@snu.ac.kr
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC MECHANICAL ENGINEERS
+PI NEW YORK
+PA THREE PARK AVENUE, NEW YORK, NY 10016-5990 USA
+BN 978-0-7918-5599-7
+PY 2014
+AR UNSP V008T12A008
+PG 6
+WC Engineering, Mechanical
+SC Engineering
+GA BD6ZW
+UT WOS:000362796100008
+ER
+
+PT S
+AU Murashko, K
+   Wu, HP
+   Pyrhonen, J
+   Laurila, L
+AF Murashko, Kirill
+   Wu, Huapeng
+   Pyrhonen, Juha
+   Laurila, Lasse
+GP IEEE
+TI Modelling of the Battery Pack Thermal Management System for Hybrid
+   Electric Vehicles
+SO 2014 16TH EUROPEAN CONFERENCE ON POWER ELECTRONICS AND APPLICATIONS
+   (EPE'14-ECCE EUROPE)
+SE European Conference on Power Electronics and Applications
+LA English
+DT Proceedings Paper
+CT 16th European Conference on Power Electronics and Applications (EPE-ECCE
+   Europe)
+CY AUG 26-28, 2014
+CL Lappeenranta, FINLAND
+DE Batteries; Thermal design; Modelling; Hybrid Electric Vehicle; Adaptive
+   control
+ID LITHIUM ION BATTERY; TITANATE BATTERIES; TEMPERATURE; UNIFORMITY; DESIGN
+AB The Lithium-ion batteries are widely used as energy sources in different hybrid systems, however, the operation characteristics of the battery in such systems are strongly dependent on the operation temperature and therefore, with purpose to improve these characteristics a good thermal control system should be utilized. This paper describes the modelling thermal management system for the battery pack in Hybrid Electric Vehicles (HEVs), which gives opportunity to control the operation temperature of the pack for different load cycles and ambient temperatures. The thermal model of the battery pack is created by using an equivalent electrical circuit with lumped parameters. The thermal control system is created as a combination of the cooling system of the internal combustion engine and the battery pack thermal control system. The heat transfer between these systems is performed by a plate heat exchanger where the inlet flow is controlled by a three-way valve with an electric actuator. Artificial intelligent algorithms together with estimator are applied in control system, with purpose to obtain suitable control properties.
+C1 [Murashko, Kirill; Wu, Huapeng; Pyrhonen, Juha; Laurila, Lasse] Lappeenranta Univ Technol, Lappeenranta, Finland.
+RP Murashko, K (reprint author), Lappeenranta Univ Technol, Skinnarilankatu 34, Lappeenranta, Finland.
+EM kirill.murashko@lut.fi
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2325-0313
+J9 EUR CONF POW ELECTR
+PY 2014
+PG 10
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA BD5IL
+UT WOS:000361460001026
+ER
+
+PT B
+AU Lin, XF
+   Stefanopoulou, AG
+   Siegel, JB
+   Mohan, S
+AF Lin, Xinfan
+   Stefanopoulou, Anna G.
+   Siegel, Jason B.
+   Mohan, Shankar
+GP ASME
+TI TEMPERATURE ESTIMATION IN A BATTERY STRING UNDER FRUGAL SENSOR
+   ALLOCATION
+SO 7TH ANNUAL DYNAMIC SYSTEMS AND CONTROL CONFERENCE, 2014, VOL 1
+LA English
+DT Proceedings Paper
+CT ASME 7th Annual Dynamic Systems and Control Conference
+CY OCT 22-24, 2014
+CL San Antonio, TX
+SP ASME, Dynam Syst & Control Div
+ID LI-ION CELLS
+AB In electric vehicle applications, batteries are usually packed in modules to satisfy the energy and power demand. To facilitate the thermal management of a battery pack, a model-based observer could be designed to estimate the temperature distribution across the pack. Nevertheless, cost target in industry practice drives the number of temperature sensors in a pack to a number that is not sufficient to yield observability of all the temperature states. This paper focuses on formulating the observer design and sensor deployment strategy that could achieve the optimal observer performance under the frugal sensor allocation. The considered observer performance is the estimation errors induced by model and sensor uncertainty. The observer aims at minimizing the worst-case estimation errors under bounded model and sensor uncertainty.
+C1 [Lin, Xinfan; Stefanopoulou, Anna G.; Siegel, Jason B.] Univ Michigan, Dept Mech Engn, Ann Arbor, MI 48109 USA.
+   [Mohan, Shankar] Univ Michigan, Dept Elect Engn & Comp Sci, Ann Arbor, MI 48109 USA.
+RP Lin, XF (reprint author), Univ Michigan, Dept Mech Engn, Ann Arbor, MI 48109 USA.
+EM xflin@umich.edu
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC MECHANICAL ENGINEERS
+PI NEW YORK
+PA THREE PARK AVENUE, NEW YORK, NY 10016-5990 USA
+BN 978-0-7918-4618-6
+PY 2014
+AR V001T19A006
+PG 8
+WC Automation & Control Systems; Engineering, Mechanical; Operations
+   Research & Management Science
+SC Automation & Control Systems; Engineering; Operations Research &
+   Management Science
+GA BD4XT
+UT WOS:000361166500093
+ER
+
+PT B
+AU Fan, GD
+   Pan, K
+   Bartlett, A
+   Canova, M
+   Rizzoni, G
+AF Fan, Guodong
+   Pan, Ke
+   Bartlett, Alexander
+   Canova, Marcello
+   Rizzoni, Giorgio
+GP ASME
+TI ELECTROCHEMICAL-THERMAL MODELING OF LI-ION BATTERY PACKS
+SO 7TH ANNUAL DYNAMIC SYSTEMS AND CONTROL CONFERENCE, 2014, VOL 2
+LA English
+DT Proceedings Paper
+CT ASME 7th Annual Dynamic Systems and Control Conference
+CY OCT 22-24, 2014
+CL San Antonio, TX
+SP ASME, Dynam Syst & Control Div
+ID LITHIUM-ION; CELLS; SYSTEMS; DESIGN
+AB Lithium-ion batteries for automotive applications are subject to aging with usage and environmental conditions, leading to the reduction of the performance, reliability and life span of the battery pack. To this extent, the ability of simulating the dynamic behavior of a battery pack using high-fidelity electrochemical and thermal models could provide very useful information for the design of Battery Management Systems (BMS). For instance such models could be used to predict the impact of cell-to-cell variations in the electrical and thermal properties on the overall performance of the pack, as well as on the propagation of degradation from one cell to another.
+   This paper presents a method for fast simulation of an integrated electrochemical-thermal battery pack model based on first-principles. First, a coupled electrochemical and thermal model is developed for a single cell, based upon the data of a composite LiNi1/3Mn1/3Co1/3O2 - LiMn2O4 (LMO-NMC) Li-ion battery, and validated on experimental data. Then, the cell model is extended to a reconfigurable and parametric model of a complete battery pack. The proposed modeling approach is completely general and applicable to characterize any pack topology, varying electrical connections and thermal boundary conditions. Finally, simulation results are shown to illustrate the effects of parameter variability on the pack performance.
+C1 [Fan, Guodong; Pan, Ke; Bartlett, Alexander; Canova, Marcello; Rizzoni, Giorgio] Ohio State Univ, Dept Mech & Aerosp Engn, Ctr Automot Res, Columbus, OH 43212 USA.
+RP Fan, GD (reprint author), Ohio State Univ, Dept Mech & Aerosp Engn, Ctr Automot Res, Columbus, OH 43212 USA.
+EM fan.267@osu.edu; pan.233@osu.edu; bartlett.137@osu.edu;
+   canova.1@osu.edu; rizzoni.1@osu.edu
+RI Rizzoni, Giorgio/D-2961-2016
+OI Rizzoni, Giorgio/0000-0002-8397-7241
+NR 20
+TC 0
+Z9 0
+U1 1
+U2 5
+PU AMER SOC MECHANICAL ENGINEERS
+PI NEW YORK
+PA THREE PARK AVENUE, NEW YORK, NY 10016-5990 USA
+BN 978-0-7918-4619-3
+PY 2014
+AR V002T23A004
+PG 8
+WC Automation & Control Systems; Engineering, Mechanical; Operations
+   Research & Management Science
+SC Automation & Control Systems; Engineering; Operations Research &
+   Management Science
+GA BD4XU
+UT WOS:000361166800037
+ER
+
+PT B
+AU Coman, PT
+   Veje, CT
+AF Coman, Paul T.
+   Veje, Christian T.
+GP ASME
+TI MODELING TEMPERATURE DEVELOPMENT OF LI-ION BATTERY PACKS USING PHASE
+   CHANGE MATERIALS (PCM) AND FLUID FLOW
+SO PROCEEDINGS OF THE ASME 12TH BIENNIAL CONFERENCE ON ENGINEERING SYSTEMS
+   DESIGN AND ANALYSIS - 2014, VOL 3
+LA English
+DT Proceedings Paper
+CT 12th ASME Biennial Conference on Engineering Systems Design and Analysis
+   (ESDA2014)
+CY JUN 25-27, 2014
+CL Copenhagen, DENMARK
+SP ASME
+ID POWER; MANAGEMENT; DISCHARGE; CELLS
+AB This paper presents a dynamic model for simulating the heat generation and the impact of Phase Change Materials (PCMs) on the maximum temperature in LiFePO4 battery cells. The model is constructed by coupling a one-dimensional electrochemical model with a two-dimensional thermal model and fluid flow model in a battery pack array. Two different realizations are analysed and compared, one when the heat equation is considered for the PCM (no-flow case) and another one when fluid flow is considered. The results show that by using PCMs, the maximum temperature drops considerably for both cases. The temperature differences between the two cases is found to be insignificant, with the observation that by adding fluid flow, the phases mixture is smoother. Moreover, by using fluid flow, the calculation time increases excessively due to the high non-linearity.
+C1 [Coman, Paul T.] Univ Southern Denmark, Mads Clausen Inst, DK-6400 Sonderborg, Denmark.
+   [Veje, Christian T.] Univ Southern Denmark, Dept Technol & Innovat, DK-5230 Odense, Denmark.
+RP Coman, PT (reprint author), Univ Southern Denmark, Mads Clausen Inst, DK-6400 Sonderborg, Denmark.
+EM paulcoman@mci.sdu.dk; veje@iti.sdu.dk
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER SOC MECHANICAL ENGINEERS
+PI NEW YORK
+PA THREE PARK AVENUE, NEW YORK, NY 10016-5990 USA
+BN 978-0-7918-4585-1
+PY 2014
+AR V003T12A002
+PG 8
+WC Engineering, Mechanical
+SC Engineering
+GA BD5GM
+UT WOS:000361407000022
+ER
+
+PT B
+AU Barsotti, DL
+   Hyatt, WT
+   Compere, MD
+   Boetcher, SKS
+AF Barsotti, Domenic L.
+   Hyatt, W. Townsend
+   Compere, Marc D.
+   Boetcher, Sandra K. S.
+GP ASME
+TI BATTERY THERMAL MANAGEMENT FOR HYBRID ELECTRIC VEHICLES USING A
+   PHASE-CHANGE MATERIAL COLD PLATE
+SO PROCEEDINGS OF THE ASME SUMMER HEAT TRANSFER CONFERENCE - 2013, VOL 2
+LA English
+DT Proceedings Paper
+CT ASME Summer Heat Transfer Conference (SHTC)
+CY JUL 14-19, 2013
+CL Univ Minnesota, Minneapolis, MN
+SP ASME, Heat Transfer Div
+HO Univ Minnesota
+DE hybrid electric vehicles; battery; thermal management system;
+   phase-change material; cold plate; CFD
+ID LITHIUM-ION BATTERY; SYSTEM; PACKS; SIMULATION
+AB A novel liquid-cooled (50-50 ethylene glycol-water mixture) composite cold plate made of phase-change material (PCM) is proposed as a thermal management solution for energy storage systems (ESS) in hybrid-electric vehicles (HEV). The composite cold plate is lighter than a traditional aluminum cold plate and able to absorb high heat flux spikes. Furthermore, the pump operation time is reduced. The goal of the present study is to evaluate the effectiveness of a preliminary PCM cold plate subjected to constant heat flux. The inlet temperature of the working fluid is parametrically varied and results include PCM temperatures and pump operation times.
+C1 [Barsotti, Domenic L.; Hyatt, W. Townsend; Compere, Marc D.; Boetcher, Sandra K. S.] Embry Riddle Aeronaut Univ, Mech Engn, Daytona Beach, FL 32114 USA.
+RP Boetcher, SKS (reprint author), Embry Riddle Aeronaut Univ, Mech Engn, Daytona Beach, FL 32114 USA.
+EM sandra.boetcher@erau.edu
+NR 10
+TC 0
+Z9 0
+U1 1
+U2 2
+PU AMER SOC MECHANICAL ENGINEERS
+PI NEW YORK
+PA THREE PARK AVENUE, NEW YORK, NY 10016-5990 USA
+BN 978-0-7918-5548-5
+PY 2014
+AR V002T07A033
+PG 7
+WC Thermodynamics; Engineering, Mechanical
+SC Thermodynamics; Engineering
+GA BD4AS
+UT WOS:000360415000074
+ER
+
+PT B
+AU Smith, J
+   Bidwell, B
+   Beitelmal, A
+   Hight, T
+AF Smith, Jackson
+   Bidwell, Bryan
+   Beitelmal, Abdlmonem
+   Hight, Timothy
+GP ASME
+TI FORMULA ELECTRIC SYSTEM: THERMAL MANAGEMENT DESIGN
+SO PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS
+   AND EXPOSITION, 2013, VOL 6B
+LA English
+DT Proceedings Paper
+CT ASME International Mechanical Engineering Congress and Exposition
+   (IMECE2013)
+CY NOV 15-21, 2013
+CL San Diego, CA
+SP ASME
+AB This paper presents the thermal management analysis performed on lithium polymer cells designed for High Performance Electric Vehicle (HPEV) "applications. The objective was to choose an optimum temperature range for the cells to operate at, determine the thermal response of the cells under their full spectrum of discharge capabilities, calculate the necessary convective heat transfer necessary to maintain the cells within said temperature range, then to create a thermal management solution to incorporate into a battery pack composed of 288 cells. Thermal testing and modeling on individual lithium polymer cells determined the thermal response and amount of convection cooling required for the cells over their intended duty cycles. A convective heat transfer coefficient of 50 W/m(2)K was determined to be sufficient to prevent the proposed cell from exceeding the optimum temperature range during its most strenuous duty cycle. The proposed design scheme utilized a fan to force air circulation up along the side of modules where each module consists of four cells connected in series. A proposed feedback control loop system allowed for active control of the battery cell's temperature resulting in an increase in efficiency and overall performance for HPEV applications.
+C1 [Smith, Jackson; Bidwell, Bryan; Beitelmal, Abdlmonem; Hight, Timothy] Santa Clara Univ, Dept Mech Engn, Santa Clara, CA 95053 USA.
+RP Smith, J (reprint author), Santa Clara Univ, Dept Mech Engn, Santa Clara, CA 95053 USA.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC MECHANICAL ENGINEERS
+PI NEW YORK
+PA THREE PARK AVENUE, NEW YORK, NY 10016-5990 USA
+BN 978-0-7918-5629-1
+PY 2014
+AR V06BT07A037
+PG 12
+WC Energy & Fuels; Engineering, Mechanical; Nuclear Science & Technology
+SC Energy & Fuels; Engineering; Nuclear Science & Technology
+GA BD3NT
+UT WOS:000359955500036
+ER
+
+PT S
+AU Shin, D
+   Poncino, M
+   Macii, E
+AF Shin, Donghwa
+   Poncino, Massimo
+   Macii, Enrico
+GP IEEE
+TI Thermal Management of Batteries Using a Hybrid Supercapacitor
+   Architecture
+SO 2014 DESIGN, AUTOMATION AND TEST IN EUROPE CONFERENCE AND EXHIBITION
+   (DATE)
+SE Design Automation and Test in Europe Conference and Expo
+LA English
+DT Proceedings Paper
+CT Design, Automation and Test in Europe Conference and Exhibition (DATE)
+CY MAR 24-28, 2014
+CL Dresden, GERMANY
+SP European Design & Automat Assoc, EDA Consortium, IEEE Council Elect Design Automat, ECSI, ACM Special Interest Grp Design Automat, Russian Acad Sci, IEEE Comp Soc Test Technol Tech Council, IEEE Solid State Circuits Soc, Int Federat Informat Proc
+AB Thermal analysis and management of batteries have been an important research issue for battery-operated systems such as electric vehicles and mobile devices. Nowadays, battery packs are designed considering heat dissipation, and external cooling devices such as a cooling fan are also widely used to enforce the reliability and extend the lifetime of a battery. This type of approaches that target the enhancement of the cooling efficiency via the reduction of the thermal resistance cannot achieve an immediate temperature drop to avoid a thermal emergency situation. Approaches based on removing the heat from the heat sources via idle period insertion (similar to what is done for silicon devices) would allow faster thermal response; however it is not obvious how to implement these schemes in the context of batteries.
+   In this paper, we propose the use of a simple parallel batterysupercapacitor hybrid architecture with a dual-mode discharging strategy that can provide immediate temperature management, in which the supercapacitor is used as an energy buffer during the idle periods of the battery. Simulation results shows that the proposed method can keep the battery temperature within the safe range without external cooling devices while exploiting the advantage of the battery-supercapacitor parallel connection.
+C1 [Shin, Donghwa; Poncino, Massimo; Macii, Enrico] Politecn Torino, Dipartimento Automat & Informat, I-10129 Turin, Italy.
+RP Shin, D (reprint author), Politecn Torino, Dipartimento Automat & Informat, Cso Duca degli Abruzzi 24, I-10129 Turin, Italy.
+EM donghwa.shin@polito.it; massimo.poncino@polito.it;
+   enrico.macii@polito.it
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1530-1591
+BN 978-3-9815370-2-4
+J9 DES AUT TEST EUROPE
+PY 2014
+PG 6
+WC Automation & Control Systems; Engineering, Industrial; Engineering,
+   Electrical & Electronic
+SC Automation & Control Systems; Engineering
+GA BC7KF
+UT WOS:000354965500331
+ER
+
+PT S
+AU Ostadrahimi, A
+   Radan, A
+AF Ostadrahimi, Amir
+   Radan, Ahmad
+GP IEEE
+TI Utilization of Interleaved Converter to Improve Battery Performance in
+   Electric and Electrical Hybrid Vehicles
+SO 2014 5TH POWER ELECTRONICS, DRIVE SYSTEMS AND TECHNOLOGIES CONFERENCE
+   (PEDSTC)
+SE Power Electronics Drive Systems and Technologies Conference
+LA English
+DT Proceedings Paper
+CT 5th Annual International Power Electronics, Drive Systems & Technologies
+   Conference (PEDSTC)
+CY FEB 05-06, 2014
+CL Tehran, IRAN
+SP IEEE, IEEE Iran Sect, ICE, Power Elect Soc Iran, Iranian Assoc Elect Elect Engineers, JDEVS
+DE Interleaved; Bidirectional; Converte; Hybrid Car
+AB Battery Pack life time depending on thermal management is a crucial issue in Electric and Electric Hybrid vehicles. Excessive thermal losses caused by the battery current ripples can be well avoided by introducing suitable topology. This paper proposes utilization of interleaved DC-DC converters to reduce the battery pack current ripples. Interleaved converters have some advantages such as low current ripple, low losses and high reliability. This paper considers Ni-MH batteries used in Toyota Prius 2010 and takes the high frequency model of Ni-MH battery into account to show the effect of ripple current on battery. While design equations and considerations are explored, conventional converter and interleaved DC-DC converter are modeled and simulated to study and compare the battery current ripples in boost and buck modes of operation. It is shown that current ripples of interleaved converter are much lower resulting in extension of battery pack life time.
+C1 [Ostadrahimi, Amir; Radan, Ahmad] KN Toosi Univ Technol, Dept Elect Engn, Tehran, Iran.
+RP Ostadrahimi, A (reprint author), KN Toosi Univ Technol, Dept Elect Engn, Tehran, Iran.
+EM amir.ostadrahimi@gmail.com; radan@eetd.kntu.ac.ir
+NR 15
+TC 3
+Z9 3
+U1 0
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2377-6773
+BN 978-1-4799-3479-9
+J9 POW ELECTR DRIV SYST
+PY 2014
+BP 624
+EP 628
+PG 5
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA BC6AF
+UT WOS:000353689000105
+ER
+
+PT J
+AU Deng, CH
+   Yao, ZH
+   Yu, XD
+   Yuan, CR
+   Li, ZH
+   Su, LK
+AF Deng Chenghao
+   Yao Zhenhui
+   Yu Xiaodong
+   Yuan Changrong
+   Li Zonghua
+   Su Linke
+GP IEEE
+TI Design and Simulation of Thermal Management Structure for a HEV Li-ion
+   Battery Pack
+SO 2014 IEEE TRANSPORTATION ELECTRIFICATION CONFERENCE AND EXPO (ITEC)
+   ASIA-PACIFIC 2014
+LA English
+DT Proceedings Paper
+CT IEEE Transportation Electrification Conference and Expo (ITEC
+   Asia-Pacific)
+CY AUG 31-SEP 03, 2014
+CL Beijing, PEOPLES R CHINA
+SP IEEE, IEEE Ind Appl Soc, IEEE Power Elect Soc, IEEE Power & Energy Soc, Beijing Inst Technol, Inst Elect Engn, China Electrotechn Soc, Beijing Elect Vehicle Co Ltd, Yutong Grp Co Ltd
+AB In hybrid electric vehicle (HEV) battery, thermal management is critical to maintain the battery safety and a longer useful life. A novel thermal management structure (TMS) for a HEV lithium ion (Li-ion) battery pack is designed in this research. First, two air cooling structures: series thermal management structure (STMS) and parallel thermal management structure (PTMS) are proposed and optimized by computational fluid dynamics (CFD) flow field analysis. CFD temperature field analysis shows that STMS's performance is interior to the PTMS, with a larger internal temperature rise and a more significant internal temperature difference. Based on the CFD analysis results, PTMS is chosen to be applied in this battery pack design. Further structural analysis of the battery pack with PTMS confirms the reliability of modal and vibration performances. After Computer Aided Engineering (CAE) simulation, a prototype pack of the battery is built. The thermal management performance of the battery pack is tested on a test bench in a thermal chamber. The experimental results verify the accuracy of the CFD analysis results and prove the effectiveness of the parallel structure in temperature control.
+C1 [Deng Chenghao; Yao Zhenhui; Yu Xiaodong; Yuan Changrong; Li Zonghua; Su Linke] Chongqing ChangAn New Energy Automobile Co LTD, Chongqing, Peoples R China.
+RP Deng, CH (reprint author), Chongqing ChangAn New Energy Automobile Co LTD, Chongqing, Peoples R China.
+EM yaozh@changan.com.cn
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+PY 2014
+PG 4
+WC Engineering, Electrical & Electronic; Transportation Science &
+   Technology
+SC Engineering; Transportation
+GA BC0WE
+UT WOS:000349676803010
+ER
+
+PT S
+AU Wang, B
+   Nie, YM
+   Yin, ZJ
+   He, ZT
+AF Wang, Bo
+   Nie, Yu-ming
+   Yin, Zhan-ji
+   He, Zhi-tong
+BE Xu, XD
+   Li, B
+   Lu, QM
+   Yan, XY
+   Li, JL
+TI Study on temperature uniformity and rising rate of high-power
+   lithium-ion battery pack
+SO MECHATRONICS ENGINEERING, COMPUTING AND INFORMATION TECHNOLOGY
+SE Applied Mechanics and Materials
+LA English
+DT Proceedings Paper
+CT International Conference on Mechatronics Engineering and Computing
+   Technology (ICMECT)
+CY APR 09-10, 2014
+CL Shanghai, PEOPLES R CHINA
+DE high-power lithium-ion battery pack; thermal management; temperature
+   uniformity; temperature rising rate
+AB According to the operating characteristics of high-power battery pack in practical application, the effects of four factors, which include operating load, state of charge(SOC), ambient temperature and operating temperature, on the temperature uniformity and rising rate of battery pack under natural convection were studied based on Arbin test bench. The results indicate that: the operating load and SOC of battery pack doesn't affect its temperature uniformity, which was deteriorated as the increasing of operating temperature of battery pack, or improved as the increasing of ambient temperature when the other factor is kept constant. The increment of operating load or ambient temperature could result in a higher temperature rising rate, while the increasing of SOC or operating temperature could lead to a lower temperature rising rate, when the other three factors are kept constant. When the operating temperature or temperature differences achieved threshold value, thermal management system should choose proper extent of forced flow and flow field in accordance with the battery pack's current operating conditions, in order to ensure the economy of the thermal management system.
+C1 [Wang, Bo; Nie, Yu-ming; Yin, Zhan-ji; He, Zhi-tong] Highway Minist Transport, Res Inst, Minist Transport,PRC, Key Lab Operat Safety Technol Transport Vehicles, Beijing 100088, Haidian Distric, Peoples R China.
+RP Wang, B (reprint author), Highway Minist Transport, Res Inst, Minist Transport,PRC, Key Lab Operat Safety Technol Transport Vehicles, Courtyard 8,Xitucheng Rd, Beijing 100088, Haidian Distric, Peoples R China.
+EM b.wang@rioh.cn; ym.nie@rioh.cn; pgss111@163.com; zt.he@rioh.cn
+NR 6
+TC 0
+Z9 0
+U1 1
+U2 6
+PU TRANS TECH PUBLICATIONS LTD
+PI STAFA-ZURICH
+PA LAUBLSRUTISTR 24, CH-8717 STAFA-ZURICH, SWITZERLAND
+SN 1660-9336
+BN 978-3-03835-115-3
+J9 APPL MECH MATER
+PY 2014
+VL 556-562
+BP 265
+EP 269
+DI 10.4028/www.scientific.net/AMM.556-562.265
+PG 5
+WC Engineering, Electrical & Electronic; Engineering, Mechanical; Materials
+   Science, Multidisciplinary; Mechanics
+SC Engineering; Materials Science; Mechanics
+GA BC0RU
+UT WOS:000349448500062
+ER
+
+PT S
+AU Liu, ZT
+   Du, JN
+   Stimming, U
+   Wang, YY
+AF Liu, Zhitao
+   Du, Jiani
+   Stimming, Ulrich
+   Wang, Youyi
+GP IEEE
+TI Adaptive Observer Design for the Cell Temperature Estimation in Battery
+   Packs in Electric Vehicles
+SO PROCEEDINGS OF THE 2014 9TH IEEE CONFERENCE ON INDUSTRIAL ELECTRONICS
+   AND APPLICATIONS (ICIEA)
+SE IEEE Conference on Industrial Electronics and Applications
+LA English
+DT Proceedings Paper
+CT 9th IEEE Conference on Industrial Electronics and Applications (ICIEA)
+CY JUN 09-11, 2014
+CL Hangzhou, PEOPLES R CHINA
+SP IEEE, Zhengjiang Univ Technol, IEEE Ind Elect Chapter Singapore Sect, Zhejiang Key Lab Signal Proc, Zhejiang Inst Signal Proc, IEEE Ind Elect Soc, Hangzhou Tourism Promot Ctr, Hangzhou Tourism Commiss, Hangzhou M I C E Assoc, Tourist Board of Zhejiang Prov
+ID AGING MECHANISMS; ION BATTERIES
+AB In this paper, an adaptive observer is applied to estimate the internal temperature of a lithium-ion cell in a battery pack. The cell's internal temperature is an important factor for its degradation, but it cannot be measured directly. Based on the measured surface temperature and a lumped thermal model for the battery pack, an adaptive observer is designed to estimate the internal temperature and internal resistance of a cell in battery packs at the same time. The capability of the adaptive observer could be beneficial for thermal management and battery health monitoring. Finally, simulation results show the good performance of the adaptive observer.
+C1 [Liu, Zhitao; Stimming, Ulrich] TUM CREATE, Singapore, Singapore.
+RP Liu, ZT (reprint author), TUM CREATE, 1 CREATE Way,10-02 CREATE Tower, Singapore, Singapore.
+EM zhitao.liu@tum-create.edu.sg; JDU2@e.ntu.edu.sg;
+   ulrich.stimming@tum-create.edu.sg; eyywang@ntu.edu.sg
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2156-2318
+BN 978-1-4799-4315-9
+J9 C IND ELECT APPL
+PY 2014
+BP 348
+EP 353
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BC0UT
+UT WOS:000349638300066
+ER
+
+PT J
+AU Liu, Y
+   Yang, SC
+   Guo, B
+   Deng, C
+AF Liu, Yong
+   Yang, Shichun
+   Guo, Bin
+   Deng, Cheng
+TI Numerical Analysis and Design of Thermal Management System for Lithium
+   Ion Battery Pack Using Thermoelectric Coolers
+SO ADVANCES IN MECHANICAL ENGINEERING
+LA English
+DT Article
+ID PHASE-CHANGE MATERIAL; TEMPERATURE DISTRIBUTION; MODEL
+AB A new design of thermal management system for lithium ion battery pack using thermoelectric coolers (TECs) is proposed. Firstly, the 3D thermal model of a high power lithium ion battery and the TEC is elaborated. Then the model is calibrated with experiment results. Finally, the calibrated model is applied to investigate the performance of a thermal management system for a lithium ion battery pack. The results show that battery thermal management system (BTMS) with TEC can cool the battery in very high ambient temperature. It can also keep a more uniform temperature distribution in the battery pack than common BTMS, which will extend the life of the battery pack and may save the expensive battery equalization system.
+C1 [Liu, Yong] Beihang Univ, Sch Elect & Informat Engn, Beijing 100191, Peoples R China.
+   [Yang, Shichun; Deng, Cheng] Beihang Univ, Sch Transportat Sci & Engn, Beijing 100191, Peoples R China.
+   [Guo, Bin] China Automot Technol & Res Ctr, Tianjin 300300, Peoples R China.
+RP Deng, C (reprint author), Beihang Univ, Sch Transportat Sci & Engn, 37 Xueyuan Rd, Beijing 100191, Peoples R China.
+EM dengchengbh@163.com
+NR 14
+TC 0
+Z9 0
+U1 7
+U2 43
+PU HINDAWI PUBLISHING CORPORATION
+PI NEW YORK
+PA 410 PARK AVENUE, 15TH FLOOR, #287 PMB, NEW YORK, NY 10022 USA
+SN 1687-8132
+EI 1687-8140
+J9 ADV MECH ENG
+JI Adv. Mech. Eng.
+PY 2014
+AR 852712
+DI 10.1155/2014/852712
+PG 8
+WC Thermodynamics; Engineering, Mechanical
+SC Thermodynamics; Engineering
+GA AQ6QC
+UT WOS:000342937900001
+ER
+
+PT S
+AU Chen, DF
+   Jiang, JC
+   Duan, YJ
+   Wang, ZG
+   Wen, F
+AF Chen, Dafen
+   Jiang, Jiuchun
+   Duan, Yaojuan
+   Wang, Zhanguo
+   Wen, Feng
+BE Jia, L
+   Liu, Z
+   Qin, Y
+   Zhao, M
+   Diao, L
+TI Fluid and Thermal Analysis of Power Li-Ion Battery Pack and Experimental
+   Verification
+SO PROCEEDINGS OF THE 2013 INTERNATIONAL CONFERENCE ON ELECTRICAL AND
+   INFORMATION TECHNOLOGIES FOR RAIL TRANSPORTATION (EITRT2013), VOL II
+SE Lecture Notes in Electrical Engineering
+LA English
+DT Proceedings Paper
+CT International Conference on Electrical and Information Technologies for
+   Rail Transportation (EITRT)
+CY NOV 07-10, 2013
+CL China Beijing Jiaotong Univ, China Electrotechn Soc, Elect Equipment
+   Techn, Changchun, PEOPLES R CHINA
+SP CNR Changchun Railway Vehicles Co Ltd, Beijing Qiansiyu Elect Ltd, Univ Birmingham, Springer Verlag
+HO China Beijing Jiaotong Univ, China Electrotechn Soc, Elect Equipment Techn
+DE Power li-ion battery pack; Thermal analysis; Fluid flow analysis
+AB Fluid flow and heat transfer of a power li-ion battery pack which adopts the air cooling method with an electric fan are predicted using a computational fluid dynamics (CFD) software. The airflow rate distributions at coolant passages are analyzed quantificationally, which will affect temperature distribution of the battery pack. Temperatures at the center of battery surface that are located in the middle of each battery modules are monitored using thermal couples under the same driving cycle as simulation. The simulation results are close to the experimental ones, which indicate that the calculated results can be used as the basis of developing thermal management strategy of battery pack and optimization scheme of fluid flow.
+C1 [Chen, Dafen; Jiang, Jiuchun; Duan, Yaojuan; Wang, Zhanguo] Beijing Jiaotong Univ, Natl Act Distribut Network Technol Res Ctr NANTEC, Beijing, Peoples R China.
+RP Chen, DF (reprint author), Beijing Jiaotong Univ, Natl Act Distribut Network Technol Res Ctr NANTEC, Beijing, Peoples R China.
+EM 11117360@bjtu.edu.cn
+RI 姜, 久春/B-8896-2015
+OI 姜, 久春/0000-0003-4682-9191
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013, UNITED STATES
+SN 1876-1100
+BN 978-3-642-53751-6; 978-3-642-53750-9
+J9 LECT NOTES ELECTR EN
+PY 2014
+VL 288
+BP 161
+EP 170
+DI 10.1007/978-3-642-53751-6_16
+PG 10
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Electrical & Electronic; Transportation Science & Technology
+SC Computer Science; Engineering; Transportation
+GA BB3BG
+UT WOS:000342629400016
+ER
+
+PT S
+AU Herrmann, M
+AF Herrmann, Matthias
+BE Meyer, DC
+   Leisegang, T
+TI Packaging - Materials Review
+SO REVIEW ON ELECTROCHEMICAL STORAGE MATERIALS AND TECHNOLOGY
+SE AIP Conference Proceedings
+LA English
+DT Proceedings Paper
+CT 1st International Freiberg Conference on Electrochemical Storage
+   Materials
+CY JUN 03-04, 2013
+CL TU Bergakademie Freiberg, Freiberg, GERMANY
+SP Fed Minist Educ & Res, State Minist Sci & Arts, Fraunhofer Technol Ctr Semicond Mat Freiberg, Kurt Schwabe Inst Measuring & Sensor Technol Meinsberg, Tech Univ Bergakademie Freiberg
+HO TU Bergakademie Freiberg
+DE Secondary Batteries; Packaging; Alkaline; Lithium-Ion; Lead-Acid
+AB Nowadays, a large number of different electrochemical energy storage systems are known. In the last two decades the development was strongly driven by a continuously growing market of portable electronic devices (e.g. cellular phones, lap top computers, camcorders, cameras, tools). Current intensive efforts are under way to develop systems for automotive industry within the framework of electrically propelled mobility (e.g. hybrid electric vehicles, plug-in hybrid electric vehicles, full electric vehicles) and also for the energy storage market (e.g. electrical grid stability, renewable energies). Besides the different systems (cell chemistries), electrochemical cells and batteries were developed and are offered in many shapes, sizes and designs, in order to meet performance and design requirements of the widespread applications. Proper packaging is thereby one important technological step for designing optimum, reliable and safe batteries for operation.
+   In this contribution, current packaging approaches of cells and batteries together with the corresponding materials are discussed. The focus is laid on rechargeable systems for industrial applications (i.e. alkaline systems, lithium-ion, lead-acid). In principle, four different cell types (shapes) can be identified - button, cylindrical, prismatic and pouch. Cell size can be either in accordance with international (e.g. International Electrotechnical Commission, IEC) or other standards or can meet application-specific dimensions. Since cell housing or container, terminals and, if necessary, safety installations as inactive (non-reactive) materials reduce energy density of the battery, the development of low-weight packages is a challenging task. In addition to that, other requirements have to be fulfilled: mechanical stability and durability, sealing (e.g. high permeation barrier against humidity for lithium-ion technology), high packing efficiency, possible installation of safety devices (current interrupt device, valve, etc.), chemical inertness, cost issues, and others. Finally, proper cell design has to be considered for effective thermal management (i.e. cooling and heating) of battery packs.
+C1 Hoppecke Adv Battery Technol GmbH, D-08056 Zwickau, Germany.
+RP Herrmann, M (reprint author), Hoppecke Adv Battery Technol GmbH, D-08056 Zwickau, Germany.
+NR 12
+TC 0
+Z9 0
+U1 2
+U2 19
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0094-243X
+BN 978-0-7354-1231-6
+J9 AIP CONF PROC
+PY 2014
+VL 1597
+BP 121
+EP 133
+DI 10.1063/1.4878483
+PG 13
+WC Electrochemistry; Physics, Applied
+SC Electrochemistry; Physics
+GA BB1TH
+UT WOS:000341355700008
+ER
+
+PT J
+AU Rao, ZH
+   Wang, SF
+   Zhang, YL
+AF Rao, Z. H.
+   Wang, S. F.
+   Zhang, Y. L.
+TI Thermal Management with Phase Change Material for a Power Battery under
+   Cold Temperatures
+SO ENERGY SOURCES PART A-RECOVERY UTILIZATION AND ENVIRONMENTAL EFFECTS
+LA English
+DT Article
+DE cold temperature; electric vehicles; phase change material; power
+   battery; thermal management
+ID PACKS; UNIFORMITY; SYSTEM
+AB A 3-D module of power battery thermal management unit with phase change material is formulated. The cold start-up time of air heating is 4.2 times of phase change material heating from 243.15 to 283.15 K. The temperature difference decreases from 9.9 to 4.6 degrees C when the thermal conductivity of the phase change material increases to five times. The heat transports from the domain near an electrode can reheat the domain away from the electrode and make the thermal energy distributing more even inside the battery. A well-designed thermal management system with phase change material is positive for power battery applying under cold temperature.
+C1 [Rao, Z. H.; Wang, S. F.; Zhang, Y. L.] S China Univ Technol, Sch Chem & Chem Engn, Minist Educ, Key Lab Enhanced Heat Transfer & Energy Conservat, Guangzhou 510640, Guangdong, Peoples R China.
+RP Wang, SF (reprint author), S China Univ Technol, Sch Chem & Chem Engn, Minist Educ, Key Lab Enhanced Heat Transfer & Energy Conservat, Guangzhou 510640, Guangdong, Peoples R China.
+EM sfwang@scut.edu.cn
+RI Rao, Zhonghao/B-6689-2012
+FU National Natural Science Foundation of China [50876033]; International
+   Cooperation Foundation of Guangdong [2009B050400002]; NSFC-United Fund
+   of Guangdong [U0834002]
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant No. 50876033), the International Cooperation Foundation of
+   Guangdong (2009B050400002), and the NSFC-United Fund of Guangdong (Grant
+   No. U0834002).
+NR 10
+TC 8
+Z9 8
+U1 2
+U2 27
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 CHESTNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1556-7036
+EI 1556-7230
+J9 ENERG SOURCE PART A
+JI Energy Sources Part A-Recovery Util. Environ. Eff.
+PY 2014
+VL 36
+IS 20
+BP 2287
+EP 2295
+DI 10.1080/15567036.2011.576411
+PG 9
+WC Energy & Fuels; Engineering, Chemical; Environmental Sciences
+SC Energy & Fuels; Engineering; Environmental Sciences & Ecology
+GA AN6QI
+UT WOS:000340720300012
+ER
+
+PT S
+AU Wang, J
+   Yang, XP
+AF Wang, Jian
+   Yang, Xiaoping
+BE Shao, J
+   Zhang, YQ
+TI Thermal Management System Design and Simulation of Battery Pack for
+   Electric Vehicles
+SO CURRENT DEVELOPMENT OF MECHANICAL ENGINEERING AND ENERGY, PTS 1 AND 2
+SE Applied Mechanics and Materials
+LA English
+DT Proceedings Paper
+CT International Symposium on Vehicle, Mechanical, and Electrical
+   Engineering (ISVMEE 2013)
+CY DEC 21-22, 2013
+CL Chung Hua Univ, Taiwan, PEOPLES R CHINA
+SP Chung Hua Univ, Harbin Univ Sci & Technol, NW Forestry Univ, Harbin Engn Univ
+HO Chung Hua Univ
+DE thermal management; wer battery pack; ectric vehicle
+ID LITHIUM-ION BATTERIES; POWER
+AB Power battery pack under high-rate discharge conditions produces thermal aggregation phenomena. Generated heat during charging and discharging that distributes in battery pack affects performance of battery and so that shortens its life. So the battery pack thermal management is necessary to electric vehicles. In this paper, an ideal thermal management solution is put forward with a battery pack temperature equilibrium approach and a battery pack overall thermal dissipation structure by finite element analysis. Theoretical analysis result shows that the thermal management solution can effectively cool the battery pack to the ideal working temperature range 25 similar to 40 degrees C and improve the battery pack temperature uniformity with the maximum temperature difference which is below 5 degrees C, which enhance the cycle life of power battery pack for electric vehicle applications.
+C1 [Wang, Jian; Yang, Xiaoping] Harbin Inst Technol, Shenzhen 518055, Peoples R China.
+RP Wang, J (reprint author), Harbin Inst Technol, Shenzhen 518055, Peoples R China.
+EM wangjiansz@outlook.com; xpyang8@126.com
+NR 7
+TC 0
+Z9 0
+U1 6
+U2 18
+PU TRANS TECH PUBLICATIONS LTD
+PI STAFA-ZURICH
+PA LAUBLSRUTISTR 24, CH-8717 STAFA-ZURICH, SWITZERLAND
+SN 1660-9336
+BN 978-3-03835-003-3
+J9 APPL MECH MATER
+PY 2014
+VL 494-495
+BP 100
+EP 103
+DI 10.4028/www.scientific.net/AMM.494-495.100
+PG 4
+WC Engineering, Mechanical; Materials Science, Multidisciplinary; Mechanics
+SC Engineering; Materials Science; Mechanics
+GA BA8UE
+UT WOS:000338690800023
+ER
+
+PT J
+AU Xu, XM
+   He, R
+AF Xu, X. M.
+   He, R.
+TI Review on the heat dissipation performance of battery pack with
+   different structures and operation conditions
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+LA English
+DT Review
+DE Battery pack; Operation condition; Thermal power; Heat dissipation
+   performance; SOC state; Charge and discharge rate
+ID LITHIUM-ION BATTERY; HYBRID-ELECTRIC VEHICLES; POLYMER-ELECTROLYTE
+   BATTERIES; THERMAL MANAGEMENT-SYSTEM; RENEWABLE ENERGY-SOURCES; PEM
+   FUEL-CELL; EXPERIMENTAL VALIDATION; DESIGN OPTIMIZATION; CONTROL
+   STRATEGY; COOLING SYSTEM
+AB This paper reviews the heat dissipation performance of battery pack with different structures (including: longitudinal battery pack, horizontal battery pack, and changing the position of air-inlet and air-outlet) and operation conditions (including: SOC state, charge and discharge rate, and practical operation condition), and finally arrives at the conclusions as follows: the average thermal power of 55 Ah lithium-ion battery monomer decreases along with environment temperature rising, SOC state decreasing and charge and discharge rate falling; the maximum temperature rising and temperature difference of battery pack are not only relevant to the flow rate, but also related to the airflow duct structure, the battery pack with air-inlets on both sides is more conducive to the forced air cooling; the flow rate of battery pack at 70% SOC state is maximum, the maximum temperature rising and temperature difference of battery pack at 70% SOC state are minimum, and that of 90% SOC state are maximum; the flow rate and the average pressure drop between air-inlet and air-outlet both decrease along with charge and discharge rate increasing, but the maximum temperature rising and temperature difference of battery pack increase; as considering the practical operation condition of battery pack, the charge and discharge rate is between 0.5 C and 0.8 C, and the maximum temperature rising and maximum temperature difference of battery pack are 7.61 degrees C and 4.29 degrees C. Then the reference basis for heat flow field characteristic analysis and structure design of battery pack are offered. Crown Copyright (C) 2013 Published by Elsevier Ltd. All rights reserved.
+C1 [Xu, X. M.; He, R.] Jiangsu Univ, Sch Automot & Traff Engn, Zhenjiang 212013, Peoples R China.
+RP Xu, XM (reprint author), Jiangsu Univ, Sch Automot & Traff Engn, Zhenjiang 212013, Peoples R China.
+EM xuxiaoming3777@163.com
+FU National "863" High-Tech Research and the Development Plan of China
+   [2011AA11A220]; Science and Technology Achievement Transformation
+   project of Jiangsu Provincial [BA2010050]
+FX This work was supported by the National "863" High-Tech Research and the
+   Development Plan of China (2011AA11A220); the Science and Technology
+   Achievement Transformation project of Jiangsu Provincial (BA2010050).
+NR 129
+TC 10
+Z9 11
+U1 11
+U2 91
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1364-0321
+J9 RENEW SUST ENERG REV
+JI Renew. Sust. Energ. Rev.
+PD JAN
+PY 2014
+VL 29
+BP 301
+EP 315
+DI 10.1016/j.rser.2013.08.057
+PG 15
+WC GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY; Energy & Fuels
+SC Science & Technology - Other Topics; Energy & Fuels
+GA 292HF
+UT WOS:000329892100025
+ER
+
+PT S
+AU Goli, P
+   Balandin, AA
+AF Goli, Pradyumna
+   Balandin, Alexander A.
+GP IEEE
+TI Graphene-Enhanced Phase Change Materials for Thermal Management of
+   Battery Packs
+SO 2014 IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL
+   PHENOMENA IN ELECTRONIC SYSTEMS (ITHERM)
+SE InterSociety Conference on Thermal and Thermomechanical Phenomena in
+   Electronic Systems
+LA English
+DT Proceedings Paper
+CT 14th InterSociety Conference on Thermal and Thermomechanical Phenomena
+   in Electronic Systems (ITherm)
+CY MAY 27-30, 2014
+CL Orlando, FL
+SP IEEE, Mentor Gr, Microsanj, Anveshak, GE Res, Raytheon Corp, IBM Corp, Hewlett Packard, Binghamton Univ, S3IP Ctr
+DE Battery; Thermal Management; Graphene; Phase Change Material; Composite
+ID INTERFACE MATERIALS; ENERGY-STORAGE; HIGH-POWER; CONDUCTIVITY
+AB Graphene and few-layer graphene reveal exceptionally high thermal conduction properties, which can be used for thermal management. Here we show that incorporation of graphene and few-layer graphene to the hydrocarbon-based phase change material allows one to increase its thermal conductivity by more than two orders of magnitude while preserving its latent heat storage ability. A combination of the sensible and latent heat storage together with the improved heat conduction results in a composite material with the exceptional thermal management capabilities. We show that the graphene-enhanced phase change material can substantially improve the thermal management of Li-ion and other advanced types of batteries.
+C1 [Goli, Pradyumna] Univ Calif Riverside, Dept Elect Engn, Nanodevice Lab, Riverside, CA 92521 USA.
+   Univ Calif Riverside, Mat Sci Engn Program, Bourns Coll Engn, Riverside, CA 92521 USA.
+RP Goli, P (reprint author), Univ Calif Riverside, Dept Elect Engn, Nanodevice Lab, Riverside, CA 92521 USA.
+EM pgoli@ee.ucr.edu
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1936-3958
+BN 978-1-4799-5267-0
+J9 INTSOC CONF THERMAL
+PY 2014
+BP 1390
+EP 1393
+PG 4
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BE0PT
+UT WOS:000366567000185
+ER
+
+PT J
+AU Barreras, JV
+   Pinto, C
+   de Castro, R
+   Schaltz, E
+   Andreasen, SJ
+   Araujo, RE
+AF Barreras, Jorge V.
+   Pinto, Claudio
+   de Castro, Ricardo
+   Schaltz, Erik
+   Andreasen, Soren J.
+   Araujo, Rui Esteves
+GP IEEE
+TI Multi-Objective Control of Balancing Systems for Li-Ion Battery Packs: A
+   paradigm shift?
+SO 2014 IEEE VEHICLE POWER AND PROPULSION CONFERENCE (VPPC)
+LA English
+DT Proceedings Paper
+CT 2014 IEEE Vehicle Power and Propulsion Conference
+CY OCT 27-30, 2014
+CL Coimbra, PORTUGAL
+SP VTS, INESC, UNIV DE COIMBRA, POLITECNICO DE COIMBRA, ISEC ENGENHARIA, IEEE Power Elect Soc, EPE, MEGEVH, Associacao Portuguesa do Velculo Elect, SEW EURODRIVE, OPAL RT, efacec
+ID AGING MECHANISMS
+AB While a great number of battery balancing circuit topologies have been proposed, the unique control objective typically pursued is equalization of single cell charge. However, a balancing circuit could offer potentially more control features, especially with topologies able to provide bidirectional power flow control. This has not been explored yet in literature or at least not with enough thoroughness. Thus, in addition to charge balancing, up to three more objectives could be pursued simultaneously. Firstly, virtual resistance control, in order to provide dynamic compensation for variations in terminal cell voltage. Secondly, thermal management, to achieve a more uniform temperature distribution within a battery pack. Third, on-board diagnosis or fault detection tools, e.g. to perform characterization tests or to identify and even isolate problematic cells. In this paper, this issue is discussed and evaluated for a battery pack made up of 48 large format Li-Ion cells in series in a e-mobility application. Simulation results demonstrate the technical feasibility of this newly defined concept.
+C1 [Barreras, Jorge V.; Schaltz, Erik; Andreasen, Soren J.] Aalborg Univ, Dept Energy Technol, DK-9220 Aalborg, Denmark.
+   [Pinto, Claudio; Araujo, Rui Esteves] INESC Porto, INESC TEC, P-4200465 Oporto, Portugal.
+   [Pinto, Claudio; Araujo, Rui Esteves] Univ Porto, Fac Engn, P-4200465 Oporto, Portugal.
+   [de Castro, Ricardo] German Aerosp Ctr DLR, Robot & Mechatron Ctr, Inst Syst Dynam & Control, D-82234 Wessling, Germany.
+RP Barreras, JV (reprint author), Aalborg Univ, Dept Energy Technol, DK-9220 Aalborg, Denmark.
+EM jvb@et.aau.dk; dee12015@fe.up.pt; Ricardo.DeCastro@dlr.de;
+   esc@et.aau.dk; sja@et.aau.dk; raraujo@fe.up.pt
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-6782-7
+PY 2014
+PG 7
+WC Engineering, Electrical & Electronic; Transportation Science &
+   Technology
+SC Engineering; Transportation
+GA BF3ZT
+UT WOS:000380610000111
+ER
+
+PT J
+AU Che Daud, ZH
+   Chrenko, D
+   Aglzim, EH
+   Keromnes, A
+   Le Moyne, L
+AF Che Daud, Zul Hilmi
+   Chrenko, Daniela
+   Aglzim, El-Hassane
+   Keromnes, Alan
+   Le Moyne, Luis
+GP IEEE
+TI Experimental Study of Lithium-ion Battery Thermal Behaviour for Electric
+   and Hybrid Electric Vehicles
+SO 2014 IEEE VEHICLE POWER AND PROPULSION CONFERENCE (VPPC)
+LA English
+DT Proceedings Paper
+CT 2014 IEEE Vehicle Power and Propulsion Conference
+CY OCT 27-30, 2014
+CL Coimbra, PORTUGAL
+SP VTS, INESC, UNIV DE COIMBRA, POLITECNICO DE COIMBRA, ISEC ENGENHARIA, IEEE Power Elect Soc, EPE, MEGEVH, Associacao Portuguesa do Velculo Elect, SEW EURODRIVE, OPAL RT, efacec
+DE lithium-ion battery; thermal behaviour; experimental study; electric and
+   hybrid electric vehicles
+ID POLYMER BATTERY; MANAGEMENT; CYCLES; MODULE
+AB An experimental study of lithium-ion battery thermal behaviour for automotive applications is presented. Experiments are conducted for a pack of three battery cells which encounter a series of different discharge and cooling conditions. Results show the different temperature distribution on different locations of the battery cell surface with the highest temperature increase near the positive and negative electrode. The temperature increases sharply if the state of charge (SOC) is too small (less then 20%). Higher discharge rate contributes to higher temperature increase and bigger maximum and minimum temperature difference. Higher cooling air velocity helps to decrease the overall temperature and create better cell surface temperature distribution. Battery utilisation under real vehicle driving conditions is simulated using NEDC and Artemis rural driving cycle with different cooling strategies. Various information collected throughout this project are important in understanding the battery thermal behaviour and help in the design of better cooling systems and strategies for a better used of lithium-ion batteries in automotive applications.
+C1 [Che Daud, Zul Hilmi] Univ Technol Malaysia, Fac Mech Engn, Skudai 81310, Johore, Malaysia.
+   [Che Daud, Zul Hilmi; Chrenko, Daniela; Aglzim, El-Hassane; Keromnes, Alan; Le Moyne, Luis] Univ Burgundy, ISAT, DRIVE Lab, Id Mot, F-58027 Nevers, France.
+RP Che Daud, ZH (reprint author), Univ Technol Malaysia, Fac Mech Engn, Skudai 81310, Johore, Malaysia.
+EM hilmi@fkm.utm.my; daniela.chrenko@u-bourgogne.fr;
+   el-hassane.aglzim@u-bourgogne.fr; alan.keromnes@u-bourgogne.fr;
+   luis.le-moyne@u-bourgogne.fr
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-6782-7
+PY 2014
+PG 6
+WC Engineering, Electrical & Electronic; Transportation Science &
+   Technology
+SC Engineering; Transportation
+GA BF3ZT
+UT WOS:000380610000074
+ER
+
+PT J
+AU Paolo, C
+   Michele, G
+   Daniele, L
+   Marco, M
+AF Paolo, Cicconi
+   Michele, Germani
+   Daniele, Landi
+   Marco, Mengarelli
+GP IEEE
+TI Virtual prototyping approach to evaluate the thermal management of
+   Li-ion batteries
+SO 2014 IEEE VEHICLE POWER AND PROPULSION CONFERENCE (VPPC)
+LA English
+DT Proceedings Paper
+CT 2014 IEEE Vehicle Power and Propulsion Conference
+CY OCT 27-30, 2014
+CL Coimbra, PORTUGAL
+SP VTS, INESC, UNIV DE COIMBRA, POLITECNICO DE COIMBRA, ISEC ENGENHARIA, IEEE Power Elect Soc, EPE, MEGEVH, Associacao Portuguesa do Velculo Elect, SEW EURODRIVE, OPAL RT, efacec
+DE thermal management; Li-ion battery; hybrid electric vehicle; virtual
+   prototyping; simulation; CFD
+ID CELLS
+AB Nowadays, electric vehicles fill a relevant car market share. The Li-Ion batteries currently represent the best solution in term of environmental impact and performance. Thermal management for Li-Ion batteries is a very interesting topic, since high temperatures accelerate degradation rate of a cell and compromise its safety level. The battery thermal modeling can be quite challenging. The proposed approach describes a methodology to simulate different thermal management algorithms in order to obtain an uniform temperature distribution in a Li-Ion battery pack. A test case has been developed where the application of an thermal algorithm has been analyzed through CFD simulations.
+C1 [Paolo, Cicconi; Michele, Germani; Daniele, Landi; Marco, Mengarelli] Univ Politecn Marche, UNIVPM, Dept Ind Engn & Math Sci, Ancona, Italy.
+RP Paolo, C (reprint author), Univ Politecn Marche, UNIVPM, Dept Ind Engn & Math Sci, Ancona, Italy.
+EM p.cicconi@univpm.it; m.germani@univpm.it; d.landi@univpm.it;
+   m.mengarelli@univpm.it
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-6782-7
+PY 2014
+PG 6
+WC Engineering, Electrical & Electronic; Transportation Science &
+   Technology
+SC Engineering; Transportation
+GA BF3ZT
+UT WOS:000380610000147
+ER
+
+PT J
+AU Chellaswamy, C
+   Ramesh, R
+AF Chellaswamy, C.
+   Ramesh, R.
+GP IEEE
+TI An Intelligent Energy Management and Control System for Electric Vehicle
+SO 2014 INTERNATIONAL CONFERENCE ON ADVANCED COMMUNICATION CONTROL AND
+   COMPUTING TECHNOLOGIES (ICACCCT)
+LA English
+DT Proceedings Paper
+CT International Conference on Advanced Communication Control and Computing
+   Technologies*
+CY MAY 08-10, 2014
+CL Syed Ammal Eng Coll, Ramanathapuram, INDIA
+HO Syed Ammal Eng Coll
+DE extended Kalman filtering (EKF); state of charge; electric vehicle;
+   energy management
+AB This paper presents an intelligent energy management for electric vehicles (EVs) which contains automatic charging mechanism. Nowadays EVs charging the battery pack by using road side stations, park stations etc. are increase the travel time. To overcome this problem we have proposed an automatic charging with an intelligent energy management system using Kalman filtering (IEMK) capable for estimating and controlling the battery packs. Energy and battery management in EV is difficult and important under driving condition. This paper mainly focuses to estimate different parameters such as available power, state of charge, and thermal management. The algorithm has been implemented for the battery packs to maintain charging by both the solar and wind energy systems. IEMK provides optimal mean for estimating the parameters of battery pack and accurate under running condition. Simulation results show that the proposed method is stable, state of charge with 1 % error, and robust compared with other systems.
+C1 [Chellaswamy, C.] St Peterss Univ, St Peters Inst Higher Educ & Res, Dept ECE, Madras, Tamil Nadu, India.
+   [Ramesh, R.] Saveetha Engn Coll, Dept ECE, Madras, Tamil Nadu, India.
+RP Chellaswamy, C (reprint author), St Peterss Univ, St Peters Inst Higher Educ & Res, Dept ECE, Madras, Tamil Nadu, India.
+EM chella_info@yahoo.co.in; ramesh@saveetha.ac.in
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-3914-5
+PY 2014
+BP 180
+EP 184
+PG 5
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BF2HD
+UT WOS:000380467200290
+ER
+
+PT S
+AU Bruni, G
+   Cordiner, S
+   Mulone, V
+   Rocco, V
+   Spagnolo, F
+AF Bruni, G.
+   Cordiner, S.
+   Mulone, V.
+   Rocco, V.
+   Spagnolo, F.
+BE Yan, J
+   Lee, DJ
+   Chou, SK
+   Desideri, U
+   Li, H
+TI A study of energy management in domestic micro-grids based on model
+   predictive control strategies
+SO INTERNATIONAL CONFERENCE ON APPLIED ENERGY, ICAE2014
+SE Energy Procedia
+LA English
+DT Proceedings Paper
+CT 6th International Conference on Applied Energy (ICAE)
+CY MAY 30-JUN 02, 2014
+CL Taipei, TAIWAN
+DE Renewable; Micro-grid; Thermal building control; fuel cell; Model
+   predictive control MPC; Rule based control RBC
+ID SYSTEM
+AB In this paper a Model Predictive Control (MPC) logic, based on weather forecasts, has been applied to the analysis of power management in a domestic off-grid system composed by: Photovoltaic panel (PV), Fuel Cells (FC) and a battery pack. The controller has the simultaneous objectives of maintaining environmental comfort in the house and minimizing costs, thus optimizing the use of primary energy sources. A theoretical model of the system has been developed and simulations have been carried out for winter and summer seasons. MPC performances have been evaluated in comparison with a standard Ruled Based Control (RBC) logic. (C) 2014 Published by Elsevier Ltd.
+C1 [Bruni, G.; Cordiner, S.; Mulone, V.; Rocco, V.; Spagnolo, F.] Univ Roma Tor Vergata, Dept Ind Engn, Rome, Italy.
+RP Bruni, G (reprint author), Univ Roma Tor Vergata, Dept Ind Engn, Rome, Italy.
+RI Cordiner, Stefano/M-3130-2016; 
+OI Cordiner, Stefano/0000-0001-6190-5725; Bruni,
+   Giacomo/0000-0003-3186-6037
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-6102
+J9 ENRGY PROCED
+PY 2014
+VL 61
+BP 1012
+EP 1016
+DI 10.1016/j.egypro.2014.11.1013
+PG 5
+WC GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY; Energy & Fuels
+SC Science & Technology - Other Topics; Energy & Fuels
+GA BE7UT
+UT WOS:000375936100228
+ER
+
+PT J
+AU Fathabadi, H
+AF Fathabadi, Hassan
+TI A novel design including cooling media for Lithium-ion batteries pack
+   used in hybrid and electric vehicles
+SO JOURNAL OF POWER SOURCES
+LA English
+DT Article
+DE Lithium-ion battery; Temperature distribution; Cooling ducts;
+   Hybrid/electric vehicle
+ID THERMAL MANAGEMENT; TEMPERATURE DISTRIBUTION; SIMULATION; SYSTEM
+AB In this paper, a novel design including cooling media for packing the rechargeable Lithium (Li)-ion batteries used in hybrid and electric vehicles is proposed. The proposed battery pack satisfies all thermal and physical issues relating to the battery packs used in vehicles such as operating temperature range and volume, and furthermore it increases the battery life cycle and charge and discharge performances. The temperature and voltage distributions of the proposed battery pack are calculated using the characteristics of a sample Li-ion battery and heat transfer principles. The proposed battery pack uses several distributed thin ducts for cooling which is based on distributed natural convection. Ultra uniform voltage and temperature distributions, minimum temperature dispersion in each battery unit, minimum increase in the battery pack volume, natural convection (no extra energy consumption for cooling), the maximum observed temperature less than that in other proposed battery packs and high thermal performance for different ambient temperatures until 48 degrees C are some advantages of the proposed Li-ion battery pack including proposed distributed cooling media. Simulation results and a comparison between the parameters of the proposed cooling media and other related work are presented to validate the theoretical results and to prove the superiority of the proposed battery pack design. (C) 2013 Elsevier B.V. All rights reserved.
+C1 Kharazmi Univ, Dept Engn, Tehran, Iran.
+RP Fathabadi, H (reprint author), Kharazmi Univ, Dept Engn, Tehran, Iran.
+EM h4477@hotmail.com
+NR 15
+TC 22
+Z9 22
+U1 6
+U2 147
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-7753
+J9 J POWER SOURCES
+JI J. Power Sources
+PD JAN 1
+PY 2014
+VL 245
+BP 495
+EP 500
+DI 10.1016/j.jpowsour.2013.06.160
+PG 6
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels; Materials
+   Science, Multidisciplinary
+SC Chemistry; Electrochemistry; Energy & Fuels; Materials Science
+GA 229AP
+UT WOS:000325234500063
+ER
+
+PT J
+AU Di Domenico, D
+   Prada, E
+   Creff, Y
+AF Di Domenico, Domenico
+   Prada, Eric
+   Creff, Yann
+TI An adaptive strategy for Li-ion battery internal state estimation
+SO CONTROL ENGINEERING PRACTICE
+LA English
+DT Article; Proceedings Paper
+CT 18th IFAC World Congress
+CY AUG 28-SEP 02, 2011
+CL Milan, ITALY
+SP IFAC
+DE Kalman filters; Estimation algorithms; Nonlinear models; Observability;
+   Statistical analysis
+ID CHARGE ESTIMATION; MANAGEMENT-SYSTEMS; PARAMETER-ESTIMATION;
+   ELECTROCHEMICAL MODEL; KALMAN FILTER; NI-MH; OBSERVER; PACKS;
+   IDENTIFICATION; TEMPERATURE
+AB Further developing a study presented in Di Domenico, Prada, and Creff (2011), this paper presents an extended Kalman filter (EKF) based on an electro-thermal model for the estimation of the internal state of a lithium-ion battery, i.e. state of charge and the cell overpotential. In order to compensate for uncertainties in the model parameters and in the measurements, it is first shown that the filter robustness strongly depends on the State of Charge (SOC) range. Then the filter weights are adapted according to the estimated SOC value. This estimation technique is tested using experimental data collected from a commercial A123 Systems lithium iron phosphate/graphite (LiFePO4/graphite) cell. The filter shows good performance. The estimation of SOC exhibits an average error within 3% range and the overpotential is estimated with a precision higher than 5 mV. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Di Domenico, Domenico; Prada, Eric; Creff, Yann] IFP Energies Nouvelles, F-69360 Solaize, France.
+RP Di Domenico, D (reprint author), IFP Energies Nouvelles, Rond Point Echangeur Solaize BP 3, F-69360 Solaize, France.
+EM domenico.didomenico@ifpen.fr; eric.prada@ifpen.fr; yann.creff@ifpen.fr
+RI IFPEN, Publications/A-8028-2008; Math et Info, Direction
+   Math/C-1462-2013; Physico chimie, Direction Physico /C-1380-2013
+NR 42
+TC 2
+Z9 2
+U1 0
+U2 23
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0967-0661
+EI 1873-6939
+J9 CONTROL ENG PRACT
+JI Control Eng. Practice
+PD DEC
+PY 2013
+VL 21
+IS 12
+SI SI
+BP 1851
+EP 1859
+DI 10.1016/j.conengprac.2013.08.004
+PG 9
+WC Automation & Control Systems; Engineering, Electrical & Electronic
+SC Automation & Control Systems; Engineering
+GA 280GR
+UT WOS:000329017200021
+ER
+
+PT J
+AU Bandhauer, TM
+   Garimella, S
+AF Bandhauer, Todd M.
+   Garimella, Srinivas
+TI Passive, internal thermal management system for batteries using
+   microscale liquid-vapor phase change
+SO APPLIED THERMAL ENGINEERING
+LA English
+DT Article
+DE Battery; Thermal management; Two phase; Pressure drop
+ID HORIZONTAL CIRCULAR MICROCHANNEL; CONDENSATION HEAT-TRANSFER; FRICTIONAL
+   PRESSURE-DROP; ADIABATIC 2-PHASE FLOW; AIR-WATER FLOW; PREDICTION
+   METHODS; VOID FRACTION; PART I; DIAMETER; TUBES
+AB Conventional thermal management systems for lithium-ion batteries remove heat from the exterior surface of the battery, causing undesirable temperature increase and thermal gradients inside the battery. Internally cooling batteries can reduce both of these effects, improving safety and durability. In the present study, a novel internal cooling system that utilizes passive, liquid-vapor phase change processes is investigated using representative geometry and a surrogate heat source. Frictional and heat transfer characteristics of the representative cooling system with buoyancy driven flow are reported over a range of net heat inputs (94-6230 W L-1) and saturation temperatures (24 degrees C-33 degrees C). The results show that the mass flow rate increased to a maximum near a heat input of 1350 W L-1, and there was a slight influence of saturation temperature on the performance of the system. In addition, the calculated two-phase frictional pressure drops in the microchannel evaporator (3.175 mm x 160 mu m channels) are compared to the representative correlation database (D-h < 1 mm) and used to develop a new frictional pressure drop model with improved accuracy over the tested mass flux range (45 < G < 112 kg m(-2) s(-1)). The results presented here are utilized in a subsequent investigation to determine the performance improvement in large lithium-ion battery packs intended for electric and hybrid electric vehicular applications through internal cooling. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Bandhauer, Todd M.] Colorado State Univ, Interdisciplinary Thermal Sci Lab, Ft Collins, CO 80525 USA.
+   [Garimella, Srinivas] Georgia Inst Technol, GWW Sch Mech Engn, Sustainable Thermal Syst Lab, Atlanta, GA 30382 USA.
+RP Garimella, S (reprint author), Georgia Inst Technol, GWW Sch Mech Engn, Love Bldg,Room 340,801 Ferst Dr, Atlanta, GA 30382 USA.
+EM sgarimella@gatech.edu
+OI Garimella, Srinivas/0000-0002-5697-4096
+FU Sandia National Laboratories for providing a Graduate Research
+   Fellowship; ARCS Foundation
+FX The authors gratefully acknowledge Sandia National Laboratories for
+   providing a Graduate Research Fellowship for Dr. Bandhauer through the
+   Excellence in Engineering Graduate Research Program. The authors also
+   acknowledge the ARCS Foundation for providing additional funding to Dr.
+   Bandhauer through the ARCS Scholars program.
+NR 43
+TC 11
+Z9 11
+U1 5
+U2 36
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1359-4311
+J9 APPL THERM ENG
+JI Appl. Therm. Eng.
+PD NOV 3
+PY 2013
+VL 61
+IS 2
+SI SI
+BP 756
+EP 769
+DI 10.1016/j.applthermaleng.2013.08.004
+PG 14
+WC Thermodynamics; Energy & Fuels; Engineering, Mechanical; Mechanics
+SC Thermodynamics; Energy & Fuels; Engineering; Mechanics
+GA 281DU
+UT WOS:000329081000083
+ER
+
+PT J
+AU Eddahech, A
+   Briat, O
+   Vinassa, JM
+AF Eddahech, Akram
+   Briat, Olivier
+   Vinassa, Jean-Michel
+TI Thermal characterization of a high-power lithium-ion battery:
+   Potentiometric and calorimetric measurement of entropy changes
+SO ENERGY
+LA English
+DT Article
+DE Lithium-ion battery; Thermal behaviour; Accelerating rate calorimeter;
+   Potentiometric method; Entropy change
+ID ELECTRIC VEHICLES; MANAGEMENT-SYSTEM; AGING MECHANISMS; CELLS;
+   SPECTROSCOPY; BEHAVIOR; HAZARDS; PACK
+AB This paper focuses on the thermal behaviour of high-power lithium-ion cells during charge-discharge at several current rates. A series of tests are conducted using an accelerating rate calorimeter to promote an adiabatic environment. Cell heat capacity is identified and the overall heat generated is quantified. Cell entropy is measured, using both potentiometric and calorimetric methods. The part of reversible reaction in the overall thermal behaviour is determined during charge-discharge tests and compared to joule losses. The influence of the state-of-charge variation and the impact of charge-discharge current rate on battery heat generation are highlighted. Experimental results for two lithium-ion technologies are presented and discussed. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Eddahech, Akram; Briat, Olivier; Vinassa, Jean-Michel] Univ Bordeaux, IMS, UMR 5218, CNRS, F-33400 Talence, France.
+RP Eddahech, A (reprint author), Univ Bordeaux, IMS, UMR 5218, CNRS, F-33400 Talence, France.
+EM akram.eddahech@ims-bordeaux.fr
+NR 37
+TC 26
+Z9 26
+U1 6
+U2 58
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD NOV 1
+PY 2013
+VL 61
+BP 432
+EP 439
+DI 10.1016/j.energy.2013.09.028
+PG 8
+WC Thermodynamics; Energy & Fuels
+SC Thermodynamics; Energy & Fuels
+GA 261SN
+UT WOS:000327685000041
+ER
+
+PT J
+AU Saw, LH
+   Ye, YH
+   Tay, AAO
+AF Saw, L. H.
+   Ye, Yonghuang
+   Tay, A. A. O.
+TI Electrochemical-thermal analysis of 18650 Lithium Iron Phosphate cell
+SO ENERGY CONVERSION AND MANAGEMENT
+LA English
+DT Article
+DE Battery temperature; Electrochemical; Heat generation; Lithium ion
+   battery
+ID HYBRID-ELECTRIC VEHICLES; LI-ION BATTERIES; EXPERIMENTAL VALIDATION;
+   CONTACT RESISTANCE; DISCHARGE MODEL; MANAGEMENT; BEHAVIOR; SYSTEMS;
+   SIMULATION; CATHODES
+AB A pseudo two dimensional electrochemical coupled with lumped thermal model has been developed to analyze the electrochemical and thermal behavior of the commercial 18650 Lithium Iron Phosphate battery. The cell was cut to obtain the physical dimension of the current collector, electrodes, separator, casing thickness, gasket, etc. The layer structure of the spiral wound, cylindrical casing, gasket and heat shrink wrapping were modeled to understand better the temperature distribution across the cell. Natural convection and radiation were used to reflect the heat dissipation on the side surface. Experimental study was carried out to validate the simulation results. The simulation results suggested that the cell temperature and total heat generation rate have a positive correlation with the I-t-rates and these were inline with the experimental results. Reaction heat was the main heat source and it contributed about 80-85% of the total heat generated during charging and discharging of the cell. Based on the simulation results, the final temperature of the cell surface was elevated to 59 degrees C using 10I(t) of charging. The effect of electrical contact resistance between the connectors and terminals of the cell was also investigated. It was found that the electrical contact resistance caused a large temperature gradient across the cell. These effects are important and should be considered in the design of EV battery pack and thermal management system to reduce the maximum temperature and maintain the temperature uniformity of the cells. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Saw, L. H.; Ye, Yonghuang; Tay, A. A. O.] Natl Univ Singapore, Fac Engn, Dept Mech Engn, Singapore 117576, Singapore.
+RP Tay, AAO (reprint author), Natl Univ Singapore, Fac Engn, Dept Mech Engn, Singapore 117576, Singapore.
+EM mpetayao@nus.edu.sg
+NR 44
+TC 34
+Z9 36
+U1 13
+U2 72
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0196-8904
+EI 1879-2227
+J9 ENERG CONVERS MANAGE
+JI Energy Conv. Manag.
+PD NOV
+PY 2013
+VL 75
+BP 162
+EP 174
+DI 10.1016/j.enconman.2013.05.040
+PG 13
+WC Thermodynamics; Energy & Fuels; Mechanics; Physics, Nuclear
+SC Thermodynamics; Energy & Fuels; Mechanics; Physics
+GA 247YR
+UT WOS:000326661400017
+ER
+
+PT J
+AU Lotfi, N
+   Fajri, P
+   Novosad, S
+   Savage, J
+   Landers, RG
+   Ferdowsi, M
+AF Lotfi, Nima
+   Fajri, Poria
+   Novosad, Samuel
+   Savage, Jack
+   Landers, Robert G.
+   Ferdowsi, Mehdi
+TI Development of an Experimental Testbed for Research in Lithium-Ion
+   Battery Management Systems
+SO ENERGIES
+LA English
+DT Article
+DE Li-ion batteries; experimental testbed; battery management system
+ID HYBRID-ELECTRIC VEHICLES; CHARGE ESTIMATION; ENERGY-STORAGE; ADAPTIVE
+   STATE; MODEL; CELL; ESTIMATOR; HEALTH; PACKS
+AB Advanced electrochemical batteries are becoming an integral part of a wide range of applications from household and commercial to smart grid, transportation, and aerospace applications. Among different battery technologies, lithium-ion (Li-ion) batteries are growing more and more popular due to their high energy density, high galvanic potential, low self-discharge, low weight, and the fact that they have almost no memory effect. However, one of the main obstacles facing the widespread commercialization of Li-ion batteries is the design of reliable battery management systems (BMSs). An efficient BMS ensures electrical safety during operation, while increasing battery lifetime, capacity and thermal stability. Despite the need for extensive research in this field, the majority of research conducted on Li-ion battery packs and BMS are proprietary works conducted by manufacturers. The available literature, however, provides either general descriptions or detailed analysis of individual components of the battery system, and ignores addressing details of the overall system development. This paper addresses the development of an experimental research testbed for studying Li-ion batteries and their BMS design. The testbed can be configured in a variety of cell and pack architectures, allowing for a wide range of BMS monitoring, diagnostics, and control technologies to be tested and analyzed. General considerations that should be taken into account while designing Li-ion battery systems are reviewed and different technologies and challenges commonly encountered in Li-ion battery systems are investigated. This testbed facilitates future development of more practical and improved BMS technologies with the aim of increasing the safety, reliability, and efficiency of existing Li-ion battery systems. Experimental results of initial tests performed on the system are used to demonstrate some of the capabilities of the developed research testbed. To the authors' knowledge, this is the first work that addresses, at the same time, the practical battery system development issues along with the theoretical and technological challenges from cell to pack level.
+C1 [Lotfi, Nima; Landers, Robert G.] Missouri Univ Sci & Technol, Mech & Aerosp Engn Dept, Rolla, MO 65401 USA.
+   [Fajri, Poria; Novosad, Samuel; Savage, Jack; Ferdowsi, Mehdi] Missouri Univ Sci & Technol, Elect & Comp Engn Dept, Rolla, MO 65401 USA.
+RP Landers, RG (reprint author), Missouri Univ Sci & Technol, Mech & Aerosp Engn Dept, Rolla, MO 65401 USA.
+EM nlb6f@mst.edu; pfkr7@mst.edu; slnd54@mst.edu; jssgh6@mst.edu;
+   landersr@mst.edu; ferdowsi@mst.edu
+RI Khan, Mohammad Rezwan/E-1422-2011
+OI Khan, Mohammad Rezwan/0000-0002-1532-0598
+FU Department of Energy [DE-EE0002012]
+FX The authors gratefully acknowledge the financial support for this work
+   from the Department of Energy (DE-EE0002012).
+NR 41
+TC 10
+Z9 10
+U1 10
+U2 59
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 1996-1073
+J9 ENERGIES
+JI Energies
+PD OCT
+PY 2013
+VL 6
+IS 10
+BP 5231
+EP 5258
+DI 10.3390/en6105231
+PG 28
+WC Energy & Fuels
+SC Energy & Fuels
+GA 297XG
+UT WOS:000330287800017
+ER
+
+PT J
+AU Park, H
+AF Park, Heesung
+TI A design of air flow configuration for cooling lithium ion battery in
+   hybrid electric vehicles
+SO JOURNAL OF POWER SOURCES
+LA English
+DT Article
+DE Air cooling; Lithium ion battery; Electric vehicle; Hybrid electric
+   vehicle
+ID THERMAL MANAGEMENT; TITANATE BATTERIES; SYSTEM; PACKS; MODEL
+AB Lithium ion batteries are commonly employed in hybrid electric vehicles and achieving high energy density in the battery has been among the most critical issues in the automotive industry. Since thermal management is very important in the automotive batteries with layout limitation, a design strategy for effective cooling should be carefully opted. Particularly, a forced air cooling has been considered as a practical option in the automotive industry. In this article, a specific design of air-cooled battery system is theoretically investigated and numerically modelled to satisfy the required thermal specifications. Since a typical battery system in hybrid electric vehicles consists of the stacked multiple battery cells, cooling performance is determined mainly by the uniform distribution of air flow in the coolant passage which dissipates heat generated from the battery cells. It is demonstrated that the required cooling performance can be achieved by employing the tapered manifold and pressure relief ventilation even without changing the layout/design of the existing battery system. Furthermore, a theoretical analysis is performed as a design guideline to enhance the cooling performance. (C) 2013 Elsevier B.V. All rights reserved.
+C1 Hyundai Motor Co, Div Res & Dev, Seoul, South Korea.
+RP Park, H (reprint author), Hyundai Motor Co, Div Res & Dev, Seoul, South Korea.
+EM heros93@gmail.com
+NR 22
+TC 37
+Z9 39
+U1 8
+U2 93
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-7753
+J9 J POWER SOURCES
+JI J. Power Sources
+PD OCT 1
+PY 2013
+VL 239
+BP 30
+EP 36
+DI 10.1016/j.jpowsour.2013.03.102
+PG 7
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels; Materials
+   Science, Multidisciplinary
+SC Chemistry; Electrochemistry; Energy & Fuels; Materials Science
+GA 176ON
+UT WOS:000321314100005
+ER
+
+PT J
+AU Li, XS
+   He, F
+   Ma, L
+AF Li, Xuesong
+   He, Fan
+   Ma, Lin
+TI Thermal management of cylindrical batteries investigated using wind
+   tunnel testing and computational fluid dynamics simulation
+SO JOURNAL OF POWER SOURCES
+LA English
+DT Article
+DE Battery thermal management; CFD modeling; Wind tunnel testing;
+   Reduced-order model
+ID LITHIUM-ION BATTERY; HYPERSPECTRAL TOMOGRAPHY; LITHIUM/POLYMER BATTERY;
+   TEMPERATURE; CELL; VALIDATION; MODEL; PACK
+AB This work studied the thermal management of lithium ion batteries both numerically and experimentally. Numerically, a two dimensional CFD (computational fluid dynamics) model has been developed to perform detailed simulations of the thermal management issues within a battery pack cooled by air. Experimentally, systematic tests were performed to provide datasets to validate the CFD model. The main components in the experimental facility included a multi-cell battery pack and a wind tunnel. The wind tunnel facility generated well-controlled cooling air flow with velocity up to 30 m s(-1) (similar to 67 miles per hour). So that the study can be performed under flow conditions directly relevant to practice. The major contributions from this combined numerical-experimental study are threefold. First, the CFD model has been shown to capture the dynamics of the cooling of battery modules consisting of multiple battery cells, including temperature non-uniformity among cells. Second, the CFD simulations have been compared directly against experimental data to quantify the accuracy and validity of the CFD models. Third, based on the validated CFD models, a reduced-order model is developed to predict the maximum cell temperature in the battery module. The accuracy and simplicity of the reduced-order model makes it promising for in situ monitoring and control purposes. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Li, Xuesong; Ma, Lin] Virginia Tech, Dept Aerosp & Ocean Engn, Blacksburg, VA 24061 USA.
+   [He, Fan; Ma, Lin] Virginia Tech, Dept Mech Engn, Blacksburg, VA 24061 USA.
+RP Ma, L (reprint author), Virginia Tech, Dept Aerosp & Ocean Engn, Laser Diagnost Lab, Room 215,Randolph Hall, Blacksburg, VA 24061 USA.
+EM linma@vt.edu
+RI Ma, Lin/A-9441-2012; Li, Xuesong/C-4844-2014; Li, Xuesong/I-5723-2016
+OI Li, Xuesong/0000-0003-3835-8000; 
+FU Automotive Research Center (ARC), a U.S. Army Center of Excellence in
+   Modeling and Simulation of Ground Vehicles
+FX The authors gratefully acknowledge the support provided by the
+   Automotive Research Center (ARC), a U.S. Army Center of Excellence in
+   Modeling and Simulation of Ground Vehicles.
+NR 27
+TC 23
+Z9 23
+U1 5
+U2 43
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-7753
+J9 J POWER SOURCES
+JI J. Power Sources
+PD SEP 15
+PY 2013
+VL 238
+BP 395
+EP 402
+DI 10.1016/j.jpowsour.2013.04.073
+PG 8
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels; Materials
+   Science, Multidisciplinary
+SC Chemistry; Electrochemistry; Energy & Fuels; Materials Science
+GA 171CE
+UT WOS:000320901900053
+ER
+
+PT J
+AU Rad, MS
+   Danilov, DL
+   Baghalha, M
+   Kazemeini, M
+   Notten, PHL
+AF Rad, M. Shadman
+   Danilov, D. L.
+   Baghalha, M.
+   Kazemeini, M.
+   Notten, P. H. L.
+TI Adaptive thermal modeling of Li-ion batteries
+SO ELECTROCHIMICA ACTA
+LA English
+DT Article
+DE Li-ion battery; Thermal battery modeling; Entropic heat generation
+ID SECONDARY LITHIUM BATTERIES; X-RAY-DIFFRACTION; PHASE-TRANSITIONS;
+   RECHARGEABLE BATTERIES; MANAGEMENT-SYSTEMS; ELECTROLYTE; DISCHARGE;
+   CHARGE; CELLS; BEHAVIOR
+AB An accurate thermal model to predict the heat generation in rechargeable batteries is an essential tool for advanced thermal management in high power applications, such as electric vehicles. For such applications, the battery materials' details and cell design are normally not provided. In this work a simple, though accurate, thermal model for batteries has been developed, considering the temperature- and current-dependent overpotential heat generation and State-of-Charge dependent entropy contributions. High power rechargeable Li-ion (7.5 Ah) batteries have been experimentally investigated and the results are used for model verification. It is shown that the State-of-Charge dependent entropy is a significant heat source and is therefore essential to correctly predict the thermal behavior of Li-ion batteries under a wide variety of operating conditions. An adaptive model is introduced to obtain these entropy values. A temperature-dependent equation for heat transfer to the environment is also taken into account. Good agreement between the simulations and measurements is obtained in all cases. The parameters for both the heat generation and heat transfer processes can be applied to the thermal design of advanced battery packs. The proposed methodology is generic and independent on the cell chemistry and battery design. The parameters for the adaptive model can be determined by performing simple cell potential/current and temperature measurements for a limited number of charge/discharge cycles. (c) 2013 Elsevier Ltd. All rights reserved.
+C1 [Rad, M. Shadman; Danilov, D. L.; Notten, P. H. L.] Eindhoven Univ Technol, Dept Chem & Chem Engn, NL-5600 MB Eindhoven, Netherlands.
+   [Rad, M. Shadman; Baghalha, M.; Kazemeini, M.] Sharif Univ Technol, Chem & Petr Engn Dept, Tehran, Iran.
+   [Notten, P. H. L.] Eindhoven Univ Technol, Dept Elect Engn, NL-5600 MB Eindhoven, Netherlands.
+RP Notten, PHL (reprint author), Eindhoven Univ Technol, Grp Energy Mat & Devices, Den Dolech 2,Postbus 513 STW 3-39, NL-5600 MB Eindhoven, Netherlands.
+EM P.H.L.Notten@TUE.nl
+NR 48
+TC 11
+Z9 11
+U1 4
+U2 73
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0013-4686
+J9 ELECTROCHIM ACTA
+JI Electrochim. Acta
+PD JUL 15
+PY 2013
+VL 102
+BP 183
+EP 195
+DI 10.1016/j.electacta.2013.03.167
+PG 13
+WC Electrochemistry
+SC Electrochemistry
+GA 178XS
+UT WOS:000321481300023
+ER
+
+PT J
+AU Chiang, CJ
+   Yang, JL
+   Cheng, WC
+AF Chiang, Chia-Jui
+   Yang, Jing-Long
+   Cheng, Wen-Chin
+TI Temperature and state-of-charge estimation in ultracapacitors based on
+   extended Kalman filter
+SO JOURNAL OF POWER SOURCES
+LA English
+DT Article
+DE Ultracapacitor; Extended Kalman filter; State of charge; Thermal
+   dynamics; Nonlinear equivalent circuit model; Modeling error
+ID BATTERY MANAGEMENT-SYSTEMS; DOUBLE-LAYER CAPACITORS;
+   PARAMETER-ESTIMATION; ION BATTERIES; PART 1; PACKS; SUPERCAPACITORS;
+   BEHAVIOR; PERFORMANCE; ADVISER
+AB The performance and life expectancy of ultracapacitors depend heavily on the operating voltage and temperature. In this paper, simultaneous estimation of state-of-charge (SOC) and temperature is achieved by applying extended Kalman filter (EKF) algorithm with only the terminal measurement of voltage and current. For the application of EKF algorithm, a nonlinear model which consists of a voltage-and-thermal-dependent equivalent circuit model and a thermal model is first developed. The parameters in the equivalent circuit model are identified by applying least squares method with weightings at different frequencies so as to achieve satisfactory prediction over the whole applicable frequency ranges. Experimental results demonstrate that the EKF-based estimator is crucial in providing accurate and consistent prediction of SOC and temperature in existence of modeling errors and measurement noises, especially during dynamic charge/discharge cycles at low temperature. The accurate estimation of SOC and temperature enables optimum energy and thermal management of ultracapacitors. (c) 2013 Elsevier B.V. All rights reserved.
+C1 [Chiang, Chia-Jui; Yang, Jing-Long; Cheng, Wen-Chin] Natl Taiwan Univ Sci & Technol, Dept Mech Engn, Taipei 10607, Taiwan.
+RP Chiang, CJ (reprint author), Natl Taiwan Univ Sci & Technol, Dept Mech Engn, Taipei 10607, Taiwan.
+EM cjchiang@mail.ntust.edu.tw
+FU National Science Council, Taiwan, ROC [NSC-100-2628-E011-016-MY2]
+FX This work was supported by the National Science Council, Taiwan, ROC,
+   under Grant NSC-100-2628-E011-016-MY2.
+NR 36
+TC 22
+Z9 23
+U1 1
+U2 59
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-7753
+J9 J POWER SOURCES
+JI J. Power Sources
+PD JUL 15
+PY 2013
+VL 234
+BP 234
+EP 243
+DI 10.1016/j.jpowsour.2013.01.173
+PG 10
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels; Materials
+   Science, Multidisciplinary
+SC Chemistry; Electrochemistry; Energy & Fuels; Materials Science
+GA 120DO
+UT WOS:000317151200027
+ER
+
+PT J
+AU Xun, JZ
+   Liu, R
+   Jiao, K
+AF Xun, Jingzhi
+   Liu, Rui
+   Jiao, Kui
+TI Numerical and analytical modeling of lithium ion battery thermal
+   behaviors with different cooling designs
+SO JOURNAL OF POWER SOURCES
+LA English
+DT Article
+DE Thermal management; Lithium ion battery stack; Discharging process;
+   Cooling channel; Temperature distribution
+ID PACKS; TEMPERATURE; MANAGEMENT; UNIFORMITY; SYSTEM
+AB Thermal management is critically important to maintain the performance of lithium ion battery stacks. In this study, a numerical model and an analytical model for the thermal management of lithium ion battery stacks are developed to investigate the thermal behaviors of flat-plate and cylindrical stacks during discharging processes. It is found that for the same volume ratio of cooling channel and battery of flat-plate design, changing the channel size and the number of channels results in similar average battery temperatures, however, increasing the channel size improves the cooling energy efficiency but leads to more unevenly distributed temperature, and vice versa. The volume ratio of cooling channel to battery needs to be higher than 0.014 for flat-plate design when the Reynolds number of cooling air is around 2000 or higher with a high discharging rate of 2 C. The cylindrical battery stacks considered in this study are generally less compact and more energy-efficient in cooling than the flat-plate battery stacks, and the general thermal behaviors are similar between these two designs. A counter-flow arrangement of the cooling channels or changing the flow direction of the co-flow arrangement periodically may also help the thermal management. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Xun, Jingzhi; Liu, Rui; Jiao, Kui] Tianjin Univ, State Key Lab Engines, Tianjin 300072, Peoples R China.
+RP Jiao, K (reprint author), Tianjin Univ, State Key Lab Engines, 92 Weijin Rd, Tianjin 300072, Peoples R China.
+EM kjiao@tju.edu.cn
+RI Jiao, Kui/N-7174-2013
+OI Jiao, Kui/0000-0002-1296-1330
+FU National Natural Science Foundation of China [51276121, 51206117];
+   Natural Science Foundation of Tianjin (China) [12JCYBJC30500]
+FX This research is supported by the National Natural Science Foundation of
+   China (Grant Nos. 51276121 and 51206117) and the Natural Science
+   Foundation of Tianjin (China) (Grant No. 12JCYBJC30500).
+NR 19
+TC 20
+Z9 22
+U1 2
+U2 89
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-7753
+J9 J POWER SOURCES
+JI J. Power Sources
+PD JUL 1
+PY 2013
+VL 233
+BP 47
+EP 61
+DI 10.1016/j.jpowsour.2013.01.095
+PG 15
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels; Materials
+   Science, Multidisciplinary
+SC Chemistry; Electrochemistry; Energy & Fuels; Materials Science
+GA 115QM
+UT WOS:000316827000008
+ER
+
+PT J
+AU Murashko, K
+   Pyrhonen, J
+   Laurila, L
+AF Murashko, Kirill
+   Pyrhonen, Juha
+   Laurila, Lasse
+TI Three-Dimensional Thermal Model of a Lithium Ion Battery for Hybrid
+   Mobile Working Machines: Determination of the Model Parameters in a
+   Pouch Cell
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+LA English
+DT Article
+DE 3-D thermal modeling; experimental battery parameters determination;
+   hybrid mobile working machine; lithium titanate battery; temperature
+   uniformity
+ID POLYMER BATTERY; CONFIGURATION; PERFORMANCE; MANAGEMENT; DISCHARGE;
+   BEHAVIOR; PACK
+AB Effective heat transfer and protection against high operating temperatures are important, lifetime-affecting items in the design and operation of batteries, especially those intended for hybrid mobile working machines, where the peak power and current demands are high. This paper describes a methodology for the modeling of the electrical and thermal behavior of lithium ion pouch cells for hybrid mobile working machines. The model is produced by coupling the equivalent electrical circuit of the pouch cell and the 3-D pouch cell thermal model. The temperature dependence of the battery operation parameters is added to the model in order to analyze the influence of temperature on heat generation during battery operation. Determination of the parameters of the thermal model is carried out empirically based on the presented methodology, which allows the construction of a 3-D thermal model of a pouch cell without requiring detailed information about the battery chemistry. The validity of the modeling procedure is demonstrated experimentally for a 60 Ah lithium titanate pouch cell.
+C1 [Murashko, Kirill; Pyrhonen, Juha; Laurila, Lasse] Lappeenranta Univ Technol, Dept Elect Engn, Lappeenranta 53850, Finland.
+RP Murashko, K (reprint author), Lappeenranta Univ Technol, Dept Elect Engn, Lappeenranta 53850, Finland.
+EM kirill.murashko@lut.fi; juha.pyrhonen@lut.fi; lasse.laurila@lut.fi
+FU European Union; European Regional Development Fund; Regional Council of
+   South Karelia
+FX The work was supported by the European Union, the European Regional
+   Development Fund, and the Regional Council of South Karelia. Paper no.
+   TEC-00335-2012.
+NR 28
+TC 13
+Z9 13
+U1 4
+U2 42
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8969
+J9 IEEE T ENERGY CONVER
+JI IEEE Trans. Energy Convers.
+PD JUN
+PY 2013
+VL 28
+IS 2
+BP 335
+EP 343
+DI 10.1109/TEC.2013.2255291
+PG 9
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA 172IS
+UT WOS:000320996300009
+ER
+
+PT J
+AU Yang, YL
+   Hu, XS
+   Qing, DT
+   Chen, FY
+AF Yang, Yalian
+   Hu, Xiaosong
+   Qing, Datong
+   Chen, Fangyuan
+TI Arrhenius Equation-Based Cell-Health Assessment: Application to Thermal
+   Energy Management Design of a HEV NiMH Battery Pack
+SO ENERGIES
+LA English
+DT Article
+DE battery thermal management; battery health; electrified vehicle
+ID PHASE-CHANGE MATERIAL; LITHIUM-ION BATTERY; POWER BATTERY; VEHICLE;
+   SYSTEM; DEGRADATION; SIMULATION; CHARGE; STATE
+AB This paper presents a model-based cell-health-conscious thermal energy management method. An Arrhenius equation-based mathematical model is firstly identified to quantify the effect of temperature on the cell lifetime of a Nickel Metal Hydride (NiMH) battery pack. The cell aging datasets collected under multiple ambient temperatures are applied to extract the Arrhenius equation parameters. The model is then used as an assessment criterion and guidance for the thermal management design of battery packs. The feasibility and applicability of a pack structure with its cooling system, is then evaluated, and its design problems are studied by a computational fluid dynamics (CFD) analysis. The performance and eligibility of the design method is validated by both CFD simulations and experiments.
+C1 [Yang, Yalian; Qing, Datong; Chen, Fangyuan] Chongqing Univ, SKLMT, Chongqing 400030, Peoples R China.
+   [Hu, Xiaosong] Beijing Inst Technol, Natl Engn Lab Elect Vehicles, Beijing 100081, Peoples R China.
+   [Hu, Xiaosong] Chalmers, Dept Signals & Syst, S-41296 Gothenburg, Sweden.
+RP Hu, XS (reprint author), Beijing Inst Technol, Natl Engn Lab Elect Vehicles, Beijing 100081, Peoples R China.
+EM yyl@cqu.edu.cn; xiaosong@chalmers.se; dtqin@cqu.edu.cn;
+   chenfangyuan001@yahoo.com.cn
+FU National Natural Science Foundation of China [51075411]; Specialized
+   Research Fund for State Key Laboratories in China [0301002109148]
+FX The authors would like to acknowledge Huei Peng at The University of
+   Michigan (Ann Arbor, MI, USA) for insightful and constructive comments
+   and language polishing. The research work was also partly supported by
+   the National Natural Science Foundation of China (51075411) and
+   Specialized Research Fund for State Key Laboratories in China
+   (0301002109148).
+NR 28
+TC 9
+Z9 9
+U1 7
+U2 63
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 1996-1073
+J9 ENERGIES
+JI Energies
+PD MAY
+PY 2013
+VL 6
+IS 5
+BP 2709
+EP 2725
+DI 10.3390/en6052709
+PG 17
+WC Energy & Fuels
+SC Energy & Fuels
+GA 151EJ
+UT WOS:000319443200020
+ER
+
+PT J
+AU Dandurand, B
+   Guarneri, P
+   Fadel, G
+   Wiecek, MM
+AF Dandurand, Brian
+   Guarneri, Paolo
+   Fadel, Georges
+   Wiecek, Margaret M.
+TI Equitable Multi-Objective Optimization Applied to the Design of a Hybrid
+   Electric Vehicle Battery
+SO JOURNAL OF MECHANICAL DESIGN
+LA English
+DT Article
+ID THERMAL MANAGEMENT-SYSTEM; PHASE-CHANGE MATERIAL; CAPACITY FADE;
+   PERFORMANCE; PACKS
+AB This work considers the impact of thermal behavior in battery design. The cell performance worsens when the operating temperature falls outside of the ideal range, and evenness of cell temperatures is sought to prevent cell electrical unbalance which may lead to performance fading and premature failure. The heat transfer between the cells and the coolant depends on the cell packaging and layout. A multi-objective optimization model is posed whose Pareto efficient designs minimize cell temperature deviations while maintaining evenness of temperature distribution. The special characteristics of the battery design problem (comparable objectives, anonymity and Pigou-Dalton principle of transfers) make it suitable for the application of the equitability preference, which is a refinement of the Pareto optimality that has not been used in engineering design. The proposed approach based on equitability is applied to compute the spacing of the cylindrical cells in a battery module that yields an optimal thermal behavior.
+C1 [Dandurand, Brian; Guarneri, Paolo; Fadel, Georges; Wiecek, Margaret M.] Clemson Univ, Dept Math Sci, Clemson, SC 29634 USA.
+RP Dandurand, B (reprint author), Clemson Univ, Dept Math Sci, Clemson, SC 29634 USA.
+EM bdandur@clemson.edu; pguarne@clemson.edu; fgeorge@clemson.edu;
+   wmalgor@clemson.edu
+FU Automotive Research Center, a center of excellence of the US Army TACOM;
+   National Science Foundation [CMMI-1129969]
+FX We thank Dr. Dohoy Young and his team from the University of Michigan
+   Dearborn who supplied us with the thermal models for the batteries. The
+   views presented in this work do not necessarily represent the views of
+   our sponsors, the Automotive Research Center, a center of excellence of
+   the US Army TACOM, and the National Science Foundation, Grant No.
+   CMMI-1129969, whose support is greatly appreciated.
+NR 21
+TC 2
+Z9 2
+U1 1
+U2 9
+PU ASME
+PI NEW YORK
+PA TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 1050-0472
+J9 J MECH DESIGN
+JI J. Mech. Des.
+PD APR
+PY 2013
+VL 135
+IS 4
+AR 041004
+DI 10.1115/1.4023553
+PG 8
+WC Engineering, Mechanical
+SC Engineering
+GA 241MK
+UT WOS:000326171000005
+ER
+
+PT J
+AU Mayyas, A
+   Omar, M
+   Pisu, P
+   Mayyas, A
+   Alahmer, A
+   Montes, C
+AF Mayyas, A.
+   Omar, Mohammed
+   Pisu, P.
+   Mayyas, Ahmad
+   Alahmer, Ali
+   Montes, Carlos
+TI Thermal modeling of an on-board nickel-metal hydride pack in a
+   power-split hybrid configuration using a cell-based
+   resistancecapacitance, electro-thermal model
+SO INTERNATIONAL JOURNAL OF ENERGY RESEARCH
+LA English
+DT Article
+DE finite differencing; power-split hybrid architecture; cell-based model;
+   thermal management; driving cycles; hybrid power train
+AB Presented study discusses the development of a finite differencing (FD) thermal model for a power-split hybrid configuration employing a nickel-metal hydride battery pack. A resistancecapacitance electro-thermal model is used to couple the experimental boundary conditions (current, voltage, state of charge, and temperature) with the modeled battery resistance to capture its electro-chemical behavior and the cell exothermic reactions. Battery current, voltage, and temperature (discrete and full field) for a vehicle with a power-split hybrid configuration were collected under different standard (Federal Highway Driving Schedule and Federal Urban Dynamometer Driving Schedule (FUDS)) and artificially generated driving cycles. This manuscript analyzes the battery current and voltage in relation to vehicle speed and shows how the proposed FD model predicts the spatial and temporal temperature profiles of the power train in good agreement with the vehicle data as reported by the on-board diagnostics module. Copyright (c) 2011 John Wiley & Sons, Ltd.
+C1 [Mayyas, A.; Omar, Mohammed; Pisu, P.; Mayyas, Ahmad] Clemson Univ, Int Ctr Automot Res CU ICAR, Dept Automot Engn, Greenville, SC 29607 USA.
+   [Alahmer, Ali; Montes, Carlos] Clemson Univ, Dept Mech Engn, Greenville, SC 29607 USA.
+RP Omar, M (reprint author), Clemson Univ, Int Ctr Automot Res CU ICAR, 4 Res Dr, Greenville, SC 29607 USA.
+EM momar@clemson.edu
+RI Mayyas, Ahmad/J-3671-2014
+NR 20
+TC 4
+Z9 4
+U1 0
+U2 11
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-907X
+J9 INT J ENERG RES
+JI Int. J. Energy Res.
+PD MAR
+PY 2013
+VL 37
+IS 4
+BP 331
+EP 346
+DI 10.1002/er.1923
+PG 16
+WC Energy & Fuels; Nuclear Science & Technology
+SC Energy & Fuels; Nuclear Science & Technology
+GA 112DH
+UT WOS:000316571700004
+ER
+
+PT J
+AU Fleckenstein, M
+   Fischer, S
+   Bohlen, O
+   Baker, B
+AF Fleckenstein, Matthias
+   Fischer, Sebastian
+   Bohlen, Oliver
+   Baeker, Bernard
+TI Thermal Impedance Spectroscopy - A method for the thermal
+   characterization of high power battery cells
+SO JOURNAL OF POWER SOURCES
+LA English
+DT Article
+DE Thermal Impedance Spectroscopy; Battery modeling; Thermal
+   characterization; Heat conductivity measurement
+ID CADMIUM AEROSPACE CELLS; PHASE-CHANGE MATERIAL; LI-ION BATTERY;
+   CONDUCTIVITY MEASUREMENTS; MANAGEMENT; PACKS
+AB A new approach of Thermal Impedance Spectroscopy (TIS) is introduced for thermal characterization of battery cells. It examines the transfer behavior between internal heat generation and resulting battery surface temperature in the frequency domain. Compared to previously published TIS methods the internal heat generation forced by electrical operation can be determined without any previous knowledge or assumptions on the electric/electrochemical behavior of the battery cell. The complete procedure is demonstrated by the TIS-application on a cylindrical High-Power Li-Ion cell. By the use of a thermal battery model, its theoretical transfer function can be fitted to the TIS-measurement results in the Nyquist-Plot. Consequently, the specific heat capacity and the heat conductivity of the cell's jelly roll can be derived. A comparison of the exemplary operated TIS to conventional thermal characterization methods shows a difference of 5% in the heat capacity and 12% in the heat conductivity determination. Future improvements on the experimental setup are suggested in order to reach a higher measurement accuracy and additionally, the systematic advantages of the easy to operate and non-destructive TIS-method are presented. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Fleckenstein, Matthias; Bohlen, Oliver] BMW Peugeot Citroen Electrificat GmbH, D-80807 Munich, Germany.
+   [Fischer, Sebastian] Tech Univ Darmstadt, Fachgebiet Fahrzeugtech, D-64287 Darmstadt, Germany.
+   [Baeker, Bernard] Tech Univ Dresden, Dept Vehicle Mech, Inst Automot Engn, D-01069 Dresden, Germany.
+RP Fleckenstein, M (reprint author), BMW Peugeot Citroen Electrificat GmbH, Taunusstr 41, D-80807 Munich, Germany.
+EM Matthias.Fleckenstein@bpc-electrification.com
+RI Khan, Mohammad Rezwan/E-1422-2011
+OI Khan, Mohammad Rezwan/0000-0002-1532-0598
+NR 23
+TC 22
+Z9 22
+U1 1
+U2 59
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-7753
+J9 J POWER SOURCES
+JI J. Power Sources
+PD FEB 1
+PY 2013
+VL 223
+BP 259
+EP 267
+DI 10.1016/j.jpowsour.2012.07.144
+PG 9
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels; Materials
+   Science, Multidisciplinary
+SC Chemistry; Electrochemistry; Energy & Fuels; Materials Science
+GA 055OQ
+UT WOS:000312426700036
+ER
+
+PT S
+AU Sun, SM
+   Shi, Y
+   Liu, W
+AF Sun Shimei
+   Shi Yao
+   Liu Wei
+BE Zheng, L
+   Skuroda, S
+   Liu, H
+   Du, B
+   Wei, J
+   Zhao, Y
+TI The efficient thermal management of Proton exchange membrane fuel cells
+SO APPLIED MATERIALS AND TECHNOLOGIES FOR MODERN MANUFACTURING, PTS 1-4
+SE Applied Mechanics and Materials
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Applied Mechanics, Materials and
+   Manufacturing (ICAMMM 2013)
+CY AUG 24-25, 2013
+CL Dalian, PEOPLES R CHINA
+SP Dalian Polytechn Univ, Liaoning Key Lab Clean Text, Liaoning Engn Technol Res Ctr Clean Text
+DE fuel cell; Heat pipe; eat management
+AB According to the principle of heat transfer to set up corresponding model of lumped parameters, and calculate the heat production of proton exchange membrane fuel cell. Under the steady state condition, with the help of numerical simulation and calculation in Sinda/Fluent, heat which from the internal of battery can be diffused through the heat pipe, especially dealing with issues such as local overheating. The result of this research shows that the use of the technique of liquid phase change heat transfer in the close room can have a high heat transfer efficiency, also start quickly and isothermal performance is good, the finally, its control is simple and it is very suitable for heat removal of PEMFC battery pack.
+C1 [Sun Shimei; Shi Yao; Liu Wei] Jilin Jianzhu Univ, Municipal Environm Engn Inst, Changchun, Jilin Province, Peoples R China.
+RP Sun, SM (reprint author), Jilin Jianzhu Univ, Municipal Environm Engn Inst, 5088 XinCheng St, Changchun, Jilin Province, Peoples R China.
+EM sunshir@163.com; 434220606@qq.com
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU TRANS TECH PUBLICATIONS LTD
+PI STAFA-ZURICH
+PA LAUBLSRUTISTR 24, CH-8717 STAFA-ZURICH, SWITZERLAND
+SN 1660-9336
+BN 978-3-03785-888-2
+J9 APPL MECH MATER
+PY 2013
+VL 423-426
+BP 483
+EP 487
+DI 10.4028/www.scientific.net/AMM.423-426.483
+PG 5
+WC Engineering, Manufacturing; Engineering, Mechanical; Materials Science,
+   Multidisciplinary; Mechanics
+SC Engineering; Materials Science; Mechanics
+GA BA9GU
+UT WOS:000339363800099
+ER
+
+PT S
+AU Li, MD
+   Liang, P
+AF Li Maode
+   Liang Peng
+BE Galkowski, K
+   Kim, YH
+TI Simulation Analysis of Battery thermal Management System using Phase
+   Change Material(PCM)
+SO ADVANCES IN MECHATRONICS AND CONTROL ENGINEERING II, PTS 1-3
+SE Applied Mechanics and Materials
+LA English
+DT Proceedings Paper
+CT 2nd International Conference on Mechatronics and Control Engineering
+   (ICMCE 2013)
+CY AUG 28-29, 2013
+CL Dalian, PEOPLES R CHINA
+DE thermal management system; forced air cooling; PCM cooling; simulation
+AB This article mainly addresses the technology of improving heat dissipation performance of power battery packs using Phase Change Material (PCM). This new technology aims to reduce the temperature gradient among the battery packs. As the thermal properties of the pure paraffin wax are hard to meet the dissipation demand, changes are made to add graphite particles into it. Commercial CFD software ANSYS FLUENT is used to simulate the heat dissipation process during battery discharge using PCM and traditional forced air cooling methods. The simulation results show that both under constant current and pulse current the maximal temperature and temperature gradient by the end of discharging using PCM method are relatively lower than that of using forced air cooling method.
+C1 [Li Maode; Liang Peng] Tongji Univ, Coll Mech Engn, Shanghai 201804, Peoples R China.
+RP Li, MD (reprint author), Tongji Univ, Coll Mech Engn, 4800 Cao An Rd, Shanghai 201804, Peoples R China.
+EM limaode@tongji.edu.cn; liangpengtj@hotmail.com
+NR 7
+TC 0
+Z9 0
+U1 1
+U2 12
+PU TRANS TECH PUBLICATIONS LTD
+PI STAFA-ZURICH
+PA LAUBLSRUTISTR 24, CH-8717 STAFA-ZURICH, SWITZERLAND
+SN 1660-9336
+BN 978-3-03785-894-3
+J9 APPL MECH MATER
+PY 2013
+VL 433-435
+BP 2107
+EP 2112
+DI 10.4028/www.scientific.net/AMM.433-435.2107
+PG 6
+WC Automation & Control Systems; Engineering, Mechanical
+SC Automation & Control Systems; Engineering
+GA BA3YE
+UT WOS:000335121000411
+ER
+
+PT B
+AU Shen, JY
+   Dusmez, S
+   Khaligh, A
+AF Shen, Junyi
+   Dusmez, Serkan
+   Khaligh, Alireza
+GP IEEE
+TI An Advanced Electro-Thermal Cycle-Lifetime Estimation Model for LiFePO4
+   Batteries
+SO 2013 IEEE TRANSPORTATION ELECTRIFICATION CONFERENCE AND EXPO (ITEC)
+LA English
+DT Proceedings Paper
+CT IEEE Transportation Electrification Conference and Expo (ITEC)
+CY JUN 16-19, 2013
+CL Dearborn, MI
+SP IEEE, IEEE Power Elect Soc, IEEE Ind Applicat Soc, IEEE Power & Energy Soc, U S Dept Energy, Oak Ridge Natl Lab
+DE capacity fading; cycle lifetime; electric vehicle; energy storage
+   system; lithium iron phosphate battery
+ID MANAGEMENT-SYSTEMS; PACKS
+AB Electric vehicles (EVs) have been considered as one of the effective solutions to current energy and environment concerns. One of the challenges regarding the energy storage system (ESS) of today's electric vehicles, which are batteries, is the capacity fade. It is of great importance to identify and analyze the factors contributing to the capacity loss and predict the cell degradation. In this manuscript, an advanced systematic Lithium iron phosphate (LiFePO4) battery cell model is proposed to estimate the battery cell State-of-Charge (SOC), cell internal temperature, and battery cycle-lifetime. The accuracy of the proposed model is examined and verified through comparative analyses. Based on the proposed battery model, the impact of various factors, such as discharge current rate, temperature, peak discharge current and Depth-of-Discharge (DoD) and their effects on battery cell capacity loss and cycle-lifetime are investigated and studied.
+C1 [Shen, Junyi; Dusmez, Serkan; Khaligh, Alireza] Univ Maryland, Power Elect Energy Harvesting & Renewable Energie, Syst Res Inst, Elect & Comp Engn Dept, College Pk, MD 20742 USA.
+RP Shen, JY (reprint author), Univ Maryland, Power Elect Energy Harvesting & Renewable Energie, Syst Res Inst, Elect & Comp Engn Dept, College Pk, MD 20742 USA.
+EM Khaligh@ece.umd.edu
+NR 16
+TC 0
+Z9 0
+U1 2
+U2 9
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-0148-7; 978-1-4799-0146-3
+PY 2013
+PG 6
+WC Engineering, Electrical & Electronic; Transportation Science &
+   Technology
+SC Engineering; Transportation
+GA BA0OW
+UT WOS:000332037600055
+ER
+
+PT S
+AU Giegerich, M
+   Koffel, S
+   Filimon, R
+   Grosch, JL
+   Fuhner, T
+   Wenger, MM
+   Gepp, M
+   Lorentz, VRH
+AF Giegerich, M.
+   Koffel, S.
+   Filimon, R.
+   Grosch, J. L.
+   Fuehner, T.
+   Wenger, M. M.
+   Gepp, M.
+   Lorentz, V. R. H.
+GP IEEE
+TI Electrothermal Modeling and Characterization of High Capacity
+   Lithium-Ion Battery Systems for Mobile and Stationary Applications
+SO 39TH ANNUAL CONFERENCE OF THE IEEE INDUSTRIAL ELECTRONICS SOCIETY (IECON
+   2013)
+SE IEEE Industrial Electronics Society
+LA English
+DT Proceedings Paper
+CT 39th Annual Conference of the IEEE Industrial-Electronics-Society
+   (IECON)
+CY NOV 10-14, 2013
+CL Vienna, AUSTRIA
+SP IEEE Ind Elect Soc, Inst Elect & Elect Engineers, Austrian Inst Technol, Vienna Univ Technol
+ID MANAGEMENT; BEHAVIOR
+AB In mobile and stationary battery systems, lifetime expectancy is a key parameter for the calculation of monetary effectiveness. It significantly affects return on investment and therefore is a key parameter for the market breakthrough of the desired battery application. Battery life is influenced by two different factors, namely electrical utilization and environmental conditions. As higher temperatures lead to a faster deterioration of the lithium-ion battery, smart thermal design can not only increase battery lifetime, but also reduce cooling costs and improve overall efficiency. It is therefore essential to establish an effective thermal design through perfoming electrothermal modeling and characterization of the battery cell, battery module and fully assembled battery pack. In this paper, the motivation for electrothermal modeling of lithium-ion battery cells and modules is introduced and design challenges are identified for applications in mobile and stationary battery systems. An electrothermal model of batteries with appropriate cell chemistry for mobile and stationary applications is developed with focus on further implementation in thermal simulation of battery modules and packs. The parameterization process of the presented models is shown and a model of battery cells with derived parameters is presented. Finally, the electrothermal model is verified experimentally.
+C1 [Giegerich, M.; Koffel, S.; Filimon, R.; Grosch, J. L.; Fuehner, T.; Wenger, M. M.; Gepp, M.; Lorentz, V. R. H.] Fraunhofer IISB, Erlangen, Germany.
+RP Giegerich, M (reprint author), Fraunhofer IISB, Erlangen, Germany.
+EM vincent.lorentz@iisb.fraunhofer.de
+NR 22
+TC 1
+Z9 1
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1553-572X
+BN 978-1-4799-0224-8
+J9 IEEE IND ELEC
+PY 2013
+BP 6721
+EP 6727
+PG 7
+WC Automation & Control Systems; Engineering, Industrial; Engineering,
+   Electrical & Electronic
+SC Automation & Control Systems; Engineering
+GA BA0GT
+UT WOS:000331149506090
+ER
+
+PT J
+AU Lefebvre, L
+AF Lefebvre, L.
+TI Smart Battery Thermal Management for PHEV Efficiency
+SO OIL & GAS SCIENCE AND TECHNOLOGY-REVUE D IFP ENERGIES NOUVELLES
+LA English
+DT Article
+AB A smart battery thermal management is crucial for vehicle performances and battery lifetime targets achievements when electric and plug-in hybrid electric vehicles are concerned. The thermal system needs to be designed and tuned in accordance and compromises with powertrain and vehicle requirements, battery pack architecture, environmental constraints, costs, weight, etc., in a process that will be described in the first part of this paper. Among the portfolio of battery thermal management technologies, these items will be illustrated by two examples: thermal management by cabin air and by refrigerant in a direct cooling, enlightening a decision process. A simplified battery thermo-electric simulation model, which the second part of our work focuses on, has been built, first for both thermal and energetic balance dimensioning of the battery thermal management system. Examples are given on these two perspectives. That simplified simulation model has also identified some promising thermal management strategies for improving vehicle efficiency and performances and battery lifetime. That is the task of the last part of this paper. Battery heating has shown opportunities for improving energy and power availability at cold conditions and, thus, electric drive availability and autonomy. Post-cooling the battery at the end of a journey and its pre-conditioning before the following journey, not only improve vehicle efficiency, electric drive availability and autonomy, but also enhance battery lifetime and compromises with cabin thermal comfort. Others promising strategies optimizing the relation between vehicle performances and battery lifetime are still under investigations.
+C1 PSA Peugeot Citroen, Direct Rech & Dev, F-92250 La Garenne Colombes, France.
+RP Lefebvre, L (reprint author), PSA Peugeot Citroen, Direct Rech & Dev, 18 Rue Fauvelles, F-92250 La Garenne Colombes, France.
+EM ludovic.lefebvre@mpsa.com
+NR 5
+TC 0
+Z9 0
+U1 2
+U2 21
+PU EDITIONS TECHNIP
+PI PARIS 15
+PA 27 RUE GINOUX, 75737 PARIS 15, FRANCE
+SN 1294-4475
+EI 1953-8189
+J9 OIL GAS SCI TECHNOL
+JI Oil Gas Sci. Technol.
+PD JAN-FEB
+PY 2013
+VL 68
+IS 1
+BP 149
+EP 164
+DI 10.2516/ogst/2012076
+PG 16
+WC Energy & Fuels; Engineering, Chemical; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 233VU
+UT WOS:000325598400014
+ER
+
+PT J
+AU Lin, XF
+   Fu, H
+   Perez, HE
+   Siege, JB
+   Stefanopoulou, AG
+   Ding, Y
+   Castanier, MP
+AF Lin, Xinfan
+   Fu, Huan
+   Perez, Hector E.
+   Siege, Jason B.
+   Stefanopoulou, Anna G.
+   Ding, Yi
+   Castanier, Matthew P.
+TI Parameterization and Observabiliiy Analysis of Scalable Battery Clusters
+   for Onboard Thermal Management
+SO OIL & GAS SCIENCE AND TECHNOLOGY-REVUE D IFP ENERGIES NOUVELLES
+LA English
+DT Article
+ID SYSTEMS
+AB Although the battery surface temperature is commonly measured, the core temperature of a cell may be much higher hence more critical than the surface temperature. The core temperature of a battery, though usually unmeasured in commercial applications, can be estimated by an observer, based on a lumped-parameter battery thermal model and the measurement of the current and the surface temperature. Even with a closed loop observer based on the measured surface temperature, the accuracy of the core temperature estimation depends on the model parameters. For such purpose, an online parameterization methodology and an adaptive observer are designed for a cylindrical battery. The single cell thermal model is then scaled up to create a battery cluster model to investigate the temperature pattern of the cluster The modeled thermal interconnections between cells include cell to cell heat conduction and convection to the surrounding coolant flow. An observability analysis is performed on the cluster before designing a closed loop observer for the pack. Based on the analysis, guidelines for determining the minimum number of required sensors and their exact locations are derived that guarantee the observability of all temperature states.
+C1 [Lin, Xinfan; Fu, Huan; Perez, Hector E.; Siege, Jason B.; Stefanopoulou, Anna G.] Univ Michigan, Dept Mech Engn, Ann Arbor, MI 48109 USA.
+   [Ding, Yi; Castanier, Matthew P.] US Army Tank Automot Res Dev & Engn Ctr TARDEC, Warren, MI 48397 USA.
+RP Lin, XF (reprint author), Univ Michigan, Dept Mech Engn, Ann Arbor, MI 48109 USA.
+EM xflin@umich.edu; fuhuan@umich.edu; heperez@umich.edu;
+   siegeljb@umich.edu; annastef@umich.edu; yi.ding@us.army.mil;
+   matt.castanier@us.army.mil
+RI Khan, Mohammad Rezwan/E-1422-2011
+OI Khan, Mohammad Rezwan/0000-0002-1532-0598
+FU US Army Tank Automotive Research, Development and Engineering Center
+   (TARDEC); Automotive Research Center (ARC); US Army center of excellence
+   in modeling and simulation of ground vehicles; Ford Motor Company
+FX Thanks to the US Army Tank Automotive Research, Development and
+   Engineering Center (TARDEC), Automotive Research Center (ARC), a US Army
+   center of excellence in modeling and simulation of ground vehicles, and
+   Ford Motor Company for funding this work.
+NR 21
+TC 14
+Z9 14
+U1 0
+U2 4
+PU EDITIONS TECHNIP
+PI PARIS 15
+PA 27 RUE GINOUX, 75737 PARIS 15, FRANCE
+SN 1294-4475
+EI 1953-8189
+J9 OIL GAS SCI TECHNOL
+JI Oil Gas Sci. Technol.
+PD JAN-FEB
+PY 2013
+VL 68
+IS 1
+BP 165
+EP 178
+DI 10.2516/ogst/2012075
+PG 14
+WC Energy & Fuels; Engineering, Chemical; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 233VU
+UT WOS:000325598400015
+ER
+
+PT B
+AU Chen, JS
+   Hu, YR
+AF Chen, Jyh-Shin
+   Hu, Yiran
+GP ASME
+TI IMPLEMENTATION OF A CONTROL-ORIENTED ELECTRO-THERMAL BATTERY PACK MODEL
+   USING MODELICA
+SO PROCEEDINGS OF THE ASME 5TH ANNUAL DYNAMIC SYSTEMS AND CONTROL DIVISION
+   CONFERENCE AND JSME 11TH MOTION AND VIBRATION CONFERENCE, DSCC 2012, VOL
+   1
+LA English
+DT Proceedings Paper
+CT 5th Annual Dynamic Systems and Control Division Conference / 11th JSME
+   Motion and Vibration Conference
+CY OCT 17-19, 2012
+CL Ft Lauderdale, FL
+SP ASME, DSCD, JSME
+AB Control oriented battery pack models can be very useful in the context of electrified vehicle development because such models can be used to develop the battery management system, which is a broad term that encompasses everything from thermal management and charge balancing to state of charge estimation. In this paper, a control oriented battery pack model is developed using the Modelica modeling environment. This model combines a Randle equivalent circuit representation with an lumped parameter thermal model for each cell to provide simultaneously the electrical and thermal variations among the cells. Modelica differs from modeling environment such as Simulink because it offers non-causal modeling, which handles both differential and algebraic equations. The resulting implementation is both scalable and flexible to accomodate any pack size, geometry, and connection. As part of the future work, supporting architectures such as the charge balancing system and thermal management system can be added to the pack model to simulate the complete pack operation.
+C1 [Chen, Jyh-Shin; Hu, Yiran] Gen Motors Res & Dev, Prop Syst Res Lab, Warren, MI 48093 USA.
+RP Chen, JS (reprint author), Gen Motors Res & Dev, Prop Syst Res Lab, Warren, MI 48093 USA.
+EM jason.chen@gm.com; yiran.hu@gm.com
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER SOC MECHANICAL ENGINEERS
+PI NEW YORK
+PA THREE PARK AVENUE, NEW YORK, NY 10016-5990 USA
+BN 978-0-7918-4529-5
+PY 2013
+BP 273
+EP 278
+PG 6
+WC Automation & Control Systems; Engineering, Electrical & Electronic;
+   Engineering, Mechanical
+SC Automation & Control Systems; Engineering
+GA BGR81
+UT WOS:000323918100031
+ER
+
+PT S
+AU Liu, HW
+   Zhang, J
+   Xin, NL
+AF Liu, Hongwei
+   Zhang, Juan
+   Xin, Nailong
+BE Li, YG
+   Li, Y
+   Pan, WG
+TI Simulation Analysis of the Heat Temperature Field of Lithium-ion Battery
+   Pack for Pure Electric Vehicle
+SO PROGRESS IN RENEWABLE AND SUSTAINABLE ENERGY, PTS 1 AND 2
+SE Advanced Materials Research
+LA English
+DT Proceedings Paper
+CT 2nd International Conference on Energy, Environment and Sustainable
+   Development (EESD 2012)
+CY OCT 12-14, 2012
+CL Jilin, PEOPLES R CHINA
+SP NE Dianli Univ, Shanghai Univ Elect Power
+DE Pure electric vehicle; Lithium-ion battery pack; The heat temperature
+   field; Simulation analysis
+AB To reduce the influence of heat temperature conditions on performance, reliability and safety of lithium-ion battery pack for pure electric vehicle, and then on the vehicle performance. This article selects the heat temperature field of lithium-ion battery pack as the research object. Firstly, the heat temperature condition of the battery is analyzed, and the distribution of the heat temperature field is determined; Secondly, the heat model and the heat rate model are set up, and the thermal model of the thermal physical parameters and definite solution conditions are determined; Finally, the heat of battery pack is analyzed by CFD, including using Fluent module in ANSYS software; Through the simulation analysis of heat temperature field of lithium-ion battery, theoretical guidances of reasonable design to the heat management system are provided.
+C1 [Liu, Hongwei; Zhang, Juan; Xin, Nailong] Jilin Univ, State Key Lab Automot Simulat & Control, Changchun 130025, Peoples R China.
+RP Liu, HW (reprint author), Jilin Univ, State Key Lab Automot Simulat & Control, Changchun 130025, Peoples R China.
+EM asgroup@163.com; zhangjuan90122@163.com; xin5348550@163.com
+NR 4
+TC 0
+Z9 0
+U1 4
+U2 11
+PU TRANS TECH PUBLICATIONS LTD
+PI STAFA-ZURICH
+PA LAUBLSRUTISTR 24, CH-8717 STAFA-ZURICH, SWITZERLAND
+SN 1022-6680
+BN 978-3-03785-549-2
+J9 ADV MATER RES-SWITZ
+PY 2013
+VL 608-609
+BP 1594
+EP 1599
+DI 10.4028/www.scientific.net/AMR.608-609.1594
+PN 1-2
+PG 6
+WC Energy & Fuels; Materials Science, Multidisciplinary
+SC Energy & Fuels; Materials Science
+GA BFD86
+UT WOS:000319300800293
+ER
+
+PT J
+AU Alaoui, C
+AF Alaoui, Chakib
+TI Solid-State Thermal Management for Lithium-Ion EV Batteries
+SO IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+LA English
+DT Article
+DE Battery thermal management system (BTMS); electric vehicles (EVs);
+   lithium-ion (Li-ion) batteries; thermoelectric coolers (TECs)
+ID TEMPERATURE; PERFORMANCE
+AB Battery thermal management system (BTMS) is essential for electric-vehicle (EV) and hybrid-vehicle (HV) battery packs to operate effectively in all climates. Lithium-ion (Li-ion) batteries offer many advantages to the EV such as high power and high specific energy. However, temperature affects their performance, safety, and productive life. This paper is about the design and evaluation of a BTMS based on the Peltier effect heat pumps. The discharge efficiency of a 60-Ah prismatic Li-ion pouch cell was measured under different rates and different ambient temperature values. The obtained results were used to design a solid-state BTMS based on Peltier thermoelectric coolers (TECs). The proposed BTMS is then modeled and evaluated at constant current discharge in the laboratory. In addition, The BTMS was installed in an EV that was driven in the US06 cycle. The thermal response and the energy consumption of the proposed BTMS were satisfactory.
+C1 Taif Univ, Coll Comp & Informat Technol, At Taif 21974, Saudi Arabia.
+RP Alaoui, C (reprint author), Taif Univ, Coll Comp & Informat Technol, At Taif 21974, Saudi Arabia.
+EM chakib@tu.edu.sa
+FU Taif University [1-432-1265]
+FX This work was supported by Taif University under Grant 1-432-1265. The
+   review of this paper was coordinated by Mr. D. Diallo.
+NR 28
+TC 18
+Z9 18
+U1 2
+U2 49
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9545
+J9 IEEE T VEH TECHNOL
+JI IEEE Trans. Veh. Technol.
+PD JAN
+PY 2013
+VL 62
+IS 1
+BP 98
+EP 107
+DI 10.1109/TVT.2012.2214246
+PG 10
+WC Engineering, Electrical & Electronic; Telecommunications; Transportation
+   Science & Technology
+SC Engineering; Telecommunications; Transportation
+GA 138MZ
+UT WOS:000318514000010
+ER
+
+PT J
+AU Karimi, G
+   Li, X
+AF Karimi, G.
+   Li, X.
+TI Thermal management of lithium-ion batteries for electric vehicles
+SO INTERNATIONAL JOURNAL OF ENERGY RESEARCH
+LA English
+DT Article
+DE lithium-ion battery; thermal management; mathematical modeling;
+   convection cooling; discharge
+ID TEMPERATURE DISTRIBUTION; PACKS; SIMULATION; UNIFORMITY; DESIGN; SYSTEM
+AB Thermal issues associated with electric vehicle battery packs can significantly affect performance and life cycle. Fundamental heat transfer principles and performance characteristics of commercial lithium-ion battery are used to predict the temperature distributions in a typical battery pack under a range of discharge conditions. Various cooling strategies are implemented to examine the relationship between battery thermal behavior and design parameters. By studying the effect of cooling conditions and pack configuration on battery temperature, information is obtained as to how to maintain operating temperature by designing proper battery configuration and choosing proper cooling systems. It was found that a cooling strategy based on distributed forced convection is an efficient, cost-effective method which can provide uniform temperature and voltage distributions within the battery pack at various discharge rates. Copyright (C) 2012 John Wiley & Sons, Ltd.
+C1 [Karimi, G.; Li, X.] Univ Waterloo, Dept Mech & Mechatron Engn, Waterloo, ON N2L 3G1, Canada.
+RP Li, X (reprint author), Univ Waterloo, Dept Mech & Mechatron Engn, Waterloo, ON N2L 3G1, Canada.
+EM x6li@uwaterloo.ca
+NR 19
+TC 46
+Z9 46
+U1 12
+U2 95
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-907X
+J9 INT J ENERG RES
+JI Int. J. Energy Res.
+PD JAN
+PY 2013
+VL 37
+IS 1
+BP 13
+EP 24
+DI 10.1002/er.1956
+PG 12
+WC Energy & Fuels; Nuclear Science & Technology
+SC Energy & Fuels; Nuclear Science & Technology
+GA 074JB
+UT WOS:000313807700002
+ER
+
+EF

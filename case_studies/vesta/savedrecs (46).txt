@@ -1,0 +1,2264 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT S
+AU Ostergaard, KZ
+   Brath, P
+   Stoustrup, J
+AF Ostergaard, K. Z.
+   Brath, P.
+   Stoustrup, J.
+BA Sorensen, JN
+BF Sorensen, JN
+BE Hansen, MOL
+   Hansen, KS
+TI Estimation of effective wind speed - art. no. 012082
+SO Science of Making Torque from Wind
+SE JOURNAL OF PHYSICS CONFERENCE SERIES
+LA English
+DT Proceedings Paper
+CT Conference on the Science of Making Torque from Wind
+CY AUG 28-31, 2007
+CL Tech Univ Denmark, Lyngby, DENMARK
+HO Tech Univ Denmark
+AB The wind speed has a huge impact on the dynamic response of wind turbine. Because of this, many control algorithms use a measure of the wind speed to increase performance, e.g. by gain scheduling and feed forward.
+   Unfortunately, no accurate measurement of the effective wind speed is online available from direct measurements, which means that it must be estimated in order to make such control methods applicable in practice.
+   In this paper a new method is presented for the estimation of the effective wind speed. First, the rotor speed and aerodynamic torque are estimated by a combined state and input observer. These two variables combined with the measured pitch angle is then used to calculate the effective wind speed by an inversion of a static aerodynamic model.
+RI Stoustrup, Jakob/A-9457-2008
+OI Stoustrup, Jakob/0000-0001-9202-3135
+NR 18
+TC 27
+Z9 28
+U1 0
+U2 4
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1742-6588
+J9 J PHYS CONF SER
+PY 2007
+VL 75
+BP 12082
+EP 12082
+AR 012082
+DI 10.1088/1742-6596/75/1/012082
+PG 9
+WC Energy & Fuels; Mechanics; Physics, Fluids & Plasmas
+SC Energy & Fuels; Mechanics; Physics
+GA BGR73
+UT WOS:000250141300082
+ER
+
+PT S
+AU Bottasso, CL
+   Croce, A
+   Savini, B
+AF Bottasso, C. L.
+   Croce, A.
+   Savini, B.
+BA Sorensen, JN
+BF Sorensen, JN
+BE Hansen, MOL
+   Hansen, KS
+TI Performance comparison of control schemes for variable-speed wind
+   turbines
+SO SCIENCE OF MAKING TORQUE FROM WIND
+SE Journal of Physics Conference Series
+LA English
+DT Proceedings Paper
+CT Conference on the Science of Making Torque from Wind
+CY AUG 28-31, 2007
+CL Tech Univ Denmark, Lyngby, DENMARK
+HO Tech Univ Denmark
+AB We analyze the performance of different control schemes when applied to the regulation problem of a variable-speed representative wind turbine. In particular, we formulate and compare a wind-scheduled PID, a LQR controller and a novel adaptive non-linear model predictive controller, equipped with observers of the tower states and wind. The simulations include gusts and turbulent winds of varying intensity in nominal as well as off-design operating conditions. The experiments highlight the possible advantages of model-based non-linear control strategies.
+C1 Politecn Milan, Dipartimento Ingn Aerosp, I-20156 Milan, Italy.
+RP Bottasso, CL (reprint author), Politecn Milan, Dipartimento Ingn Aerosp, Via La Masa 24, I-20156 Milan, Italy.
+EM carlo.bottasso@polimi.it
+RI Croce, Alessandro/F-9811-2012; Bottasso, Carlo Luigi/F-9813-2012
+OI Croce, Alessandro/0000-0002-7640-5253; Bottasso, Carlo
+   Luigi/0000-0002-9931-4389
+NR 7
+TC 4
+Z9 4
+U1 0
+U2 2
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1742-6588
+J9 J PHYS CONF SER
+PY 2007
+VL 75
+AR 012079
+DI 10.1088/1742-6596/75/1/012079
+PG 9
+WC Energy & Fuels; Mechanics; Physics, Fluids & Plasmas
+SC Energy & Fuels; Mechanics; Physics
+GA BGR73
+UT WOS:000250141300079
+ER
+
+PT J
+AU Giebel, G
+AF Giebel, Gregor
+TI A variance analysis of the capacity displaced by wind energy in Europe
+SO WIND ENERGY
+LA English
+DT Article
+DE large-scale integration; dispersed turbine systems; complementary power
+   plant; fossil fuel power generation
+ID NEURAL-NETWORK
+AB Wind energy generation distributed all over Europe is less variable than generation from a single region. To analyse the benefits of distributed generation, the whole electrical generation system of Europe has been modelled including varying penetrations of wind power. The model is chronologically simulating the scheduling of the European power plants to cover the demand at every hour of the year. The wind power generation was modelled using wind speed measurements from 60 meteorological stations, for 1 year. The distributed wind power also displaces fossil-fuelled capacity. However, every assessment of the displaced capacity (or a capacity credit) by means of a chronological model is highly sensitive to single events. Therefore the wind time series was shifted by integer days against the load time series, and the different results were aggregated. The some set of results is shown for two other options, one where the pump storage plants are used more aggressively and the other where all German nuclear plants are shut off NCEP/NCAR reanalysis data have been used to recreate the same averaged time series from a data set spanning 34 years. Through this it is possible to set the year studied in detail into a longer-term context. The results are that wind energy can contribute more than 20% of the European demand without significant changes in the system and can replace conventional capacity worth about 10% of the installed wind power capacity. The long-term reference shows that the analysed year is the worst case for wind power integration. Copyright (c) 2006 John Wiley & Sons, Ltd.
+C1 Riso Natl Lab, DK-4000 Roskilde, Denmark.
+RP Giebel, G (reprint author), Riso Natl Lab, POB 49, DK-4000 Roskilde, Denmark.
+EM gregor.giebel@risoe.dk
+RI Giebel, Gregor/C-9476-2011
+OI Giebel, Gregor/0000-0002-4453-8756
+NR 17
+TC 24
+Z9 24
+U1 0
+U2 11
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1095-4244
+J9 WIND ENERGY
+JI Wind Energy
+PD JAN-FEB
+PY 2007
+VL 10
+IS 1
+BP 69
+EP 79
+DI 10.1002/we.208
+PG 11
+WC Energy & Fuels; Engineering, Mechanical
+SC Energy & Fuels; Engineering
+GA 132ST
+UT WOS:000243963200005
+ER
+
+PT J
+AU Hansen, AD
+   Hansen, LH
+AF Hansen, Arica D.
+   Hansen, Lars H.
+TI Wind turbine concept market penetration over 10 years (1995-2004)
+SO WIND ENERGY
+LA English
+DT Article
+DE wind turbine concepts; fixed speed wind turbine; variable speed wind
+   turbine; market penetration
+AB The aim of this article is to investigate the market penetration and share of different wind turbine concepts during the years 1995-2004, a period that represents the maturational era of the modem wind power industry. A detailed overview is given based on suppliers' market data and concept evaluation for each individual wind turbine type sold by the Top Ten suppliers over the selected decade. The investigation is processing information on approximately 160 wind turbine types from 22 different manufacturers that have featured in the Top Ten list of wind turbine suppliers during 1995-2004. The analysis is based on comprehensive data covering approximately 97% of the cumulative wind power installed worldwide at the end of 2004. The article also provides an overall perspective on contemporary wind turbine concepts, classified with respect to both their speed control ability and power control type. Current and future trends for wind turbine concepts are discussed. Copyright (c) 2006 John Wiley & Sons, Ltd.
+C1 Riso Natl Lab, Wind Energy Dept, DK-4000 Roskilde, Denmark.
+   Force Technol, DK-2800 Lyngby, Denmark.
+RP Hansen, AD (reprint author), Riso Natl Lab, Wind Energy Dept, POB 49, DK-4000 Roskilde, Denmark.
+EM anca.daniela.hansen@risoe.dk
+RI Hansen, Anca/C-6806-2008
+NR 17
+TC 97
+Z9 102
+U1 0
+U2 8
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1095-4244
+EI 1099-1824
+J9 WIND ENERGY
+JI Wind Energy
+PD JAN-FEB
+PY 2007
+VL 10
+IS 1
+BP 81
+EP 97
+DI 10.1002/we.210
+PG 17
+WC Energy & Fuels; Engineering, Mechanical
+SC Energy & Fuels; Engineering
+GA 132ST
+UT WOS:000243963200006
+ER
+
+PT J
+AU Xing, ZX
+   Zheng, TQ
+   Liu, GD
+   Yao, XJ
+AF Xing, Zuoxia
+   Zheng, Trillion Q.
+   Liu, Guangde
+   Yao, Xingjia
+TI BP neural network PID control in variable speed adjustable pitch wind
+   turbine control system
+SO DYNAMICS OF CONTINUOUS DISCRETE AND IMPULSIVE SYSTEMS-SERIES
+   B-APPLICATIONS & ALGORITHMS
+LA English
+DT Proceedings Paper
+CT International Conference on Sensing, Computing and Automation
+CY MAY 08-11, 2006
+CL Chongqing, PEOPLES R CHINA
+AB A BP Neural Network PID control method was applied in the variable speed adjustable pitch wind turbine control system. For the problems of non-linear, parameters time changing, large disturbance and time-lag characteristic existing in hydraulic driven pitch system, the advanced intelligent algorithm needs to be used. After analyzed the hydraulic oil flow path, mathematic model and parameters changing at three kinds of operation status, the BP Neural Network PID control principle,.vas used, the simulation results based on 7.5kW variable speed adjustable pitch wind turbine design were showed out, which verified the BP ANN PID algorithm has good performance to control the parameters changing, disturbance and time-lag. In the end, further problems needed to be solved were proposed.
+C1 Beijing Univ, Sch Elect Engn, Beijing 100871, Peoples R China.
+   Shenyang Univ Tech, Wind Energy Inst, Shenyang, Peoples R China.
+RP Xing, ZX (reprint author), Beijing Univ, Sch Elect Engn, Beijing 100871, Peoples R China.
+EM xingzuox1976@163.com; qlzheng@center.ntju.edu.cn; liugde@126.com;
+   xingjia@vip.163.com
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WATAM PRESS
+PI WATERLOO
+PA C/O DCDIS JOURNAL, 317 KAREN PLACE, WATERLOO, ONTARIO N2L 6K8, CANADA
+SN 1492-8760
+J9 DYNAM CONT DIS SER B
+JI Dyn. Contin. Discret. Impuls. Syst. Ser. B-Appl. Algorithms
+PD DEC
+PY 2006
+VL 13E
+SU S
+BP 1094
+EP 1098
+PN 3
+PG 5
+WC Mathematics, Applied
+SC Mathematics
+GA 201OC
+UT WOS:000248840700015
+ER
+
+PT J
+AU Camblong, H
+   de Alegria, IM
+   Rodriguez, M
+   Abad, G
+AF Camblong, H.
+   de Alegria, I. Martinez
+   Rodriguez, M.
+   Abad, G.
+TI Experimental evaluation of wind turbines maximum power point tracking
+   controllers
+SO ENERGY CONVERSION AND MANAGEMENT
+LA English
+DT Article
+DE variable speed wind turbine; control; test bench; energetic efficiency;
+   performance evaluation
+ID GENERATION SYSTEMS; SPEED; OPTIMIZATION
+AB Wind energy technology has experienced important improvements this last decade. The transition from fixed speed to variable speed wind turbines has been a significant element of these improvements. It has allowed adapting the turbine rotational speed to the wind speed variations with the aim of optimizing the aerodynamic efficiency. A classic controller that has slow dynamics relative to the mechanical dynamics of the drive train is implemented in commercial wind turbines. The objective of the work related in this paper has been to evaluate the implementation, on a test bench, of a controller whose dynamics can be adjusted to be faster and to compare in particular its aerodynamic efficiency with the conventional controller. In theory, the higher dynamics of the non-classic controller has to lead to a better efficiency. A 180 kW wind turbine whose simulation model has been validated with field data is emulated on an 18 kW test bench. The emulator has also been validated. Test bench trials are a very useful step between numerical simulation and trials on the real system because they allow analyzing some phenomena that may not appear in simulations without endangering the real system. The trials on the test bench show that the non-conventional controller leads to a higher aerodynamic efficiency and that this is offset by higher mechanical torque and electric power fluctuations. Nevertheless, the amplitudes of these fluctuations are relatively low compared to their rated values. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 LIPSI ESTIA, F-64210 Bidart, France.
+   Univ Basque Country, Bilbao 48013, Spain.
+   EPS, Arrasate Mondragon, Spain.
+RP Camblong, H (reprint author), LIPSI ESTIA, Technopole Izarbel, F-64210 Bidart, France.
+EM h.camblong@estia.fr
+OI Camblong, Haritza/0000-0001-8794-0190
+NR 22
+TC 67
+Z9 73
+U1 0
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0196-8904
+J9 ENERG CONVERS MANAGE
+JI Energy Conv. Manag.
+PD NOV
+PY 2006
+VL 47
+IS 18-19
+BP 2846
+EP 2858
+DI 10.1016/j.enconman.2006.03.033
+PG 13
+WC Thermodynamics; Energy & Fuels; Mechanics; Physics, Nuclear
+SC Thermodynamics; Energy & Fuels; Mechanics; Physics
+GA 074PI
+UT WOS:000239823900003
+ER
+
+PT J
+AU Seman, S
+   Niiranen, J
+   Arkkio, A
+AF Seman, Slavomir
+   Niiranen, Jouko
+   Arkkio, Antero
+TI Ride-through analysis of doubly fed induction wind-power generator under
+   unsymmetrical network disturbance
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Article
+DE active crowbar; direct torque control (DTC); doubly fed induction
+   generator (DFIG); modeling; unsymmetrical disturbance; variable speed
+   wind turbine
+ID TURBINES; SYSTEM; SPEED
+AB This paper presents a ride-through simulation study of a 2-MW wind-power doubly fed induction generator (DFIG) under a short-term unsymmetrical network disturbance. The DFIG is represented by an analytical two-axis model with constant lumped parameters and by a finite element method (FEM)-based model. The model of the DFIG is coupled with the model of the active crowbar protected and direct torque controlled (DTC) frequency converter, the model of the main transformer, and a simple model of the grid. The simulation results show the ride-through capability of the studied doubly fed wind-power generator. The results obtained by means of an analytical model and FEM model are compared in order to reveal the influence of the different modeling approaches on the short-term transient simulation accuracy.
+C1 Helsinki Univ Technol, Lab Electromech, FIN-02015 Helsinki, Finland.
+   ABB Oy, FIN-00381 Helsinki, Finland.
+RP Seman, S (reprint author), Helsinki Univ Technol, Lab Electromech, FIN-02015 Helsinki, Finland.
+EM slavomir.seman@hut.fi; jouko.niiranen@fi.abb.com; antero.arkkio@hut.fi
+RI Arkkio, Antero/G-2203-2013
+NR 21
+TC 99
+Z9 108
+U1 4
+U2 9
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8950
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD NOV
+PY 2006
+VL 21
+IS 4
+BP 1782
+EP 1789
+DI 10.1109/TPWRS.2006.882471
+PG 8
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 102UV
+UT WOS:000241839700036
+ER
+
+PT J
+AU Boukhezzar, B
+   Siguerdidjane, H
+   Hand, MM
+AF Boukhezzar, B.
+   Siguerdidjane, H.
+   Hand, M. Maureen
+TI Nonlinear control of variable-speed wind turbines for generator torque
+   limiting and power optimization
+SO JOURNAL OF SOLAR ENERGY ENGINEERING-TRANSACTIONS OF THE ASME
+LA English
+DT Article
+AB to maximize wind power extraction, a variable-speed wind turbine (VSWT) should operate as close as possible to its optimal power coefficient. The generator torque is used as a control input to improve wind energy capture by forcing the wind turbine (WT) to stay close to the maximum energy point. In general, current control techniques do not take into account the dynamical and stochastic aspect of both turbine and wind, leading to significant power losses. In addition, they are not robust with respect to disturbances. In order to address these weaknesses, a nonlinear approach, without wind speed measurement for VSWT control, is proposed. Nonlinear static and dynamic state feedback controllers with wind speed estimator are then derived. The controllers were tested with a WT simple mathematical model and are validated with an aeroelastic wind turbine simulator in the presence of disturbances and measurement noise. The results have shown better performance in comparison with existing controllers.
+C1 Supelec, Dept Automat Control, F-91192 Gif Sur Yvette, France.
+   Natl Wind Technol Ctr, Natl Renewable Energy Lab, Golden, CO 80401 USA.
+RP Boukhezzar, B (reprint author), Supelec, Dept Automat Control, F-91192 Gif Sur Yvette, France.
+EM boubekeur.boukhezzar@greyc.ensicaen.fr; houria.siguerdidjane@supelec.fr
+NR 25
+TC 60
+Z9 66
+U1 0
+U2 12
+PU ASME-AMER SOC MECHANICAL ENG
+PI NEW YORK
+PA THREE PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0199-6231
+J9 J SOL ENERG-T ASME
+JI J. Sol. Energy Eng. Trans.-ASME
+PD NOV
+PY 2006
+VL 128
+IS 4
+BP 516
+EP 530
+DI 10.1115/1.2356496
+PG 15
+WC Energy & Fuels; Engineering, Mechanical
+SC Energy & Fuels; Engineering
+GA 105SE
+UT WOS:000242051800012
+ER
+
+PT J
+AU Saranyasoontorn, K
+   Manuel, L
+AF Saranyasoontorn, Korn
+   Manuel, Lance
+TI Design loads for wind turbines using the environmental contour method
+SO JOURNAL OF SOLAR ENERGY ENGINEERING-TRANSACTIONS OF THE ASME
+LA English
+DT Article; Proceedings Paper
+CT 25th AIAA/ASME Wind Energy Symposium
+CY JAN, 2006
+CL Reno, NV
+SP ASME, AIAA
+ID RELIABILITY-BASED DESIGN; EXTREME LOADS; MODELS
+AB When interest is in establishing ultimate design loads for wind turbines such that a service life of say, 20 years is assured, alternative procedures are available. One class of methods works by employing statistical loads extrapolation techniques following development first of 10-minute load maxima distributions (conditional on inflow parameters such as mean wind speed and turbulence intensity). The parametric conditional load distributions require extensive turbine response simulations over the entire inflow parameter range. We will refer to this first class of methods as the "parametric method." An alternative method is based on traditional structural reliability concepts and isolates only a subset of interesting inflow parameter combinations that are easily first found by working backward from the target return period of interest. This so-called inverse reliability method can take on various forms depending on the number of variables that are modeled as random. An especially attractive form that separates inflow (environmental) variables from turbine load/response variables and further neglects variability in the load variables given inflow is referred to as the environmental contour (EC) method. We shall show that the EC method requires considerably smaller amounts of computation than the parametric method. We compare accuracy and efficiency of the two methods in 1- and 20-year design out-of-plane blade bending loads at the root of two 1.5 MW turbines. Simulation models for these two turbines with contrasting features, in that one is stall-regulated and the other pitch-regulated, are used here. Refinements to the EC method that account for the effects of the neglected response variability are proposed to improve the turbine design load estimates.
+C1 Univ Texas, Dept Civil Architectural & Environm Engn, Austin, TX 78712 USA.
+RP Saranyasoontorn, K (reprint author), Univ Texas, Dept Civil Architectural & Environm Engn, Austin, TX 78712 USA.
+RI Manuel, Lance/J-7884-2012
+OI Manuel, Lance/0000-0002-0602-3014
+NR 23
+TC 19
+Z9 20
+U1 0
+U2 4
+PU ASME-AMER SOC MECHANICAL ENG
+PI NEW YORK
+PA THREE PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0199-6231
+J9 J SOL ENERG-T ASME
+JI J. Sol. Energy Eng. Trans.-ASME
+PD NOV
+PY 2006
+VL 128
+IS 4
+BP 554
+EP 561
+DI 10.1115/1.2346700
+PG 8
+WC Energy & Fuels; Engineering, Mechanical
+SC Energy & Fuels; Engineering
+GA 105SE
+UT WOS:000242051800015
+ER
+
+PT J
+AU Portillo, R
+   Prats, MM
+   Leon, JI
+   Sanchez, JA
+   Carrasco, JM
+   Galvan, E
+   Franquelo, LG
+AF Portillo, Ramon
+   Prats, MaAngeles Martin
+   Leon, Jose I.
+   Sanchez, Juan Antonio
+   Carrasco, Juan M.
+   Galvan, Eduardo
+   Franquelo, Leopoldo Garcia
+TI Modeling strategy for back-to-back three-level converters applied to
+   high-power wind turbines
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+LA English
+DT Article; Proceedings Paper
+CT IEEE International Symposium on Industrial Electronics
+CY JUN 20-23, 2005
+CL Dubrovnik, CROATIA
+SP IEEE Ind Elect Soc, Univ Zagreb, KoREMA, Soc Instrument & Control Engineers, IEEE Reg 8, Power Engn Soc, IEEE Croatia Sect, Univ Dubrovnik
+DE adaptive control; mathematical modeling; multilevel converters; natural
+   coordinates; three-dimensional space-vector modulation (3-D SVM);
+   variable speed wind turbine; voltage control; voltage dip; voltage
+   source back-to-back converter; wind energy; wind-energy conversion
+   system
+ID SPACE-VECTOR MODULATION; MULTILEVEL CONVERTERS; SYNCHRONOUS RECTIFIER;
+   INVERTER; ALGORITHM
+AB Three-level converters are becoming a realistic alternative to the conventional converters in high-power wind-energy applications. In this paper, a complete analytical strategy to model a back-to-back three-level converter is described. This tool permits us to adapt the control strategy to the specific application. Moreover, the model of different loads can be incorporated to the overall model. Both control strategy and load models are included in the complete system model. The proposed model pays special attention to the unbalance in the capacitors' voltage of three-level converters, including the dynamics of the capacitors' voltage. In order to validate the model and the control strategy proposed in this paper, a 3-MW three-level back-to-back power converter used as a power conditioning system of a variable speed wind turbine has been simulated. Finally, the described strategy has been implemented in a 50-kVA scalable prototype as well, providing a satisfactory performance.
+C1 Univ Seville, Escuela Super Ingn Sevilla, Dipartimento Ingn Elettron, Seville 41092, Spain.
+RP Portillo, R (reprint author), Univ Seville, Escuela Super Ingn Sevilla, Dipartimento Ingn Elettron, Seville 41092, Spain.
+EM ramonpg@gte.esi.us.es
+RI Martin Prats, Maria Angeles/L-9043-2014; Franquelo, Leopoldo
+   Garcia/D-5450-2009; Portillo, Ramon/M-1439-2014; Galvan Diez,
+   Eduardo/I-4192-2015; Leon, Jose I./L-2409-2014
+OI Carrasco Solis, Juan Manuel/0000-0003-1994-7416; Martin Prats, Maria
+   Angeles/0000-0002-6499-7925; Franquelo, Leopoldo
+   Garcia/0000-0002-1976-9747; Portillo, Ramon/0000-0001-6453-8617; Galvan
+   Diez, Eduardo/0000-0001-9000-087X; Leon, Jose I./0000-0001-5760-8066
+NR 28
+TC 114
+Z9 120
+U1 2
+U2 17
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0278-0046
+EI 1557-9948
+J9 IEEE T IND ELECTRON
+JI IEEE Trans. Ind. Electron.
+PD OCT
+PY 2006
+VL 53
+IS 5
+BP 1483
+EP 1491
+DI 10.1109/TIE.2006.882025
+PG 9
+WC Automation & Control Systems; Engineering, Electrical & Electronic;
+   Instruments & Instrumentation
+SC Automation & Control Systems; Engineering; Instruments & Instrumentation
+GA 091TE
+UT WOS:000241050400010
+ER
+
+PT J
+AU Papathanassiou, SA
+   Papadopoulos, MP
+AF Papathanassiou, Stavros A.
+   Papadopoulos, Michael P.
+TI Harmonic analysis in a power system with wind generation
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE harmonics modeling; power system harmonics; summation of harmonics; wind
+   turbines
+ID TIME-VARYING HARMONICS; PART II; PROPAGATION; SIMULATION; SUMMATION;
+   NETWORKS
+AB Variable-speed wind turbines inject harmonic currents in the network, which may potentially create voltage distortion problems. In this paper, a case study is presented for a 10-MW wind farm, intended to be connected to a network with extended high-voltage submarine cable lines. First, the system modeling approach and the harmonic load-flow calculation is described. Then, the harmonic impedance of the system is calculated for a variety of configurations and operating conditions, and its main characteristics are discussed. Harmonic load-flow calculations are provided to indicate potential voltage distortion problems. A simplified methodology, suggested in relevant IEC publications, is applied to the system and its results are compared to those of the harmonic load flow. A discussion on the summation of harmonic currents within a wind farm is also included.
+C1 Natl Tech Univ Athens, Sch Elect & Comp Engn, Athens 15780, Greece.
+RP Papathanassiou, SA (reprint author), Natl Tech Univ Athens, Sch Elect & Comp Engn, Athens 15780, Greece.
+EM st@power.ece.ntua.gr
+NR 18
+TC 53
+Z9 54
+U1 0
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8977
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD OCT
+PY 2006
+VL 21
+IS 4
+BP 2006
+EP 2016
+DI 10.1109/TPWRD.2005.864063
+PG 11
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 091SZ
+UT WOS:000241049900033
+ER
+
+PT J
+AU Zhao, M
+   Chen, Z
+   Blaabjerg, F
+AF Zhao, M.
+   Chen, Z.
+   Blaabjerg, F.
+TI Probabilistic capacity of a grid connected wind farm based on
+   optimization method
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE voltage stability; constrained optimization; probabilistic analysis;
+   wind farm planning
+ID ELECTRICAL-POWER SYSTEMS; VOLTAGE STABILITY; COLLAPSE; LOAD; SIMULATION;
+   POINT
+AB This paper proposes a new method to find the capacity of a future wind farm regarding several limits of the grid system: voltage stability limits, thermal limits, voltage limits, load tap changing limitation and generator power output limitation. The method combines the optimization method and a probabilistic analysis to maximize the number of the wind turbines subject to those limits. Two types of wind farms are modeled in this paper: fixed speed wind farms and variable speed wind farms. It is concluded that the proposed method is a fast and accurate method to deal with the uncertainty of wind energy in the planning of wind farm capacity. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Univ Aalborg, Inst Energy Technol, Aalborg, Denmark.
+RP Zhao, M (reprint author), Univ Aalborg, Inst Energy Technol, Aalborg, Denmark.
+EM mez@iet.aau.dk
+RI Blaabjerg, Frede/A-5008-2008
+OI Blaabjerg, Frede/0000-0001-8311-7412
+NR 22
+TC 36
+Z9 38
+U1 0
+U2 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+J9 RENEW ENERG
+JI Renew. Energy
+PD OCT
+PY 2006
+VL 31
+IS 13
+BP 2171
+EP 2187
+DI 10.1016/j.renene.2005.10.010
+PG 17
+WC GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY; Energy & Fuels
+SC Science & Technology - Other Topics; Energy & Fuels
+GA 080MK
+UT WOS:000240251700011
+ER
+
+PT J
+AU Chen, WL
+   Hsu, YY
+AF Chen, Woei-Luen
+   Hsu, Yuan-Yih
+TI Controller design for an induction generator driven by a variable-speed
+   wind turbine
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+LA English
+DT Article
+DE induction generator (IG); static synchronous compensator (STATCOM);
+   voltage regulation; wind energy conversion system (WECS); wind turbine
+ID PERFORMANCE ANALYSIS
+AB This paper presents the modeling, controller design and a steady-state analysis algorithm for a wind-driven induction generator system. An output feedback linear quadratic controller is designed for the static synchronous compensator (STATCOM) and the variable blade pitch in a wind energy conversion system (WECS) in order to reach the voltage and mechanical power control under both grid-connection and islanding conditions. A two-reference-frame model is proposed to decouple the STATCOM real and reactive power control loops for,the output feedback controller. To ensure zero steady-state voltage errors for the output feedback controller, the integrals of load bus voltage deviation and dc-capacitor voltage deviation are employed as the additional state variables. Pole-placement technique is used to determine a proper weighting matrix for the linear quadratic controller such that satisfactory damping characteristics can be achieved for the closed-loop system. Effects of various system disturbances on the dynamic performance have been simulated, and the results reveal that the proposed controller is effective in regulating the load voltage and stabilizing the generator rotating speed for the WECS either connected with or disconnected from the power grid. In addition, proper steady-state operating points for an isolated induction generator can be determined by the proposed steady-state analysis algorithm. Constant output frequency control using the derived steady-state characteristics of the isolated induction generator is then demonstrated in this paper.
+C1 Natl Taiwan Univ, Dept Elect Engn, Taipei 10764, Taiwan.
+   Hwa Hsia Inst Technol, Dept Elect Engn, Taipei 235, Taiwan.
+   Natl Taiwan Univ, Dept Elect Engn, Taipei 106, Taiwan.
+RP Chen, WL (reprint author), Natl Taiwan Univ, Dept Elect Engn, Taipei 10764, Taiwan.
+EM hr47131@cc.hwh.edu.tw; yyhsu@cc.ee.ntu.edu.tw
+NR 16
+TC 38
+Z9 40
+U1 1
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8969
+J9 IEEE T ENERGY CONVER
+JI IEEE Trans. Energy Convers.
+PD SEP
+PY 2006
+VL 21
+IS 3
+BP 625
+EP 635
+DI 10.1109/TEC.2006.845478
+PG 11
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA 080KW
+UT WOS:000240247600001
+ER
+
+PT J
+AU Cutululis, NA
+   Ceanga, E
+   Hansen, AD
+   Sorensen, P
+AF Cutululis, Nicolas Antonio
+   Ceanga, Emil
+   Hansen, Anca Daniela
+   Sorensen, Poul
+TI Robust multi-model control of an autonomous wind power system
+SO WIND ENERGY
+LA English
+DT Article
+DE windmills; autonomous systems; permanent magnet generators; robust
+   control; QFT; multi-model control structure
+ID QUANTITATIVE FEEDBACK THEORY; VARIABLE-SPEED; DESIGN; MODELS
+AB This article presents a robust multi-model control structure for a wind power system that uses a variable speed wind turbine (VSWT) driving a permanent magnet synchronous generator (PMSG) connected to a local grid. The control problem consists in maximizing the energy captured from the wind for varying wind speeds. The VSWT-PMSG linearized model analysis reveals the resonant nature of its dynamic at points on the optimal regimes characteristic (ORC). The natural frequency of the system and the damping factor are strongly dependent on the operating point,on the ORC. Under these circumstances a robust multi-model control structure is designed The simulation results prove the viability of the proposed control structure. Copyright (C) 2006 John Wiley & Sons, Ltd.
+C1 Riso Natl Lab, Wind Energy Dept, DK-4000 Roskilde, Denmark.
+   Dunarea Jos Univ, Fac Elect Engn, Galati 800201, Romania.
+RP Cutululis, NA (reprint author), Riso Natl Lab, Wind Energy Dept, Frederiksborgvej 399,POB 49, DK-4000 Roskilde, Denmark.
+EM nicolaos.cutululis@risoe.dk
+RI Hansen, Anca/C-6806-2008; Sorensen, Poul/C-6263-2008; Cutululis,
+   Nicolaos/C-7057-2008
+OI Sorensen, Poul/0000-0001-5612-6284; Cutululis,
+   Nicolaos/0000-0003-2438-1429
+NR 13
+TC 31
+Z9 32
+U1 0
+U2 5
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1095-4244
+J9 WIND ENERGY
+JI Wind Energy
+PD SEP-OCT
+PY 2006
+VL 9
+IS 5
+BP 399
+EP 419
+DI 10.1002/we.194
+PG 21
+WC Energy & Fuels; Engineering, Mechanical
+SC Energy & Fuels; Engineering
+GA 084CT
+UT WOS:000240510100001
+ER
+
+PT J
+AU Venkatesh, GC
+   Kulkarni, SV
+AF Venkatesh, G. C.
+   Kulkarni, S. V.
+TI Energy yield of passive stall regulated fixed speed wind turbine with
+   optimal rotor speed
+SO ELECTRIC POWER SYSTEMS RESEARCH
+LA English
+DT Article
+DE Weibull distribution; optimum rotor speed; Annual Energy Output (AEO);
+   Maxima Energy Indicator (MEI); Incomplete Gamma Function
+ID VARIABLE-SPEED; POWER; GENERATION; MACHINE
+AB This paper presents a lucid mathematical deduction of optimal rotor speed to maximize the energy yield of wind machines with passively stall regulated Fixed Speed Scheme (FSS). The power captured at a particular wind speed is dictated by the turbine characteristics in conjunction with the type of drive (variable speed or fixed speed). However, the energy yield estimation requires knowledge of wind speed frequency distribution. S Indies have revealed that the probability density function could be fairly represented by Weibull distribution with wind velocity being suitably scaled. Considering these facts, the concept of Maxima Energy Indicator (MEI) for FSS has been developed from first principles to obtain optimal rotor speed (w(opt)) numerically. Alternatively, MEI is further simplified using Incomplete Gamma Function which forms the mathematical solution for wopt. It turns out that w(opt) of FSS varies with location owing to changes in Weibull parameters. Therefore, it is deceptive to compare the energy yields of FSS with its counterpart Variable Speed Scheme (VSS) without taking into consideration the optimum rotor speed of FSS. With this motivation, computations have been performed which compare the annual yields of both the alternatives, the rotor speed of the low cost stall regulated FSS being optimized. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Indian Inst Technol, Dept Elect Engn, Bombay 400076, Maharashtra, India.
+   Indian Inst Technol, Bombay 400076, Maharashtra, India.
+RP Kulkarni, SV (reprint author), Indian Inst Technol, Dept Elect Engn, Bombay 400076, Maharashtra, India.
+EM svk@ee.iitb.ac.in
+NR 13
+TC 7
+Z9 7
+U1 0
+U2 0
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7796
+J9 ELECTR POW SYST RES
+JI Electr. Power Syst. Res.
+PD AUG
+PY 2006
+VL 76
+IS 12
+BP 1019
+EP 1026
+DI 10.1016/j.epsr.2005.12.015
+PG 8
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 061UN
+UT WOS:000238898400003
+ER
+
+PT J
+AU Cardenas, R
+   Pena, R
+   Perez, M
+   Clare, J
+   Asher, G
+   Vargas, F
+AF Cardenas, Roberto
+   Pena, Ruben
+   Perez, Marcelo
+   Clare, Jon
+   Asher, Greg
+   Vargas, Fernando
+TI Vector control of front-end converters for variable-speed wind-diesel
+   systems
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+LA English
+DT Article
+DE diesel engines; pulsewidth-modulated (PWM) power converters; wind-power
+   generation
+ID CONTROLLED INDUCTION MACHINE; FLYWHEEL; TURBINE; ENERGY; GENERATION;
+   STRATEGIES
+AB This paper presents a novel power-balance control method for a wind-diesel generation feeding an isolated grid. The system is based on a variable-speed wind energy conversion system (WECS) connected to an ac load using a power converter. An energy storage system (ESS), connected to the ac load using an additional converter, is used to balance the power generated by the WECS with the load. In this paper, the vector control systems for both interfacing power converters are discussed; the control uses the WECS converter to regulate the ac load voltage and the ESS converter to regulate the power flow to achieve a power balance. A small signal model is used to design the control systems. Finally, the proposed control is implemented in a 2-kW experimental prototype and the experimental results are fully analyzed and discussed in the paper.
+C1 Univ Magallanes, Dept Elect & Elect Engn, Punta Arenas, Chile.
+   Univ Nottingham, Sch Elect & Elect Engn, Nottingham NG7 2RD, England.
+RP Cardenas, R (reprint author), Univ Magallanes, Dept Elect & Elect Engn, Punta Arenas, Chile.
+EM rcd@ieee.org; jon.clare@nottingham.ac.uk
+RI Cardenas, Roberto/C-6395-2011; researchers, ac3e/N-2008-2016; 
+OI Cardenas, Roberto/0000-0003-3853-7703; Clare, Jon/0000-0001-8243-4280
+NR 21
+TC 43
+Z9 44
+U1 0
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0278-0046
+EI 1557-9948
+J9 IEEE T IND ELECTRON
+JI IEEE Trans. Ind. Electron.
+PD AUG
+PY 2006
+VL 53
+IS 4
+BP 1127
+EP 1136
+DI 10.1109/TIE.2006.878321
+PG 10
+WC Automation & Control Systems; Engineering, Electrical & Electronic;
+   Instruments & Instrumentation
+SC Automation & Control Systems; Engineering; Instruments & Instrumentation
+GA 070VQ
+UT WOS:000239554200014
+ER
+
+PT J
+AU El-Fouly, THM
+   El-Saadany, EF
+   Salama, MMA
+AF El-Fouly, T. H. M.
+   El-Saadany, E. F.
+   Salama, M. M. A.
+TI Grey predictor for wind energy conversion systems output power
+   prediction
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Article
+DE grey theory; power prediction; variable-speed wind turbines; wind energy
+ID TIME-SERIES; SPEED
+AB Wind energy is considered one of the most rapidly growing sources of electricity generation all over the world. This letter presents a novel technique for wind speed forecasting and wind power prediction based on using the Grey predictor model GM(1,1). The effectiveness of the proposed predictor is revealed using simulation results.
+C1 Univ Waterloo, Dept Elect & Comp Engn, Waterloo, ON N2L 3G1, Canada.
+RP El-Fouly, THM (reprint author), Univ Waterloo, Dept Elect & Comp Engn, Waterloo, ON N2L 3G1, Canada.
+EM telfouly@hivolt.uwaterloo.ca
+OI EL-Fouly, Tarek/0000-0002-3349-417X
+NR 6
+TC 49
+Z9 60
+U1 0
+U2 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8950
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD AUG
+PY 2006
+VL 21
+IS 3
+BP 1450
+EP 1452
+DI 10.1109/TPWRS.2006.879246
+PG 3
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 068EM
+UT WOS:000239355300049
+ER
+
+PT J
+AU Zhang, T
+   Li, W
+   Du, Y
+AF Zhang, T.
+   Li, W.
+   Du, Y.
+TI Control analysis of the wind turbine with transmission to split power
+SO PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART A-JOURNAL OF
+   POWER AND ENERGY
+LA English
+DT Article
+DE variable speed wind turbine; renew energy; mechatronic control model;
+   power splitting transmission
+AB In this article, a wind turbine with power splitting transmission, which is realized through a three-shaft planetary gearbox, is presented. The input shaft of the transmission is driven by the rotor of the wind turbine, the output shaft is connected to the grid via the main generator (asynchronous generator), and the third shaft is driven by a control motor with variable speed. The dynamic models of the subsystems of this wind turbine, e.g. the rotor aerodynamics, the drive train dynamics, and the power generation unit dynamics, were given and linearized at an operating point. These submodels were integrated in a multi-disciplinary dynamic model, which is suitable for control syntheses to optimize the utilization of wind energy and to reduce the excessive dynamic loads. The important dynamic behaviours were investigated and the suggestions to design a suitable control system were given.
+C1 Chemnitz Univ Technol, Inst Construct & Prop Engn, Dept Mech Engn, D-09126 Chemnitz, Germany.
+   Jiangsu Univ, Zhenjiang, Peoples R China.
+   CAE Methods Volkswagen AG, Wolfsburg, Germany.
+RP Li, W (reprint author), Chemnitz Univ Technol, Inst Construct & Prop Engn, Dept Mech Engn, Reichenhainer Str 70,Zi A 317, D-09126 Chemnitz, Germany.
+EM wenyongli@mb.tu-chemnitz.de
+NR 13
+TC 3
+Z9 3
+U1 1
+U2 5
+PU PROFESSIONAL ENGINEERING PUBLISHING LTD
+PI WESTMINISTER
+PA 1 BIRDCAGE WALK, WESTMINISTER SW1H 9JJ, ENGLAND
+SN 0957-6509
+J9 P I MECH ENG A-J POW
+JI Proc. Inst. Mech. Eng. Part A-J. Power Energy
+PD AUG
+PY 2006
+VL 220
+IS A5
+BP 415
+EP 424
+DI 10.1243/09576509JPE187
+PG 10
+WC Engineering, Mechanical
+SC Engineering
+GA 074TO
+UT WOS:000239834900001
+ER
+
+PT J
+AU Morren, J
+   Pierik, J
+   de Haan, SWH
+AF Morren, J
+   Pierik, J
+   de Haan, SWH
+TI Inertial response of variable speed wind turbines
+SO ELECTRIC POWER SYSTEMS RESEARCH
+LA English
+DT Article
+DE frequency control; inertia; stability; wind power generation
+AB The increasing penetration of variable speed wind turbines in the electricity grid will result in a reduction of the number of connected conventional power plants. This will lead to a reduction of inertia in the grid, as the rotational speed of a variable speed turbine and the grid are decoupled by a power electronic converter. A lower system inertia will result in larger and faster frequency deviations after occurrence of abrupt variations in generation and load.
+   It is possible to implement an additional control loop in the power electronic converter of the turbine, which connects the turbine inertia directly to the grid. It is even possible, by control, to make a 'virtual inertia' that is larger than the real inertia. During a frequency drop additional power can be released to the grid with this control. This behaviour will be called inertial response. The additional power is obtained from the kinetic energy that is stored in the rotating mass of the turbine.
+   In this contribution two different control strategies are investigated and compared with each other. A type of control that is equal to the primary frequency control of large power plants shows the best results, both with respect to the power that is needed to limit the frequency drop and with respect to electrical and mechanical stress of the turbine. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Delft Univ Technol, NL-2600 GA Delft, Netherlands.
+   Energy Res Ctr Netherlands ECN, Sect Wind Energy, Petten, Netherlands.
+RP Morren, J (reprint author), Delft Univ Technol, POB 5031, NL-2600 GA Delft, Netherlands.
+EM J.Morren@ewi.tudelft.nl
+NR 15
+TC 116
+Z9 127
+U1 1
+U2 9
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7796
+J9 ELECTR POW SYST RES
+JI Electr. Power Syst. Res.
+PD JUL
+PY 2006
+VL 76
+IS 11
+BP 980
+EP 987
+DI 10.1016/j.espr.2005.12.002
+PG 8
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 049YN
+UT WOS:000238053900009
+ER
+
+PT J
+AU Seman, S
+   Iov, F
+   Niiranen, J
+   Arkkio, A
+AF Seman, S.
+   Iov, F.
+   Niiranen, J.
+   Arkkio, A.
+TI Comparison of simulators for variable-speed wind turbine transient
+   analysis
+SO INTERNATIONAL JOURNAL OF ENERGY RESEARCH
+LA English
+DT Article
+DE analytical model; doubly fed induction generator; FEM; modelling;
+   short-term transient; simulator; variable-speed wind turbine; wind power
+ID FED INDUCTION GENERATOR; POWER-SYSTEM
+AB This paper presents a comparison of three variable-speed wind turbine simulators used for a 2 MW wind turbine short-term transient behaviour study during a symmetrical network disturbance. The simulator with doubly fed induction generator (DFIG) analytical model, the simulator with a finite element method (FEM) DFIG model and the wind turbine simulator with an analytical model of DFIG are compared. The comparison of the simulation results shows the influence of the different modelling approaches on the short-term transient simulation accuracy. Copyright (c) 2005 John Wiley & Sons, Ltd.
+C1 Helsinki Univ Technol, Lab Electromech, Espoo, Finland.
+   Univ Aalborg, Inst Energy Technol, DK-9220 Aalborg, Denmark.
+   ABB Oy, FIN-00381 Helsinki, Finland.
+RP Seman, S (reprint author), Helsinki Univ Technol, Lab Electromech, POB 3000, Espoo, Finland.
+EM slavomir.seman@hut.fi
+RI Arkkio, Antero/G-2203-2013
+NR 21
+TC 4
+Z9 4
+U1 1
+U2 6
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 0363-907X
+J9 INT J ENERG RES
+JI Int. J. Energy Res.
+PD JUL
+PY 2006
+VL 30
+IS 9
+BP 713
+EP 728
+DI 10.1002/er.1183
+PG 16
+WC Energy & Fuels; Nuclear Science & Technology
+SC Energy & Fuels; Nuclear Science & Technology
+GA 063OV
+UT WOS:000239030200006
+ER
+
+PT J
+AU Akhmatov, V
+AF Akhmatov, Vladislav
+TI Modelling and ride-through capability of variable speed wind turbines
+   with permanent magnet generators
+SO WIND ENERGY
+LA English
+DT Article
+DE wind turbines; permanent magnet generators; modelling; ride-through
+   capability
+AB A model for a variable speed wind turbine with a permanent magnet, multipole, synchronous generator is developed and implemented in the simulation tool PSS/E as a user-written model. The model contains representations of the permanent magnet generator, the frequency converter system with control, the aerodynamic rotor and a lumped mass representation of the shaft system. This model complexity is needed for investigations of the short-term voltage stability and ride-through capability of such wind turbines. Ride-through capability is a major issue and, for the given concept, can be achieved by applying blocking and restart sequences to the frequency converter at the voltage drop in the power grid. Copyright (C) 2005 John Wiley & Sons, Ltd.
+C1 Transmiss Syst Operator Denmark, Energinet DK, DK-7000 Fredericia, Denmark.
+RP Akhmatov, V (reprint author), Transmiss Syst Operator Denmark, Energinet DK, Fjordvejen 1-11, DK-7000 Fredericia, Denmark.
+EM vla@eltra.dk
+NR 29
+TC 18
+Z9 22
+U1 0
+U2 6
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1095-4244
+J9 WIND ENERGY
+JI Wind Energy
+PD JUL-AUG
+PY 2006
+VL 9
+IS 4
+BP 313
+EP 326
+DI 10.1002/we.174
+PG 14
+WC Energy & Fuels; Engineering, Mechanical
+SC Energy & Fuels; Engineering
+GA 067IO
+UT WOS:000239295400002
+ER
+
+PT J
+AU Martinez, J
+   Morales, A
+   Probst, O
+   Llamas, A
+   Rodriguez, C
+AF Martinez, J
+   Morales, A
+   Probst, O
+   Llamas, A
+   Rodriguez, C
+TI Analysis and simulation of a wind-electric battery charging system
+SO INTERNATIONAL JOURNAL OF ENERGY RESEARCH
+LA English
+DT Article
+DE energy; wind; battery; aerodynamics; synchronous generator; rectifier;
+   harmonics
+ID TURBINES; AIRFOILS
+AB A small commercial wind-electric battery-charging system based on a three-bladed rotor has been analysed in a detailed fashion. The system consists of a synchronous generator with permanent magnets, a six-pulse rectifier and a battery bank with charge controller. A steady-state power curve is predicted based on the electric characteristics found experimentally and the aerodynamic performance of the rotor simulated with a version of blade element momentum (BEM) theory developed in our group. The BEM code has been designed to account for variable Reynolds numbers at different blade sections and stall conditions. The findings are compared with the manufacturer's specifications. and a detailed discussion is provided. A very good agreement with the steady-state power curve given by the manufacturer has been obtained after accounting for different sources of power losses, such as voltage drops in the rectifier, Joule heating in the power cables and losses in the generator's core. The system is found to operate near the aerodynamic optimum for all wind speeds studied, whereas electrical losses are significant near rated power. Some recommendations for improving the system performance are provided. Copyright (c) 2005 John Wiley & Sons, Ltd.
+C1 Inst Tecnol & Estudios Superiores Monterrey, Dept Phys, Monterrey 64849, NL, Mexico.
+   Ctr Energy Studies, Inst Tecnol & Estudios Super Monterrey, Monterrey 64849, Mexico.
+   Inst Tecnol & Estudios Super Monterrey, Ctr Integrated Mfg Syst, Monterrey 64849, Mexico.
+RP Probst, O (reprint author), Inst Tecnol & Estudios Superiores Monterrey, Dept Phys, E Garza Sada 2501 Sur, Monterrey 64849, NL, Mexico.
+EM oprobst@itesm.mx
+OI Rodriguez, Ciro/0000-0003-2289-4239
+NR 20
+TC 11
+Z9 11
+U1 0
+U2 8
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 0363-907X
+J9 INT J ENERG RES
+JI Int. J. Energy Res.
+PD JUN 25
+PY 2006
+VL 30
+IS 8
+BP 633
+EP 646
+DI 10.1002/er.1175
+PG 14
+WC Energy & Fuels; Nuclear Science & Technology
+SC Energy & Fuels; Nuclear Science & Technology
+GA 055MQ
+UT WOS:000238455200006
+ER
+
+PT J
+AU Johnson, KE
+   Pao, LY
+   Balas, MJ
+   Fingersh, LJ
+AF Johnson, KE
+   Pao, LY
+   Balas, MJ
+   Fingersh, LJ
+TI Control of variable-speed wind turbines - Standard and adaptive
+   techniques for maximizing energy capture
+SO IEEE CONTROL SYSTEMS MAGAZINE
+LA English
+DT Article
+C1 Colorado Sch Mines, Div Engn, Golden, CO 80401 USA.
+RP Johnson, KE (reprint author), Colorado Sch Mines, Div Engn, 1610 Illinois St, Golden, CO 80401 USA.
+EM kjohnson@mines.edu
+NR 21
+TC 158
+Z9 167
+U1 0
+U2 13
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 1066-033X
+J9 IEEE CONTR SYST MAG
+JI IEEE Control Syst. Mag.
+PD JUN
+PY 2006
+VL 26
+IS 3
+BP 70
+EP 81
+DI 10.1109/MCS.2006.1636311
+PG 12
+WC Automation & Control Systems
+SC Automation & Control Systems
+GA 044WU
+UT WOS:000237705000010
+ER
+
+PT J
+AU Yazdani, A
+   Iravani, R
+AF Yazdani, A
+   Iravani, R
+TI A neutral-point clamped converter system for direct-drive variable-speed
+   wind power unit
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+LA English
+DT Article
+DE current control; dc-side voltage balancer; electromagnetic transients;
+   neutral-point diode clamped (NPC) converter; variable-speed wind-power
+   system
+ID TURBINE; CONTROLLER; GENERATOR; INVERTER; MODEL; LOAD
+AB Recent and ongoing developments in wind turbine technology indicate a trend towards utilization of high capacity (e.g., up to 5 MW) wind power units in large wind farms. Higher capacity of the wind turbine necessitates operation of the corresponding electric machine and the static converter. system at higher voltages. This paper presents a neutral point diode clamped (NPC) converter system that inherently accommodates higher voltage and power ratings of a high capacity wind power unit. The overall control strategy of an NPC-based wind power unit and the details of the ac side and the dc side controls of the NPC converter system are also described. The generator-side NPC converter provides torque-speed control of the turbine-generator unit. The networkside NPC converter controls real and reactive power flow to the network and thus regulates the dc bus voltage and the ac side power-factor (or voltage) respectively. The paper also presents a new control approach to balance the dc capacitor voltages. The NPC converter system is augmented with a dc chopper that controls the synchronous generator field current. The NPC-based converter system is used to interface a 3 MW, direct-drive (gearless), synchronous machine based wind power unit to the utility grid. Performance of the overall NPC-based wind power unit, under the proposed controls, is evaluated based on time domain simulations in the power systems computer aided design (PSCAD) electromagnetic transient for DC (EMTDC) environment.
+C1 Univ Toronto, CAPE, Dept Elect & Comp Engn, Toronto, ON M5S 3G4, Canada.
+RP Yazdani, A (reprint author), Univ Toronto, CAPE, Dept Elect & Comp Engn, Toronto, ON M5S 3G4, Canada.
+EM an.yazdani@utoronto.ca; iravani@ecf.utoronto.ca
+NR 21
+TC 79
+Z9 91
+U1 0
+U2 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8969
+J9 IEEE T ENERGY CONVER
+JI IEEE Trans. Energy Convers.
+PD JUN
+PY 2006
+VL 21
+IS 2
+BP 596
+EP 607
+DI 10.1109/TEC.2005.860392
+PG 12
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA 046ZO
+UT WOS:000237849800035
+ER
+
+PT J
+AU Hansen, AD
+   Sorensen, P
+   Iov, F
+   Blaabjerg, F
+AF Hansen, AD
+   Sorensen, P
+   Iov, F
+   Blaabjerg, F
+TI Centralised power control of wind farm, with doubly fed induction
+   generators
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE wind farm; doubly fed induction generators (DFIG); variable speed wind
+   turbine; power system control
+AB At the moment, the control ability of wind farms is a prime research concern for the grid integration of large wind farms, due to their required active role in the power system. This paper describes the on-going work of a research project, whose overall objective is to analyse and assess the possibilities for control of different wind farm concepts. The scope of this paper is the control of a wind farm made up exclusively of doubly fed induction generators. The paper addresses the design and implementation issues of such a controller and focuses on the ability of the wind farm control strategy to regulate the wind farm power production to the reference power ordered by the system operators. The presented wind farm control has a hierarchical structure with both a central control level and a local control level. The central wind farm control level controls the power production of the whole farm by sending out reference power signals to each individual wind turbine, while the local wind turbine control level ensures that the reference power signal send by the central control level is reached. The performance of the control strategy is assessed and discussed by means of simulations illustrated both at the wind farm level and at each individual wind turbine level. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Riso Natl Lab, Wind Energy Dept, DK-4000 Roskilde, Denmark.
+   Univ Aalborg, Inst Energy Technol, DK-9220 Aalborg, Denmark.
+RP Hansen, AD (reprint author), Riso Natl Lab, Wind Energy Dept, POB 49, DK-4000 Roskilde, Denmark.
+EM anca.daniela.hansen@risoe.dk
+RI Blaabjerg, Frede/A-5008-2008; Hansen, Anca/C-6806-2008; Sorensen,
+   Poul/C-6263-2008
+OI Blaabjerg, Frede/0000-0001-8311-7412; Sorensen, Poul/0000-0001-5612-6284
+NR 13
+TC 148
+Z9 159
+U1 1
+U2 18
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+J9 RENEW ENERG
+JI Renew. Energy
+PD JUN
+PY 2006
+VL 31
+IS 7
+BP 935
+EP 951
+DI 10.1016/j.renene.2005.05.011
+PG 17
+WC GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY; Energy & Fuels
+SC Science & Technology - Other Topics; Energy & Fuels
+GA 020WU
+UT WOS:000235944700003
+ER
+
+PT J
+AU Jovanovic, MG
+   Yu, H
+   Levi, E
+AF Jovanovic, MG
+   Yu, H
+   Levi, E
+TI Encoderless direct torque controller for limited speed range
+   applications of brushless doubly fed reluctance motors
+SO IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS
+LA English
+DT Article; Proceedings Paper
+CT 39th Annual Meeting of the IEEE-Industry-Applications-Society
+CY OCT 03-07, 2004
+CL Seattle, WA
+SP IEEE Ind Applicat Soc
+DE brushless doubly fed reluctance machines (BDFRMs); direct torque control
+   (DTC)
+ID ROTOR INDUCTION MACHINE; REACTIVE POWER-CONTROL; ORIENTED CONTROL;
+   CONTROL STRATEGY; WIND TURBINES; FUZZY-LOGIC; DRIVES; GENERATOR; SCHEME
+AB The paper proposes a direct torque control (DTC) algorithm suitable for low-variable-frequency operation of, the brushless doubly fed reluctance machine (BDFRM) and considers aspects of its practical implementation. The simulation and experimental results show that a small BDFRM proto type can successfully operate down to zero supply frequency of the inverterfed (secondary) winding, unlike cage induction or many other alternating current machines with DTC. This BDFRM advantage is a consequence of using a flux estimation technique not relying on the secondary voltage integration and therefore avoiding the well-known problems at low secondary frequencies, being typical for the BDFRM normal operation. The developed algorithm also offers the prospect for optimizing the machine performance in a manner similar to conventional vector controllers but with control actions executed in a stationary reference frame as usual for all traditional DTC methods. The maximum torque per inverter ampere control strategy has been chosen as a case study.
+C1 Northumbria Univ, Sch Comp Engn & Informat Sci, Newcastle Upon Tyne NE1 8ST, Tyne & Wear, England.
+   Scottish & So Energy, Syst Planning, Perth PH1 3AQ, Scotland.
+   Liverpool John Moores Univ, Sch Engn, Liverpool L3 3AF, Merseyside, England.
+RP Jovanovic, MG (reprint author), Northumbria Univ, Sch Comp Engn & Informat Sci, Newcastle Upon Tyne NE1 8ST, Tyne & Wear, England.
+EM milutin.jovanovic@unn.ac.uk; james.yu@scottish-southern.co.uk;
+   e.levi@livjm.ac.uk
+NR 30
+TC 34
+Z9 35
+U1 0
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0093-9994
+J9 IEEE T IND APPL
+JI IEEE Trans. Ind. Appl.
+PD MAY-JUN
+PY 2006
+VL 42
+IS 3
+BP 712
+EP 722
+DI 10.1109/TIA.2006.872955
+PG 11
+WC Engineering, Multidisciplinary; Engineering, Electrical & Electronic
+SC Engineering
+GA 045LV
+UT WOS:000237744500010
+ER
+
+PT J
+AU Lei, YZ
+   Mullane, A
+   Lightbody, G
+   Yacamini, R
+AF Lei, YZ
+   Mullane, A
+   Lightbody, G
+   Yacamini, R
+TI Modeling of the wind turbine with a doubly fed induction generator for
+   grid integration studies
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+LA English
+DT Article
+DE induction generators; power system transient stability; reactive power
+   control; variable speed drives; wind power generation
+ID REACTIVE POWER-CONTROL; SPEED; MACHINE; CYCLOCONVERTOR; SYSTEMS; SCHEME
+AB Due to its many advantages such as the improved power quality, high energy efficiency and controllability, etc. the variable speed wind turbine using a doubly fed induction generator (DFIG) is becoming a popular concept and thus the modeling of the DFIG based wind turbine becomes an interesting research topic. Fundamental frequency models have been presented but these models are often complex with significant numerical overhead as the power converter block consisting of power control, rotor side and grid side converter control and DC link are often simulated in detail. This paper develops a simple DFIG wind turbine model in which the power converter is simulated as a controlled voltage source, regulating the rotor current to meet the command of real and reactive power production. This model has the form of traditional generator model and hence is easy to integrate into the power system simulation tool such as PSS/E. As an example, the interaction between the Arklow Bank Wind Farm and the Irish National Grid was simulated using the proposed model. The model performance and accuracy was also compared with the detailed model developed by DIgSILENT. Considering the simplification adopted for, the model development, the limitation and applicability of the model were also discussed in this paper.
+C1 Natl Univ Ireland Univ Coll Cork, Dept Elect & Elect Engn, Cork, Ireland.
+RP Lei, YZ (reprint author), Natl Univ Ireland Univ Coll Cork, Dept Elect & Elect Engn, Cork, Ireland.
+EM leiyazhou@yahoo.com
+NR 20
+TC 202
+Z9 246
+U1 5
+U2 40
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8969
+J9 IEEE T ENERGY CONVER
+JI IEEE Trans. Energy Convers.
+PD MAR
+PY 2006
+VL 21
+IS 1
+BP 257
+EP 264
+DI 10.1109/TEC.2005.847958
+PG 8
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA 017VW
+UT WOS:000235722400032
+ER
+
+PT J
+AU Morren, J
+   de Haan, SWH
+   Kling, WL
+   Ferreira, JA
+AF Morren, J
+   de Haan, SWH
+   Kling, WL
+   Ferreira, JA
+TI Wind turbines emulating inertia and supporting primary frequency control
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Letter
+DE frequency control; stability; wind power generation
+AB The increasing penetration of variable-speed wind turbines in the electricity grid will result in a reduction of the number of connected conventional power plants. This will require changes in the way the grid frequency is controlled. In this letter, a method is proposed to let variable-speed wind turbines emulate inertia and support primary frequency control. The required power is obtained from the kinetic energy stored in the rotating mass of the turbine blades.
+C1 Delft Univ Technol, Elect Power Proc Unit, NL-2628 CD Delft, Netherlands.
+   Delft Univ Technol, Elect Power Syst Grp, NL-2628 CD Delft, Netherlands.
+RP Morren, J (reprint author), Delft Univ Technol, Elect Power Proc Unit, NL-2628 CD Delft, Netherlands.
+EM J.Morren@ewi.tudelft.nl
+NR 5
+TC 217
+Z9 256
+U1 2
+U2 16
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0885-8950
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD FEB
+PY 2006
+VL 21
+IS 1
+BP 433
+EP 434
+DI 10.1109/TPWRS.2005.861956
+PG 2
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 008CE
+UT WOS:000235017000053
+ER
+
+PT B
+AU Kim, SK
+   Kim, ES
+   Ahn, JB
+AF Kim, Seul-Ki
+   Kim, Eung-Sang
+   Ahn, Jong-Bo
+GP IEEE
+TI Modeling and control of a grid-connected wind/PV hybrid generation
+   system
+SO 2005/2006 IEEE/PES TRANSMISSION & DISTRIBUTION CONFERENCE & EXPOSITION,
+   VOLS 1-3
+SE Transmission and Distribution Conference and Exposition
+LA English
+DT Proceedings Paper
+CT IEEE/PES Transmission and Distribution Conference and Exposition
+CY MAY 21-26, 2006
+CL Dallas, TX
+SP IEEE, PES
+DE grid interface; wind/PV hybrid generation; dynamic modeling; variable
+   speed wind turbine; MPPT
+ID PERFORMANCE; SIMULATION; DESIGN
+AB This paper deals with power control of a wind and solar hybrid generation system for interconnection operation with electric distribution system. The proposed system consists of a variable-speed direct-drive wind generator, wind-side converter, solar array, dc-dc converter and grid interface inverter. Power control strategy is to extract the maximum energy available from varying condition of wind speed and solar irradiance while maintaining power quality at a satisfactory level. In order to capture the maximum power, variable speed control is employed for wind turbine and maximum power point tracking is applied for photovoltaic system. The grid interface inverter transfers the energy drawn from the wind turbine and PV array into the grid by keeping common dc voltage constant. Modeling and simulation study on the entire control scheme is carried out using a power system transient analysis tool, PSCAD/EMTDC. The simulation results show the control performance and dynamic behavior of the wind/PV system.
+C1 Korea Electrotechnol Res Inst, Chang Won 641120, South Korea.
+RP Kim, SK (reprint author), Korea Electrotechnol Res Inst, Chang Won 641120, South Korea.
+EM blksheep@keri.re.kr; eskim@keri.re.kr; jbahn@keri.re.kr
+NR 15
+TC 12
+Z9 12
+U1 1
+U2 3
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-0-7803-9193-2
+J9 TRANS DISTRIB CONF
+PY 2006
+BP 1202
+EP 1207
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BFS44
+UT WOS:000244311700235
+ER
+
+PT B
+AU Boyette, A
+   Saadate, S
+AF Boyette, Armand
+   Saadate, Shahrokh
+GP IEEE
+TI Permanent power generating wind turbine with doubly fed asynchronous
+   generator and storage unit, modelling and simulation
+SO 2006 12TH INTERNATIONAL POWER ELECTRONICS AND MOTION CONTROL CONFERENCE,
+   VOLS 1-4
+SE International Power Electronics and Motion Control Conference EPE PEMC
+LA English
+DT Proceedings Paper
+CT 12th International Power Electronics and Motion Control Conference
+CY AUG 30-SEP 01, 2006
+CL Portoroz, SLOVENIA
+AB This paper deals with the design, analysis and simulation of wind turbine associated with a storage unit to generate a constant active power through the grid for all wind conditions. Variable speed wind turbine with a doubly fed induction generator which allows a large speed variation and so a large range of wind is employed. Associated with an inverter controlled with power reference, it is possible to adjust the injected power in the grid. The long duration storage unit connected to the DC bus allows producing a constant active power for all wind conditions. During strong wind the generator provides energy to the network and refills the storage unit and during insufficient wind the storage unit will compensate the lack of energy. The study deals with mainly the modelling of the mechanic and aerodynamic part of the wind turbine and the control of the rectifier - inverter in order to control the active and reactive powers for all wind and turbine speed conditions.
+C1 GREEN Fac Sci, F-54506 Vandoeuvre Les Nancy, France.
+RP Boyette, A (reprint author), GREEN Fac Sci, BP 239, F-54506 Vandoeuvre Les Nancy, France.
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0120-8
+J9 INT POWER ELECT MOT
+PY 2006
+BP 277
+EP 281
+PG 5
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BGE23
+UT WOS:000246286100046
+ER
+
+PT B
+AU Li, H
+   Chenl, Z
+AF Li, Hui
+   Chen, Zhe
+GP IEEE
+TI A new current control strategy of maximizing the generated power from a
+   doubly fed induction generator system
+SO 2006 12TH INTERNATIONAL POWER ELECTRONICS AND MOTION CONTROL CONFERENCE,
+   VOLS 1-4
+SE International Power Electronics and Motion Control Conference EPE PEMC
+LA English
+DT Proceedings Paper
+CT 12th International Power Electronics and Motion Control Conference
+CY AUG 30-SEP 01, 2006
+CL Portoroz, SLOVENIA
+ID WIND TURBINES; SPEED
+AB This paper focuses on the development of maximum wind power extraction strategies for variable speed constant frequency (VSCF) grid-connected wind power generation systems with a doubly fed induction generator (DFIG). A new control method is proposed by directly controlling the DFIG rotor current to follow an optimal condition for not only the extracted maximum power of the wind turbine below the base wind speed but also the copper loss minimization. Based on the wind turbine power characteristic and DFIG mathematical models, the relationships between the generator speed and d-q axis rotor current are derived respectively, for maximal mechanical power extraction and copper loss-minimization. Directly control rotor current scheme is simpler than the conventional vector control strategy. Simulation results have shown the proposed control strategy is correct and valid.
+C1 Chongqing Univ, Elec Eng Coll, Minist Educ, Key Lab High Voltage Eng & Elec New Technol, Chongqing 630044, Peoples R China.
+RP Li, H (reprint author), Chongqing Univ, Elec Eng Coll, Minist Educ, Key Lab High Voltage Eng & Elec New Technol, Chongqing 630044, Peoples R China.
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0120-8
+J9 INT POWER ELECT MOT
+PY 2006
+BP 282
+EP 287
+PG 6
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BGE23
+UT WOS:000246286100047
+ER
+
+PT B
+AU Ivanovic, Z
+   Vekic, M
+   Grabic, S
+   Katic, V
+AF Ivanovic, Zoran
+   Vekic, Marko
+   Grabic, Stevan
+   Katic, Vladimir
+GP IEEE
+TI Control of multilevel converter driving variable speed wind turbine in
+   case of grid disturbances
+SO 2006 12TH INTERNATIONAL POWER ELECTRONICS AND MOTION CONTROL CONFERENCE,
+   VOLS 1-4
+SE International Power Electronics and Motion Control Conference EPE PEMC
+LA English
+DT Proceedings Paper
+CT 12th International Power Electronics and Motion Control Conference
+CY AUG 30-SEP 01, 2006
+CL Portoroz, SLOVENIA
+AB This paper proposes modified dual vector current control (DVCC) for the wind turbine application. As in case of conventional DVCC, it fulfills requirements for average unity power factor with suppressed oscillations in active power flow. However, uncontrolled increase in converter output current under unbalanced grid voltage conditions is prevented through imposing limit in its magnitude. Multilevel back-to-back converter is used in order to achieve full control of the turbine, as well as better power quality and lower torque and grid current oscillation.
+C1 Univ Novi Sad, Fac Tech Sci, Novi Sad, Serbia.
+RP Ivanovic, Z (reprint author), Univ Novi Sad, Fac Tech Sci, Novi Sad, Serbia.
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0120-8
+J9 INT POWER ELECT MOT
+PY 2006
+BP 294
+EP 298
+PG 5
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BGE23
+UT WOS:000246286100049
+ER
+
+PT B
+AU Santos-Martin, D
+   Arnalte, S
+   Amenedo, JLR
+   Tena, JM
+AF Santos-Martin, David
+   Arnalte, Santiago
+   Amenedo, Jose L. Rodriguez
+   Tena, Jose M.
+GP IEEE
+TI Effects of voltage dips on doubly fed induction generators and its power
+   electronic components
+SO 2006 12TH INTERNATIONAL POWER ELECTRONICS AND MOTION CONTROL CONFERENCE,
+   VOLS 1-4
+SE International Power Electronics and Motion Control Conference EPE PEMC
+LA English
+DT Proceedings Paper
+CT 12th International Power Electronics and Motion Control Conference
+CY AUG 30-SEP 01, 2006
+CL Portoroz, SLOVENIA
+AB This paper presents the influence of the voltage dips on the variable speed wind turbines with Doubly Fed Induction Generators (DFIG) and its power electronic components. A typical medium size turbine is modelled including the ac/dc/ac converters within Matlab/Simulink/Simpower Systems (TM). Suitable speed, torque and reactive power controllers are implemented choosing classical VFO control. These studies are used to define the influence of the voltage perturbation on each electrical or mechanical variable, included the IGBT's currents.
+C1 Iberdrola Ingenieria, Madrid, Spain.
+RP Santos-Martin, D (reprint author), Iberdrola Ingenieria, Madrid, Spain.
+RI Arnaltes, Santiago/N-6897-2014
+OI Arnaltes, Santiago/0000-0002-9226-2387
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0120-8
+J9 INT POWER ELECT MOT
+PY 2006
+BP 726
+EP 730
+PG 5
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BGE23
+UT WOS:000246286101031
+ER
+
+PT B
+AU Bueno, EJ
+   Cobreces, S
+   Rodriguez, FJ
+   Espinosa, F
+   Alonso, M
+   Alcaraz, R
+AF Bueno, Emilio J.
+   Cobreces, Santiago
+   Rodriguez, Francisco J.
+   Espinosa, Felipe
+   Alonso, Marta
+   Alcaraz, Raul
+GP IEEE
+TI Calculation of the DC-bus capacitors of the backto-back NPC converters
+SO 2006 12TH INTERNATIONAL POWER ELECTRONICS AND MOTION CONTROL CONFERENCE,
+   VOLS 1-4
+SE International Power Electronics and Motion Control Conference EPE PEMC
+LA English
+DT Proceedings Paper
+CT 12th International Power Electronics and Motion Control Conference
+CY AUG 30-SEP 01, 2006
+CL Portoroz, SLOVENIA
+ID PWM
+AB Nowadays the most used multilevel topology for variable-speed wind turbines (WTs) is the a back-to back three-level NPC (Neutral Point Clamped) VSCs (voltage source converter). One of the most critical elements in the design of this type of converters is the DC-bus capacitors. The calculus of these depends on the same factors that the same two-levels topology, and, moreover it is function of a low frequency ripple due to the current by NP point. In this work, the value of these capacitors is obtained from the analytical equations of the DC-bus voltage ripple due to the i(Dc) (DC-bus current) and the i(Np) (NP current). These expressions are verified through simulation and practical results.
+C1 Univ Alcala de Henares, Dept Elect, Madrid, Spain.
+RP Bueno, EJ (reprint author), Univ Alcala de Henares, Dept Elect, Madrid, Spain.
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0120-8
+J9 INT POWER ELECT MOT
+PY 2006
+BP 1060
+EP 1065
+PG 6
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BGE23
+UT WOS:000246286101090
+ER
+
+PT B
+AU Li, DD
+AF Li, D. D.
+GP IEEE
+TI Decoupled power control of wind turbine based on doubly-fed induction
+   generator
+SO 2006 1st IEEE Conference on Industrial Electronics and Applications,
+   Vols 1-3
+LA English
+DT Proceedings Paper
+CT 1st IEEE Conference on Industrial Electronics and Applications (ICIEA
+   2006)
+CY MAY 24-26, 2006
+CL Singapore, SINGAPORE
+SP IEEE Ind Elect Chapter, IEEE Ind Applicat/Power Elect Chapter, IEEE Singapore Sect, IEEE Ind Elect Soc
+ID SYSTEMS
+AB Wind turbine based on doubly-fed induction generator is widely employed in exploitation and development of wind energy, because it provides favorable performances such as variable speed operation, maximal energy product tracking and flexible control of real power and reactive power. Decoupled control of real power and reactive power is essential to power plants and power systems. A novel control strategy is presented to achieve decoupled control of the wind turbine, based on nonlinear inverse system method and neural network. With this control scheme, the system is fully decoupled to two pseudo linear subsystems by inverse system method, while the control is not dependent on system parameters so that it is robust to system disturbances.
+C1 Shanghai Univ Elect Power, Sch Elect Power & Automat Engn, Shanghai 200090, Peoples R China.
+RP Li, DD (reprint author), Shanghai Univ Elect Power, Sch Elect Power & Automat Engn, 2103 Ping Liang Rd, Shanghai 200090, Peoples R China.
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-0-7803-9513-8
+PY 2006
+BP 915
+EP 919
+PG 5
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BFQ76
+UT WOS:000243884000175
+ER
+
+PT B
+AU Yang, XY
+   Han, XJ
+   Xu, LF
+   Liu, YB
+AF Yang, Xiyun
+   Han, Xiaojuan
+   Xu, Lingfeng
+   Liu, Yibing
+GP IEEE
+TI Soft sensor based on support vector machine for effective wind speed in
+   large variable wind
+SO 2006 9th International Conference on Control, Automation, Robotics and
+   Vision, Vols 1- 5
+LA English
+DT Proceedings Paper
+CT 9th International Conference on Control, Automation, Robotics and Vision
+CY DEC 05-08, 2006
+CL Singapore, SINGAPORE
+DE wind turbine; effective wind speed; soft sensor; support vector machine;
+   variable pitch
+AB Accurate estimation of wind speed can improve control capabilities of wind turbines. The wind speed is generally different at every point on the surface covered by the blades due to three dimensional and time-varied wind fields; effective wind speed cannot be measured by an anemometer. In this paper the problem of effective wind speed estimation is considered as soft sensor. Soft sensor modeling utilizes technique of support vector machine, which is efficient for the problem characterized by small sample, nonlinearity, high dimension, local minima and has high generalization. Comparing with Kalman filter, simulation results show support vector machine is an effective method for soft sensor modeling. Effective wind speed estimation can exactly track the trend of wind speed and has high estimation precision.
+C1 N China Elect Power Univ, Dept Automat, Beijing 102206, Peoples R China.
+RP Yang, XY (reprint author), N China Elect Power Univ, Dept Automat, Beijing 102206, Peoples R China.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0341-7
+PY 2006
+BP 919
+EP 922
+PG 4
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Robotics
+SC Automation & Control Systems; Computer Science; Robotics
+GA BGH19
+UT WOS:000246927401079
+ER
+
+PT B
+AU Arifujjaman, M
+   Iqbal, MT
+   Quaicoe, JE
+AF Arifujjaman, Md.
+   Iqbal, M. T.
+   Quaicoe, John E.
+GP IEEE
+TI An isolated small wind turbine emulator
+SO 2006 Canadian Conference on Electrical and Computer Engineering, Vols
+   1-5
+LA English
+DT Proceedings Paper
+CT 19th Annual Canadian Conference on Electrical and Computer Engineering
+CY MAY 07-10, 2006
+CL Ottawa, CANADA
+SP IEEE
+DE wind turbine emulator; furling control; buck-boost converter; tip speed
+   ratio (TSR) control
+AB An isolated small wind turbine emulator is described in this paper. The system consists of a PC controlled variable speed dc motor coupled to a synchronous generator. Dump load is connected to the generator through a microcontroller controlled DC-DC converter. The varying aerodynamic torque of the wind turbine due to furling action and its resulting dynamics are incorporated in the emulator with the use of a PC based wind turbine model. 4 simple gain scheduled digital PI controller is designed which makes sure that the actual rotational speed of the DC motor is tracking the theoretical rotational speed of the wind turbine rotor. To extract the maximum power from the system, a dynamic controller is discussed which uses the wind speed and rotor speed information to control the duty cycle of the buck-boost converter in order to operate the wind turbine at the optimum tip speed ratio.
+C1 Mem Univ Newfoundland, St John, NF A1C 5S7, Canada.
+RP Arifujjaman, M (reprint author), Mem Univ Newfoundland, St John, NF A1C 5S7, Canada.
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0037-9
+PY 2006
+BP 595
+EP 598
+PG 4
+WC Computer Science, Artificial Intelligence; Computer Science, Software
+   Engineering; Engineering, Electrical & Electronic; Imaging Science &
+   Photographic Technology
+SC Computer Science; Engineering; Imaging Science & Photographic Technology
+GA BFX82
+UT WOS:000245344701015
+ER
+
+PT B
+AU Du, ZW
+   Zhao, F
+   Du, XY
+AF Du, Zhiwei
+   Zhao, Feng
+   Du, Xiaoya
+GP IEEE
+TI Investigation of the control strategy for tracking maximum power point
+   in VSCF wind generation
+SO 2006 Chinese Control Conference, Vols 1-5
+LA Chinese
+DT Proceedings Paper
+CT 25th Chinese Control Conference
+CY AUG 07-10, 2006
+CL Harbin, PEOPLES R CHINA
+DE variable speed constant frequency (VSCF); wind turbine; maximum power
+   point; stator-flux oriented; doubly-fed induction generator
+AB A new simple control strategy of tracking the maximum power point in Variable Speed Constant Frequency (VSCF) wind-power generation system is proposed, through the analysis on the relationship between wind speed and the power output of the wind turbine, the decoupling between the excited current and the torque current, the requires on the generation control for tacking the maximum power point. Then, the program of this method is programmed. By this program, the feasibility of this strategy is testified. At last, a stator-flux oriented vector control model and a control system for tracking the maximum power point in VSCF Wind Generation is built.
+C1 Lanzhou Jiaotong Univ, Sch Informat & Elect Engn, Lanzhou 730070, Peoples R China.
+RP Du, ZW (reprint author), Lanzhou Jiaotong Univ, Sch Informat & Elect Engn, Lanzhou 730070, Peoples R China.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-7-81077-802-2
+PY 2006
+BP 654
+EP 658
+PG 5
+WC Automation & Control Systems
+SC Automation & Control Systems
+GA BFQ63
+UT WOS:000243873601039
+ER
+
+PT B
+AU Chicco, G
+   Di Leo, P
+   Scapino, F
+   Spertino, F
+AF Chicco, Gianfranco
+   Di Leo, Paolo
+   Scapino, Federico
+   Spertino, Filippo
+GP IEEE
+TI Experimental analysis of wind farms connected to the high voltage grid:
+   the viewpoint of power quality
+SO 2006 FIRST INTERNATIONAL SYMPOSIUM ON ENVIRONMENT IDENTITIES AND
+   MEDITERRANEAN AREA, VOLS 1 AND 2
+LA English
+DT Proceedings Paper
+CT 1st International Symposium on Environment Identities and Mediterranean
+   Area
+CY JUL 10-13, 2006
+CL Corte Ajaccio, FRANCE
+SP IEEE
+DE wind systems; doubly fed induction generators; IGBT converters; power
+   quality; harmonics; flicker
+ID TURBINES
+AB The wind farm design is aimed at obtaining efficient and economic energy production, complying with regulatory requirements and grid operator specifications. In particular, a set of power quality requirements concerns limits in frequency and voltage variations, harmonics, flicker severity, unbalance, etc. in Medium Voltage (MV) networks. The paper deals with an experimental analysis of two Italian wind farms that was performed in order to check both performance and compliance to regulations. These farms are connected to the High Voltage network, by means of a MV-HV transformer, and are made up with variable-speed wind turbines, based on doubly fed induction generator (DFIG). The results obtained confirm that the HV connection reduces the voltage variations, so that they lie within the acceptable limits, and that the DFIG exhibits good performance concerning power factor, harmonics and flicker. Moreover, measurements show that the shape of the terrain plays a very important part on the power produced by the wind generators distributed over the farm.
+C1 Politecn Torino, Dipartimento Ingn Elettr, I-10129 Turin, Italy.
+RP Chicco, G (reprint author), Politecn Torino, Dipartimento Ingn Elettr, corso Duca degli Abruzzi 24, I-10129 Turin, Italy.
+EM gianfranco.chicco@polito.it; paolo.dileo@polito.it;
+   federico.scapino@polito.it; filippo.spertino@polito.it
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0231-1
+PY 2006
+BP 162
+EP 167
+PG 6
+WC Computer Science, Interdisciplinary Applications; Environmental Sciences
+SC Computer Science; Environmental Sciences & Ecology
+GA BGD28
+UT WOS:000246148100030
+ER
+
+PT B
+AU Kumar, GS
+   Kishore, A
+AF Kumar, Garlapati Satish
+   Kishore, Avinash
+GP IEEE
+TI Dynamic analysis and control of output voltage of a wind turbine driven
+   isolated induction generator
+SO 2006 IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL TECHNOLOGY, VOLS 1-6
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Industrial Technology
+CY DEC 15-17, 2006
+CL Bombay, INDIA
+SP IEEE, IEEE Ind Elect Soc
+DE self-excited induction generator (SEIG); wind turbine; inverter;
+   rectifier; modeling and simulation; pulse width modulation (PWM)
+AB This paper presents the applicability of generalized dynamic modeling of self-excited induction generator (SEIG) using state-space approach for wind energy system and control of output voltage by PWM strategy. A wind turbine is modeled for SEIG to make it applicable for wind energy system. The dynamic performance of SEIG under various wind speeds is investigated under no load, with the load, perturbation of load, and short circuit at stator terminals. Output voltage controls by discrete variations of capacitance value under varying load conditions is also analyzed. During voltage build up process the variation in magnetizing inductance is taken into consideration. For the variable wind speed system, the induction generator output is rectified into DC then interfaced with the load by means of a switched mode DC-AC converter (inverter) which is controlled by sinusoidal pulse width modulation (SPWM) stratergy. The controller alms at keeping constant output voltage and frequency even under wide speed variation. The performance of SEIG system under various conditions as mentioned above are simulated using MATLAB/SIMULINK and the simulation results demonstrate the validity of the proposed system.
+C1 Birla Inst Technol, Dept Elect & Elect Engn, Ranchi, Bihar, India.
+RP Kumar, GS (reprint author), Birla Inst Technol, Dept Elect & Elect Engn, Ranchi, Bihar, India.
+EM garlapatisatish@yahoo.co.in
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0725-5
+PY 2006
+BP 731
+EP 736
+PG 6
+WC Engineering, Industrial; Engineering, Electrical & Electronic
+SC Engineering
+GA BGM31
+UT WOS:000248430901040
+ER
+
+PT B
+AU Xing, ZX
+   Yao, XJ
+   Sui, HX
+   Zheng, TQ
+AF Xing, Zuoxia
+   Yao, Xingjia
+   Sui, Hongxia
+   Zheng, Trillion Q.
+GP IEEE
+TI DTC in Doubly-fed VSCF wind turbine control system
+SO 2006 IEEE International Conference on Industrial Technology, Vols 1-6
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Industrial Technology
+CY DEC 15-17, 2006
+CL Bombay, INDIA
+SP IEEE
+DE wind generator system; variable speed constant frequency (VSCF);
+   doubly-fed generator; direct torque control (DTC)
+AB To solve the connection to the grid and power control problems of Doubly-Fed Variable Speed Constant Frequency (VSCF) wind turbine control system, the method of rotor magnetic flux Direct Torque Control (DTC) was used to regulate rotor side AC exciting and get the aim of controlling stator side output. The control principle was described, the trial control scheme was established, and the performance was verified by a 30 KW wind turbine trial platform The trial results of control strategy were obtained on the process of synchronization and fore-and-aft getting connected to the grid By testing and analyzing, the validity of the control method is confirmed which can be popularized to other similar generator system.
+C1 Beijing Jiaotong Univ, Beijing 100044, Peoples R China.
+RP Xing, ZX (reprint author), Beijing Jiaotong Univ, Beijing 100044, Peoples R China.
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0725-5
+PY 2006
+BP 1811
+EP 1814
+PG 4
+WC Engineering, Industrial; Engineering, Electrical & Electronic
+SC Engineering
+GA BGM31
+UT WOS:000248430903048
+ER
+
+PT B
+AU Malinowski, M
+   Kolomyjski, W
+   Ski, K
+   Stynski, S
+AF Malinowski, Mariusz
+   Kolomyjski, Wojciech
+   Kazmierkowski, Marian P.
+   Stynski, Sebastian
+GP IEEE
+TI Control of variable-speed type wind turbines using direct power control
+   space vector modulated 3-level PWM converter
+SO 2006 IEEE International Conference on Industrial Technology, Vols 1-6
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Industrial Technology
+CY DEC 15-17, 2006
+CL Bombay, INDIA
+SP IEEE
+AB This paper presents implementation of system for variable-speed wind turbine based on permanent magnet synchronous generator (PMSG). System consists of six-pulse diode rectifier, dc/dc boost converter and 3-level neutral point clamped (npc) converter. Control scheme is mainly based on active and reactive power loops and contains following additional blocks: virtual flux and filter-capacitor voltage estimators for sensorless operation, active damping (AD) of possible resonances in LCL filter connecting converter to the grid, PWM modulator with DC link voltage balancing and minimization of switching losses. It is shown that the proposed control method exhibits several features as: sensorless operation, robust algorithm, minimization of switching losses as well as simple tuning procedure of AD. Simulation and experimental results have proven a good performance and verified the validity of the proposed system.
+C1 Warsaw Univ Technol, Inst Control & Ind Elect, Warsaw, Poland.
+RP Malinowski, M (reprint author), Warsaw Univ Technol, Inst Control & Ind Elect, Warsaw, Poland.
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0725-5
+PY 2006
+BP 2621
+EP 2626
+PG 6
+WC Engineering, Industrial; Engineering, Electrical & Electronic
+SC Engineering
+GA BGM31
+UT WOS:000248430905009
+ER
+
+PT B
+AU Kumar, CS
+   Sarma, AVRS
+   Prasad, PVN
+AF Kumar, CH. Siva
+   Sarma, A. V. R. S.
+   Prasad, P. V. N.
+GP IEEE
+TI Fuzzy logic based control of wind turbine driven squirrel cage induction
+   generator connected to grid
+SO 2006 IEEE International Conference on Power Electronic, Drives and
+   Energy Systems, Vols 1 and 2
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Power Electronic, Drives and Energy
+   Systems
+CY DEC 12-15, 2006
+CL New Delhi, INDIA
+SP IEEE
+DE fuzzy logic controller; induction generator; squirrel cage induction
+   generator; wind turbine
+AB The paper deals with the fuzzy logic based control of wind turbine driven squirrel cage induction generator connected to grid. The controller is proposed to maintain the speed of the squirrel cage induction generator constant for different wind speeds. The proposed fuzzy logic controller is used with several rules to implement the control strategy for the induction generator. For verification of the control, the estimators like speed, torque and flux are not required. These state variables are the feedback signals from the model of the induction machine. The computer simulation results show the controller is satisfactory in operation of induction generator with the significant improvement in the output power.
+C1 Osmania Univ, Coll Engn, Dept Elect Engn, Hyderabad 500007, Andhra Pradesh, India.
+RP Kumar, CS (reprint author), Osmania Univ, Coll Engn, Dept Elect Engn, Hyderabad 500007, Andhra Pradesh, India.
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-0-7803-9771-2
+PY 2006
+BP 759
+EP 764
+PG 6
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BFZ34
+UT WOS:000245596300141
+ER
+
+PT B
+AU Satish, T
+   Mohapatra, KK
+   Mohan, N
+AF Satish, T.
+   Mohapatra, K. K.
+   Mohan, Ned
+GP IEEE
+TI Speed sensor-less direct power control of a matrix converter fed
+   induction generator for variable speed wind turbines
+SO 2006 IEEE International Conference on Power Electronic, Drives and
+   Energy Systems, Vols 1 and 2
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Power Electronic, Drives and Energy
+   Systems
+CY DEC 12-15, 2006
+CL New Delhi, INDIA
+SP IEEE
+DE DTC; induction machines; matrix converter; wind power generation
+AB In this paper, the conventional direct torque control (DTC) scheme for induction motor drives is extended to directly control the active power (DPC) delivered to the grid by a wind turbine driven squirrel cage induction generator (SCIG). The SCIG is interfaced to the grid through an AC-AC matrix converter. A constant switching frequency based direct power control scheme with flux and power controllers is proposed. A closed loop Luenberger observer and an adaptive speed estimator are used to estimate the torque, stator flux magnitude and phase, and rotor speed of the induction generator. The simplified carrier based modulation method is used to synthesize the pulse width modulated output voltages from the matrix converter and to control the power factor of the currents on the grid side. Simulation results are presented to support the theoretical discussion.
+C1 Univ Minnesota, Minneapolis, MN 55455 USA.
+RP Satish, T (reprint author), Univ Minnesota, Minneapolis, MN 55455 USA.
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-0-7803-9771-2
+PY 2006
+BP 765
+EP 770
+PG 6
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BFZ34
+UT WOS:000245596300142
+ER
+
+PT B
+AU Mohod, SW
+   Aware, MV
+AF Mohod, S. W.
+   Aware, M. V.
+GP IEEE
+TI Grid power quality with variable speed wind energy conversion
+SO 2006 IEEE International Conference on Power Electronic, Drives and
+   Energy Systems, Vols 1 and 2
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Power Electronic, Drives and Energy
+   Systems
+CY DEC 12-15, 2006
+CL New Delhi, INDIA
+SP IEEE
+DE distortion; harmonics; hysteresis control; power quality; reactive
+   power; wind power
+AB In the grid new renewable resources are added to extract more power. This adds more of problems to grid connection. They are voltage fluctuations and harmonic distortion. In this paper various interfacing topologies are analyzed to get wind turbine power within the norms specified in IEC 61400-21. In this paper, a simplified control strategy is used. The front-end voltage source inverter is operated in hysteresis current control mode. The reference signals are derived from one of the phase voltage. The main objective of the proposed control is the three phase supply currents both in its waveform, magnitude and phase to follow three phase reference signals. When this is achieved, ideally the supply current will then be always sinusoidal, with robust control over its magnitude and phase, irrespective of the harmonies and unbalance of the load demand or the supply voltage system. This confirms nearly unity power factor on supply side with active and reactive power support from the wind turbine side.
+C1 Ram Meghe Inst Technol & Res, Dept Elect Engn, Amravati, Maharashtra, India.
+RP Mohod, SW (reprint author), Ram Meghe Inst Technol & Res, Dept Elect Engn, Amravati, Maharashtra, India.
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-0-7803-9771-2
+PY 2006
+BP 782
+EP 786
+PG 5
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BFZ34
+UT WOS:000245596300145
+ER
+
+PT S
+AU Qiao, W
+   Venayagamoorthy, GK
+   Harley, RG
+AF Qiao, Wei
+   Venayagamoorthy, Ganesh K.
+   Harley, Ronald G.
+GP IEEE
+TI Design of optimal PI controllers for doubly fed induction generators
+   driven by wind turbines using particle swarm optimization
+SO 2006 IEEE INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORK PROCEEDINGS,
+   VOLS 1-10
+SE IEEE International Joint Conference on Neural Networks (IJCNN)
+LA English
+DT Proceedings Paper
+CT IEEE International Joint Conference on Neural Network
+CY JUL 16-21, 2006
+CL Vancouver, CANADA
+SP IEEE
+ID SYSTEM; STABILITY
+AB When subjected to transient disturbances in the power grid, the variable frequency converter (VFC) is the most sensitive part in the variable-speed wind turbine generator system (WTGS) equipped with a doubly fed induction generator (DFIG). The VFC is normally controlled by a set of PI controllers. Tuning these PI controllers is a tedious work and it is difficult to tune the PI gains optimally due to the nonlinearity and the high complexity of the system. This paper presents an approach to use the particle swarm optimization algorithm to design the optimal PI controllers for the rotor-side converter of the DFIG. A new time-domain fitness function is defined to measure the performance of the controllers. Simulation results show that the proposed design approach is efficient to find the optimal parameters of the PI controllers and therefore improves the transient performance of the WTGS over a wide range of operating conditions.
+C1 Georgia Inst Technol, Sch Elect & Comp Engn, Intelligent Power Infrastruct Consortium, Atlanta, GA 30332 USA.
+RP Qiao, W (reprint author), Georgia Inst Technol, Sch Elect & Comp Engn, Intelligent Power Infrastruct Consortium, Atlanta, GA 30332 USA.
+EM weiqiao@ece.gatech.edu; gkumar@ieee.org; rharley@ece.gatech.edu
+NR 20
+TC 28
+Z9 29
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2161-4393
+BN 978-0-7803-9490-2
+J9 IEEE IJCNN
+PY 2006
+BP 1982
+EP 1987
+PG 6
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BFW67
+UT WOS:000245125903056
+ER
+
+PT B
+AU Lavoie, L
+   Lautier, P
+AF Lavoie, L.
+   Lautier, Ph.
+BE Lavoie, M
+   AlHaddad, K
+   Lagace, PJ
+TI Nonlinear predictive power controller with constraint for a wind turbine
+   system
+SO 2006 IEEE International Symposium on Industrial Electronics, Vols 1-7
+LA English
+DT Proceedings Paper
+CT IEEE International Symposium on Industrial Electronics
+CY JUL 09-13, 2006
+CL Montreal, CANADA
+SP IEEE Ind Elect Soc, ABB Canada, Ecol Technol Superieure
+AB The wind turbine models are hardly nonlinear with regards to rotational speed versus wind speed. Thus standard control techniques do not provide acceptable performances for controlling the output power over the operational range. This paper proposes a nonlinear predictive power controller adapted for a variable speed vertical axis wind turbine. This controller needs to minimize a quadratic criterion, which generally requires a high processing time. To overcome this shortcoming, an internal model control (IMC) optimization is introduced. Simulation results using a proven model of a HOW wind turbine are presented to demonstrate the effectiveness of the nonlinear predictive power controller for changes in the reference as well as for disturbances like changes in the wind speed.
+C1 Envitech Automat Inc, Pointe Claire, PQ H9R 5P9, Canada.
+RP Lavoie, L (reprint author), Envitech Automat Inc, 180 Brunswick, Pointe Claire, PQ H9R 5P9, Canada.
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0496-4
+PY 2006
+BP 124
+EP 129
+DI 10.1109/ISIE.2006.295579
+PG 6
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BFS70
+UT WOS:000244382900022
+ER
+
+PT B
+AU Tafticht, T
+   Agbossou, K
+   Cheriti, A
+   Doumbia, ML
+AF Tafticht, T.
+   Agbossou, K.
+   Cheriti, A.
+   Doumbia, M. L.
+BE Lavoie, M
+   AlHaddad, K
+   Lagace, PJ
+TI Output power maximization of a permanent magnet synchronous generator
+   based stand-alone wind turbine
+SO 2006 IEEE International Symposium on Industrial Electronics, Vols 1-7
+LA English
+DT Proceedings Paper
+CT IEEE International Symposium on Industrial Electronics
+CY JUL 09-13, 2006
+CL Montreal, CANADA
+SP IEEE Ind Elect Soc, ABB Canada, Ecol Technol Superieure
+DE wind turbine; variabte-speed control; PMSG; MPPT; modeling; simulation
+AB This paper proposes output power maximization control of wind energy system. A permanent magnet synchronous generator (PMSG) is used as a variable speed generator in the proposed wind energy system. In order to achieve the maximum power control of wind turbine across a wide range of wind speeds, a dynamic modeling and simulation of wind system with battery energy storage including wind disturbances is presented in this paper. This model should be able to support the analysis of the interaction between the mechanical structure of the wind turbine and the electrical load during different operational modes. These wind turbine concept models can be used and even extended for the study of different aspects, e.g. the assessment of power quality, control strategies, connection of the wind turbine at different types of grid and storage systems.
+C1 Univ Quebec, Inst Rech Hydrogene, Trois Rivieres, PQ G9A 5H7, Canada.
+RP Tafticht, T (reprint author), Univ Quebec, Inst Rech Hydrogene, CP 500, Trois Rivieres, PQ G9A 5H7, Canada.
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0496-4
+PY 2006
+BP 2412
+EP 2416
+DI 10.1109/ISIE.2006.295950
+PG 5
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA BFS70
+UT WOS:000244382904067
+ER
+
+PT B
+AU Senjyu, T
+   Ochi, Y
+   Muhando, E
+   Urasaki, N
+   Sekine, H
+AF Senjyu, Tomonobu
+   Ochi, Yasutaka
+   Muhando, Endusa
+   Urasaki, Naomitsu
+   Sekine, Hideomi
+GP IEEE
+TI Speed and position sensor-less maximum power point tracking control for
+   wind generation system with squirrel cage induction generator
+SO 2006 IEEE/PES Power Systems Conference and Exposition. Vols 1-5
+LA English
+DT Proceedings Paper
+CT IEEE/PES Power Systems Conference and Exposition
+CY OCT 29-NOV 01, 2006
+CL Atlanta, GA
+SP IEEE, PES
+AB Wind energy is a significant and powerful resource. It is safe, clean, and abundant. Variable speed power generation for a wind turbine is attractive, because maximum efficiency can be achieved at all wind velocities. However, this system requires a rotor speed sensor for vector control purposes, which increases the cost of the system.
+   In this paper, a technique is proposed for the position and speed sensor-less wind generation system using the electromotive voltage observer to estimate the rotor position and the full-order observer to estimate the rotor speed and the windmill output torque. The optimal operation speed to which the windmill output power is maximized is determined, and the optimal rotor flux to which the generator loss is minimized for the generator efficiency improvement is also determined. The position and speed sensorless maximum power point of the wind power generation system is controlled by using the above estimated. values, optimized operation speed and optimized rotor flux. The effectiveness of the position and speed sensor-less control of squirrel cage induction generator is verified by simulations for the wind power generation system.
+C1 Univ Ryukyus, Dept Elect & Elect Engn, Okinawa 9030213, Japan.
+RP Senjyu, T (reprint author), Univ Ryukyus, Dept Elect & Elect Engn, Okinawa 9030213, Japan.
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-0177-2
+PY 2006
+BP 2038
+EP 2043
+DI 10.1109/PSCE.2006.296238
+PG 6
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA BGH65
+UT WOS:000247029804043
+ER
+
+PT S
+AU Yang, CW
+   Liang, H
+   Jiang, JC
+AF Yang, Chuanwei
+   Liang, Hui
+   Jiang, Jiuchun
+GP IEEE
+TI Modeling and simulation of AC-DC-AC converter system for MW-level
+   direct-drive wind turbine grid interface
+SO 2006 IEEE Power Electronics Specialists Conference, Vols 1-7
+SE IEEE POWER ELECTRONICS SPECIALISTS CONFERENCE RECORDS
+LA English
+DT Proceedings Paper
+CT 37th IEEE Power Electronics Specialist Conference (PESC 2006)
+CY JUN 18-22, 2006
+CL Cheju Isl, SOUTH KOREA
+SP IEEE
+AB As global energy crisis increases, especially in the electricity energy market. It is quite necessary to exploit new ways of capturing energy. Wind turbines are more and more welcomed as a new method of obtaining electricity for it is clear energy and technology for it has been greatly developed. The electricity obtained from wind generator must be compatible with the grid. Thus there must be electromechanical converter unit to accomplish the transformation.
+   The wind turbine directly connected to a generator is referred to as the Direct-Drive concept. One advantage of the Direct-Drive concept is the removal of the losses associated to the gearbox. Power AC-DC-AC converter system is preferred to transform the energy compatible to the grid in Direct-Drive wind turbines application. This paper is about modeling and simulation of power AC-DC-AC converter including its control strategy for MW wind turbine grid interface, which can be separated into two units: a diode bridge rectifier with a multiple boost DC-DC converter and a dual IGBT inverter (VSI). Basic principle of wind turbine power converter is that the rectifier transforms the variable frequency and variable voltage electricity into DC power, then the multiple boost DC-DC converter arises the DC voltage level and keeps it nearly constant over whole wind speed to satisfy the following dual VSI.
+   According to modeling and simulation of power AC-DC-AC converter for MW wind turbine grid interface, with analysis of several important waveforms, it is verified that the power AC-DC-AC converter with its control strategy works well and can efficiently convert electricity generated by wind generator and transform it to grid successfully.
+C1 Jiao Tong Univ, Dept Elect Engn, New & Renewable Energy Res Inst, Beijing, Peoples R China.
+RP Yang, CW (reprint author), Jiao Tong Univ, Dept Elect Engn, New & Renewable Energy Res Inst, Beijing, Peoples R China.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 0275-9306
+BN 978-0-7803-9716-3
+J9 IEEE POWER ELECTRON
+PY 2006
+BP 457
+EP 460
+PG 4
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BFY10
+UT WOS:000245402500074
+ER
+
+EF
